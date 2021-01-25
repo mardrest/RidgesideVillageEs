@@ -1,0 +1,15 @@
+{
+"Name":"Occult Leather Jacket",
+"Description":"A leather variant of the prescribed uniform.",
+"HasFemaleVariant":false,
+"Price":30000,
+"Dyable":true,
+  "NameLocalization":
+    {
+		"es": "Chaqueta de cuero oculta"
+    },
+    "DescriptionLocalization":
+    {
+		"es": "Una variante de cuero del uniforme prescrito."
+    }
+}

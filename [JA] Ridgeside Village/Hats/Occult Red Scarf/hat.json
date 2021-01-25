@@ -1,0 +1,15 @@
+{
+"Name":"Occult Red Scarf",
+"Description":"Crimson red scarf worn by those who serve the Lady with the red tail.",
+"PurchasePrice":10000,
+"ShowHair":true,
+"IgnoreHairstyleOffset":false,
+  "NameLocalization":
+    {
+		"es": "Pañuelo rojo oculto"
+    },
+    "DescriptionLocalization":
+    {
+		"es": "Pañuelo rojo carmesí usado por quienes sirven a la Dama de la cola roja."
+    }
+}

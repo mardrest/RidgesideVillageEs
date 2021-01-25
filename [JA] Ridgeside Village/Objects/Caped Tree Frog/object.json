@@ -1,0 +1,22 @@
+{
+	"Name": "Caped Tree Frog",
+	"Description": "The red pattern that covers it's neck and back presents a cape like pattern. It has a strange behaviour of tucking one arm in while extending the other one whenever it leaps. This strange phenomenon seems to be not just for show, it is required because of the unique anatomical placement of it's internal organs to maintain balance. It is quite rare due to being hunted for domestic purposes.",
+	"Category": "Fish",
+	"Edibility": 10,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 2000,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Philip"],
+	},
+	"NameLocalization":
+	{
+		"es": "Rana arborícola con capa"
+	},
+	"DescriptionLocalization":
+	{
+		"es": "El patrón rojo que cubre su cuello y espalda presenta un patrón similar a una capa. Tiene un comportamiento extraño de meter un brazo mientras extiende el otro cada vez que salta. Este extraño fenómeno parece no ser solo un espectáculo, es necesario debido a la ubicación anatómica única de sus órganos internos para mantener el equilibrio. Es bastante rara por lo que a que se caza por fines domésticos."
+	},
+}

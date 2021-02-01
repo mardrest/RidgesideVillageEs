@@ -11,5 +11,3 @@ Lo que está traducido o parcialmente traducido:</br>
   Todos</br>
 - [JA] Ridgeside Village - Shirts</br>
   Todos</br>
-- [QF] Ridgeside Village</br>
-  Quest.json</br>

@@ -25,8 +25,6 @@
 	"winter_17": "The amount of people here is starting to stress me out.$a",
 	"winter_24": "Even a cranky lady like me can find joy in the Feast of the Winter Star.$9#$b#If I didn't show gratitude every once in a while, I'd be absolutely miserable!$h",
 
-
-
 //Days of the Week
 
 	//0 Hearts
@@ -49,9 +47,9 @@
 	
 	//4 Hearts
 	"Mon4": "What's up, @? Do you need anything?",
-	"Tue4": "Hello @! Do you want to see what I'm working on?$l#$b#It's actually pretty neat.$h",
+	"Tue4": "Hello @! Do you want to see what I'm working on?$6#$b#It's actually pretty neat.$h",
 	"Wed4": "I really admire how ecology maintains diversity and redundancy.#$b#It simply provides balance in nature.$h",
-	"Thu4": "Unraveling the mysteries of science is hard work.$8#$b#I find it rewarding, though.$l",
+	"Thu4": "Unraveling the mysteries of science is hard work.$8#$b#I find it rewarding, though.$h",
 	"Fri4": "Hello @! We're a little busy here today.#$b#If you need anything just write it down on a slip of paper and I'll get to it.$h",
 	"Sat4": "OH NO! I forgot to feed the fishes!!$uMr. Aguar's going to throw a fit for sure.$s",
 	"Sun4": "Abiotic factors are non-living components that... Oh I didn't see you there, @.$u#$b#What's up?$h",
@@ -61,7 +59,7 @@
 	"Tue6": "I saw Demetrius at the saloon last night. He was dancing his heart out with Robin!$9#$b#Quite literally, actually. He looked exhausted afterwards!$h",
 	"Wed6": "I'm really getting swamped from all the work Mr. Aguar's been giving me.$s#$b#It would be nice to have a helping hand every once in a while.$s",
 	"Thu6": "I wonder what caused the inconsistencies of my tests.$s#$b#If you have any ideas, please tell me.$s",
-	"Fri6": "I might go to Pika's tonight. I think I've earned a night out.#$b#If you want, you can tag along!$l",
+	"Fri6": "I might go to Pika's tonight. I think I've earned a night out.#$b#If you want, you can tag along!$6",
 	"Sat6": "I'm really glad I decided to visit Lenny earlier!$h#$b#She gave me a bunny plushie along with some strawberries to help with my stress!$h",
 	"Sun6": "I was supposed to have a day off today.$s#$e#But oh well, Mr. Aguar needs his groceries.$7#$b#So off I go to the town right now.$7#$b#Sometimes I feel like a maid to him.$a",
 	
@@ -83,14 +81,11 @@
 	"Sat10": "I never thought I'd date someone again.$l#$b#I guess second chances are real. I feel really lucky.$h",
 	"Sun10": "Have you missed me dear?$6#$b#Haha, that's alright! Come here and let me give you a hug!$h",
 
-
-
-
 //Special Dialogue
-"breakUp": "I'm sorry. It's not me, it's you. Bye.$7",
-"danceRejection": "Ugh I don't do dances, it's just a waste of energy.$7",
-"divorced": "Hah! What happened to 'Till death do us part?'$a#$e#You lied through your teeth this entire time.$a#$b#Just my luck.$s", 
-
+	"breakUp": "I'm sorry. It's not me, it's you. Bye.$7",
+	"danceRejection": "Ugh I don't do dances, it's just a waste of energy.$7",
+	"divorced": "Hah! What happened to 'Till death do us part?'$a#$e#You lied through your teeth this entire time.$a#$b#Just my luck.$s", 
+	"MovieInvitation": "Really? You'd like to watch a movie?$6#$b#With me of all people?$l#$e#Well, I suppose I could grace you with my presence. I'll just meet you there.$6",
 
 //Resort
 	"Resort_Entering": "So this is Ginger Island?#$b#It's nothing impressive. Might as well gather some water samples before I take a dip or maybe I'll look for a nice spot to relax.$7",
@@ -105,6 +100,4 @@
 	"Resort_Bar": "I definitely NEED a drink!$6#$b#Hmm... I think I'll take the strongest one they've got!$6",
 	"Resort": "I like this place. I'll have to come more often.$h",
 
-
 }
-

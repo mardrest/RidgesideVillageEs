@@ -5,7 +5,7 @@
 	"Edibility": 10,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 2000,
+	"Price": 1000,
 	"IsColored": false,
 	"GiftTastes":
 	{
@@ -17,6 +17,6 @@
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Los guijarros en su espalda son guijarros reales que ha recogido cuando era jóven. Los usa como defensa y camuflaje. Algunos de ellos recogen accidentalmente piedras preciosas y, por lo tanto, son cazados en exceso."
+		"es": "Los guijarros en su espalda son guijarros reales que ha recogido cuando era joven. Los usa como defensa y camuflaje. Algunos de ellos recolectan accidentalmente piedras preciosas y por lo tanto son cazados en exceso."
 	},
 }

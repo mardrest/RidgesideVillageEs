@@ -8,12 +8,13 @@
 	"CanSell": false,
 	"Price": 100,
 	"IsColored": false,
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Esebcia espiritual"
+		"es": "Esencia espiritual"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Una misteriosa colección de guijarros con un brillo tenue."
-	}
+		"es": "Una misteriosa colecciÃ³n de guijarros que brillan tenuemente."
+	},
+}
 }

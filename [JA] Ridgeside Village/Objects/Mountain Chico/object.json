@@ -11,12 +11,12 @@
   "Love": ["Shiro", "Yuuma"],
   "Like": ["Freddie", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Chico montañés"
+		"es": "Chico de la montaÃ±a"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Una fruta inusual que se diferencia de sus parientes. Estos crecen en arbustos silvestres en lugar de árboles."
-	}
+		"es": "Una fruta inusual que se diferencia de sus parientes. Estos crecen en arbustos silvestres en lugar de Ã¡rboles."
+	},
 }

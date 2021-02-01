@@ -1,6 +1,6 @@
 {
   "Name": "Ridge Wild Apple",
-  "Description": "A type of pineapple that has small red spines along it's skin. It tastes exactly as pineapples, the only difference would be it having a little less contents to eat.",
+  "Description": "A type of apple that has small red spines along it's skin. It tastes exactly as pineapples, the only difference would be it having a little less contents to eat.",
   "Category": "Fruit",
   "Edibility": 10,
   "EdibleBuffs": {
@@ -24,12 +24,12 @@
   "Love": ["Keahi", "Pika"],
   "Like": ["Maddie", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Piña silvestre Ridge"
+		"es": "Manzana silvestre Ridge"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Tipo de piña que tiene pequeñas espinas rojas a lo largo de su piel. Sabe exactamente como la piña, la única diferencia sería que tiene un poco menos de contenido para comer."
-	}
+		"es": "Un tipo de manzana que tiene pequeÃ±as espinas rojas a lo largo de su piel. Sabe exactamente como la piÃ±a, la Ãºnica diferencia serÃ­a que tiene un poco menos de contenido para comer."
+	},
 }

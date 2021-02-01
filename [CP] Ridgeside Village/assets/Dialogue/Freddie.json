@@ -39,7 +39,7 @@
 	//2 Hearts
 	"Mon2": "How's it going, @?$h#$e#Are you done with your farmwork for the day?#$e#Take some time to explore the village!$h",
 	"Tue2": "The younger kids sometimes run around outside our house.#$b#We can watch them play from our porch.#$e#It's good to see the children safe and having fun.$h",
-	"Wed2": "Do you know Evelyn? She's an old friend of ours.#$e#We used to go on crazy adventures together.$#e#Don't let her appearance fool you, she's got some wild stories.$h",
+	"Wed2": "Do you know Evelyn? She's an old friend of ours.#$e#We used to go on crazy adventures together.#$e#Don't let her appearance fool you, she's got some wild stories.$h",
 	"Thu2": "Pika is a great cook.#$b#You can taste the love he puts into his food.#$e#I especially like the Tom Kha Soup.$h",
 	"Fri2": "If you ever see the rumored rolling kiwi around. Be friendly to it.#$e#I mean... Why not?$h",
 	"Sat2": "It's never too late to try out new things, @!#$e#Well, it's a little late, in my case.#$b#My body can only handle so much.$s",
@@ -80,16 +80,16 @@
 	"Fri10": "%Freddie has bags under his eyes. He appears to be half asleep.",
 	"Sat10": "Lola and I were rivals the first time we worked together.#$e#We were assigned to thin out the monster population in a cave north of Castle Village, and decided to challenge each other to see who could clear out the most monsters by the end of the night.#$e#At some point, a shadow brute caused a small rockslide, and I got trapped. Lola tried to rescue me, but ended up getting stuck herself!$u#$e#We couldn't see well enough to make any sort of escape attempt, so we ended up spending the night in that little pocket of rubble.#$e#For some reason, I felt it was the right time and confessed my feelings for her, and... well, things went from there.$h",
 	"Sun10": "You're a good friend, @, and a good person.$h#$e#You've got so much potential.#$e#Always appreciate your friends and family, and never take the people around you for granted, you hear me?#$b#I'm not gonna keel over on you or anything.#$b#Just want to make sure you hear that from me.",
-		
+
+//Special Dialogue
+	"MovieInvitation": "Oh, I'd be happy to join you! It's been a long time since I was able to watch a movie!$h#$e#Lola and I would often go to the movies back in the day. We'd usually sneak in a thing or two.$4",
+
 //Resort
-"Resort_Entering": "Oh, this is something else.$u#$e#Wow.$u",
-"Resort_Leaving": "We must come back soon.$h",
-"Resort_Shore": "This brings back old memories.#$b#Good memories, too.$h#$e#Lola has always been a stunner in a bathing suit, you know.$4", 
-"Resort_Chair": "This heat is good for my old bones...#$b#...and Lola over there is good for my heart.#$e#I am a lucky man.$h",
-"Resort_Bar": "Whiskey on the rocks, please.",
-"Resort": "Haven't been here since that day...$s",
-
-
+	"Resort_Entering": "Oh, this is something else.$u#$e#Wow.$u",
+	"Resort_Leaving": "We must come back soon.$h",
+	"Resort_Shore": "This brings back old memories.#$b#Good memories, too.$h#$e#Lola has always been a stunner in a bathing suit, you know.$4", 
+	"Resort_Chair": "This heat is good for my old bones...#$b#...and Lola over there is good for my heart.#$e#I am a lucky man.$h",
+	"Resort_Bar": "Whiskey on the rocks, please.",
+	"Resort": "Haven't been here since that day...$s",
 	
 }
-

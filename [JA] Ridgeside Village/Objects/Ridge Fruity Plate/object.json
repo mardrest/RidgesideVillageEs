@@ -1,6 +1,6 @@
 {
 	"Name": "Ridge Fruity Plate",
-	"Description": "A fruit salad filled with mountain fruits topped with a special dressing!",
+	"Description": "Â¡Una ensalada de frutas rellena de frutas de la montaÃ±a con un aderezo especial!",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -23,13 +23,12 @@
 	{
 		"Love": ["Maddie", "Flor"],
 	},
-
 	"NameLocalization":
 	{
 		"es": "Plato de frutas Ridge"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "¡Una ensalada de frutas rellena de frutas de la montaña con un aderezo especial!"
+		"es": ""
 	},
 }

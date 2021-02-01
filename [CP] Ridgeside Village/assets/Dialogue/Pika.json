@@ -41,7 +41,7 @@
 	"Tue2": "Sweet, sour, salty, bitter and umami...#$b#So many flavours!#$b#A true chef spends his life learning their delicate balance.$h",
 	"Wed2": "Keahi can be really naugthy sometimes!#$b#I'm not sure how to punish him properly...$s#$b#Don't want him to resent me.$4#$b#But I don't want him to grow up thinking it's okay to act out!$a",
 	"Thu2": "I told my boy to cook some scrambled eggs this morning and my, oh my!$h#$b#He might one day be a better chef than I am.#$b#The student might finally surpass the master!$h",
-	"Fri2": "Elliott visited me earlier and he asked for Tom Kha soup.#$b#He said it clears his writer's block...$h",
+	"Fri2": "Elliot visited me earlier and he asked for Tom Kha soup.#$b#He said it clears his writer's block...$h",
 	"Sat2": "Keahi's getting on my nerves lately.$a#$b#He's always getting into trouble with the other villagers because of his and Trinnie's pranks.$s",
 	"Sun2": "I really want to take a break on Sundays so that I can spend more time with Keahi.$s",
 	
@@ -80,15 +80,16 @@
 	"Fri10": "Mahalo, my friend! Thank you.#$b#Thank you for listening to all my stories and eating all my food!$h",
 	"Sat10": "One day Keahi will take over the restaurant.#$b#Just like my tama, my father, used to say: 'Always weave a new net before the old one breaks'.#$e#Make sure you tell your family you love them, @.$h",
 	"Sun10": "I wish my wahine was here to see our son grow into the nice young boy he is today, as he makes his own ohana.$4",
+
+//Special Dialogue
+	"MovieInvitation": "Mahalo! I think we deserve a break after all the work we do.$h#$e#Keahi keeps bugging me to take him but I've been way too busy.#$b#I should take him next time...$s",
 	
 //Resort
-"Resort_Entering": "I haven't been on Ginger Island since the volcano erupted years ago.$s#$b#So much has changed...$4",
-"Resort_Leaving": "Every sunset brings the promise of a new dawn.$h",
-"Resort_Shore": "I should've brought my surfboard.$h",
-"Resort_Chair": "Finding some time to relax is hard when you're running a restaurant.$s#$b#I have set the bar pretty high, haven't I?$h",
-"Resort_Bar": "They don't serve Cherry Berry Shakey here!$a#$b#Such a shame!$s",
-"Resort": "I'm really happy to be here.$h#$b#It reminds me of home.#$b#Perhaps you'll visit Ember Island one day as well...$h",
-
+	"Resort_Entering": "I haven't been on Ginger Island since the volcano erupted years ago.$s#$b#So much has changed...$4",
+	"Resort_Leaving": "Every sunset brings the promise of a new dawn.$h",
+	"Resort_Shore": "I should've brought my surfboard.$h",
+	"Resort_Chair": "Finding some time to relax is hard when you're running a restaurant.$s#$b#I have set the bar pretty high, haven't I?$h",
+	"Resort_Bar": "They don't serve Cherry Berry Shakey here!$a#$b#Such a shame!$s",
+	"Resort": "I'm really happy to be here.$h#$b#It reminds me of home.#$b#Perhaps you'll visit Ember Island one day as well...$h",
 
 }
-

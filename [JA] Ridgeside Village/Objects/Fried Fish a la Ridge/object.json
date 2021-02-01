@@ -1,6 +1,6 @@
 {
 	"Name": "Fried Fish a la Ridge",
-	"Description": "A Pika special fried fish! The rich umami flavor is paired with the crispy and salty breading.",
+	"Description": "A Pika special! The rich umami flavor is paired with crispy and salty breading.",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -23,13 +23,12 @@
 	{
 		"Love": ["Philip", "Ian"],
 	},
-
 	"NameLocalization":
 	{
 		"es": "Pescado frito a la Ridge"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "¡Un pescado frito especial de Pika! El rico sabor a umami se combina con el empanizado crujiente y salado."
+		"es": "Â¡Un especial de Pika! El rico sabor umami se combina con un empanizado crujiente y salado."
 	},
 }

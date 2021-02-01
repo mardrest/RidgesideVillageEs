@@ -1,6 +1,6 @@
 {
   "Name": "Frost Clump Berry",
-  "Description": "A strange type of berry that seems to ripen from being covered in snow. It tastes like a grape with mixed a hint of melon.",
+  "Description": "A strange berry that only seems to ripen when covered in snow. It tastes like grape with a hint of melon.",
   "Category": "Fruit",
   "Edibility": 15,
   "Price": 30,
@@ -11,12 +11,12 @@
   "Love": ["Philip", "Bert"],
   "Like": ["Lenny", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Baya helada"
+		"es": "Baya congelada"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Un extraÒo tipo de baya que parece madurar al estar cubierta de nieve. Sabe a uva mezclada con un toque de melÛn."
-	}
+		"es": "Una baya extra√±a que solo parece madurar cuando est√° cubierta de nieve. Sabe a uva con un toque de mel√≥n."
+	},
 }

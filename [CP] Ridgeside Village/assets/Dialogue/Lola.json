@@ -80,16 +80,16 @@
 	"Fri10": "I'm afraid Freddie is working too hard and not doing enough for himself.$s#$b#He goes to such lengths to take care of me, but here I am, a frail old bat.$s#$b#I hope he's had lunch by now...$s",
 	"Sat10": "Did I ever tell you about my favorite assignment?#$b#It's the one that I'm still working on, every day.$h#$e#When Freddie and I got married, instead of traditional vows, we had the minister assign a mission to the both of us.#$b#We were tasked to 'always be there for each other, to have each other's backs, to be each other's best friend, to take care, to love and to protect each other till the day we die.'$4#$b#That's the most important directive I've ever received, and he feels the same.#$b#We make the best partners, no matter the context.$4",
 	"Sun10": "Thank you for everything @, especially for always visiting me and Freddie whenever you can.$h#$e#Always remember to spend time with your loved ones and do the things that make you feel alive.#$b#Never mind what others may think!$h#$b#And if you ever decide that you want to learn a few extra skills, don't be afraid to ask!#$b#I could still show you a few moves.$h",
-	
-//Resort
-"Resort_Entering": "Oh, would you look at this!$h#$b#This brings back some memories!$4",
-"Resort_Leaving": "We'll be back soon.#$b#I'll make sure of it.$h",
-"Resort_Shore": "Out there to the west is Sunset Island, and past that and a little north is Rialia's southern shore.#$b#Do you see the shadow on the horizon?",
-"Resort_Chair": "It's like staring out at an ocean of possibilities.#$b#There are so many places you could go from here!$h",
-"Resort_Bar": "I don't drink much, but it'd be a shame to pass up a margarita, don't you think?$h",
-"Resort": "This place is new to me, but it feels so familiar!",
 
+//Special Dialogue
+	"MovieInvitation": "I'd love to watch a movie with you, dear.$h#$e#Between you and me, Freddie and I were almost in a movie once!#$b#We had to decline because we'd rather be behind the scenes.$u",
+
+//Resort
+	"Resort_Entering": "Oh, would you look at this!$h#$b#This brings back some memories!$4",
+	"Resort_Leaving": "We'll be back soon.#$b#I'll make sure of it.$h",
+	"Resort_Shore": "Out there to the west is Sunset Island, and past that and a little north is Rialia's southern shore.#$b#Do you see the shadow on the horizon?",
+	"Resort_Chair": "It's like staring out at an ocean of possibilities.#$b#There are so many places you could go from here!$h",
+	"Resort_Bar": "I don't drink much, but it'd be a shame to pass up a margarita, don't you think?$h",
+	"Resort": "This place is new to me, but it feels so familiar!",
 
 }
-
-

@@ -24,12 +24,12 @@
     "Like": ["Abigail", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Jodi", "Sandy", "Demetrius", "Gus", "Pierre"],
     "Dislike": ["Krobus", "Dwarf"]
   },
-  "NameLocalization":
-    {
-		"es": "Batido Ridgeside"
-    },
-    "DescriptionLocalization":
-    {
-		"es": "Una especialidad de Villa Ridgeside"
-    }
+	"NameLocalization":
+	{
+		"es": "Shaketini Ridgeside"
+	},
+	"DescriptionLocalization":
+	{
+		"es": "Una especialidad de la aldea Ridgeside"
+	},
 }

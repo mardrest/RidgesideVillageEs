@@ -23,7 +23,6 @@
 		{
 			"ItemType": "Object",
 			"ItemNames": [
-				"Tree Fertilizer",
 				"Cauliflower Seeds",
 				"Garlic Seeds",
 				"Bean Starter",
@@ -46,7 +45,6 @@
 		{
 			"ItemType": "Object",
 			"ItemNames": [
-				"Tree Fertilizer",
 				"Corn Seeds",
 				"Pepper Seeds",
 				"Melon Starter",
@@ -56,11 +54,20 @@
 			"Stock": 6,
 			"When": [ "!z summer" ] 
 		},
+		//Summer Jeric 8 hearts
+		{
+			"ItemType": "Object",
+			"ItemNames": [
+				"Red Cabbage Seeds",
+				],
+			"Stock": 6,
+			"StockPrice": 100,
+			"When": [ "f Jeric 1500/!z summer" ] 
+		},
 		//Fall
 		{
 			"ItemType": "Object",
 			"ItemNames": [
-				"Tree Fertilizer",
 				"Yam Seeds",
 				"Bok Choy Seeds",
 				"Eggplant Starter",
@@ -73,10 +80,10 @@
 		{
 			"ItemType": "Object",
 			"ItemNames": [
-				"Tree Fertilizer",
 				"Mixed Seeds",
 				],
 			"Stock": 6,
+			"StockPrice": 100,
 			"When": [ "!z winter" ] 
 		},
 	],
@@ -182,7 +189,7 @@
 	"ShopName": "RSVMysticFalls1",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
-	"Quote": "Mystic Falls of Companions: 'One who bonds with their neighbors and shares their joys and sorrows are blessed by Yoba.'",
+	"Quote": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -281,7 +288,7 @@
 	"ShopName": "RSVMysticFalls2",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
-	"Quote": "Mystic Falls of Love: 'Being able to catch the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
+	"Quote": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -366,7 +373,7 @@
 	"ShopName": "RSVMysticFalls3",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
-	"Quote": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are the ones carried by those who decide for the greater good of all'",
+	"Quote": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [

@@ -28,7 +28,7 @@
 //Days of the Week
 
 	//0 Hearts
-	"Mon": "Why aren't you at your farm?#$e#Don't slack off",
+	"Mon": "Why aren't you at your farm?#$e#Don't slack off.",
 	"Tue": "Lenny says I should take it 'easy peasy lemon squeezy'.#$b#Bah! Easy for her to say.#$b#My life has been 'difficult difficult lemon difficult!'$a",
 	"Wed": "Hey you. Have you met my daughter?#$b#Her name's Corine.$h#$b#You can be friends with her, but you better be real nice to her!$a",
 	"Thu": "What's that?#$e#@? What now?#$e#Speak up or shut up!$a",
@@ -80,15 +80,20 @@
 	"Fri10": "Corine and I cleaned up my collection earlier.#$b#I found some extra stuff lying around, maybe you can make use of these.#$b#Here.[334]",
 	"Sat10": "'The days seem much shorter...$s#$b#Dark nights just linger on...$s#$b#Dreams turn into nightmares...$s#$b#When the one you love has gone.$s#$b#I miss her, @.$4",
 	"Sun10": "I saw the strangest man the other day.$u#$b#He was wearing a purple robe. He was real funny-lookin', too.$h#$b#He just looked at me and then nodded.#$b#Such a weird fella.$h",
-	
-//Resort
-"Resort_Entering": "It's a little sunny.#$b#Corine said to bring a hat but I'll be fine.$h",
-"Resort_Leaving": "I think I have sunburn on the top of my head.$s#$b#I should've worn my hat!$a",
-"Resort_Shore": "I don't like swimming.$a#$b#Takes a lot of energy for a guy like me to stay floating.$s",
-"Resort_Chair": "Wake me up when the sun sets, @.$h",
-"Resort_Bar": "Ha, I'd rather stay at this bar all day than go for a swim!$h",
-"Resort": "I don't like sand.$s#$b#It's coarse and rough and irritating and it gets everywhere.$a",
 
+//Special Dialogue
+	"MovieInvitation": "Movies!? I haven't seen one in years!#$b#This better be good.$a",
+
+//Locations
+    "Saloon": "Bah!$a#$b#Gus calls this liquor?$a",
+    "LogCabinHotelLobby": "I'm here to see Richard. He's an old friend of mine.",
+
+//Resort
+	"Resort_Entering": "It's a little sunny.#$b#Corine said to bring a hat but I'll be fine.$h",
+	"Resort_Leaving": "I think I have sunburn on the top of my head.$s#$b#I should've worn my hat!$a",
+	"Resort_Shore": "I don't like swimming.$a#$b#Takes a lot of energy for a guy like me to stay floating.$s",
+	"Resort_Chair": "Wake me up when the sun sets, @.$h",
+	"Resort_Bar": "Ha, I'd rather stay at this bar all day than go for a swim!$h",
+	"Resort": "I don't like sand.$s#$b#It's coarse and rough and irritating and it gets everywhere.$a",
 
 }
-

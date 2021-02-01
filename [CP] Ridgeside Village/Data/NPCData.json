@@ -35,6 +35,7 @@
 			"Trinnie": "child/polite/outgoing/negative/female/non-datable/null/Town/spring 16/Bert 'dad' Olga 'mom' Alissa 'sister'/BertHouse2ndFloor 18 5/Trinnie",
 			"Ysabelle": "teen/rude/outgoing/positive/female/datable/null/Town/spring 11/Richard 'grandfather'/LogCabinHotel2ndFloor 14 5/Ysabelle",
 			"Yuuma": "child/neutral/neutral/neutral/male/non-datable/null/Town/fall 4/Shiro 'brother'/ShiroHouse 14 5/Yuuma",
+			"Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//RSVAbandonedHouse 5 5/Undreya",
 			"Helen": "adult/neutral/neutral/neutral/female/non-datable/null/Other/null/Ezekiel 'husband' Corine 'daughter'/RSVHiddenWarp2 5 5/Helen",
 			
 		},
@@ -50,53 +51,53 @@
 		"Target": "Data/NPCGiftTastes",
 		"Entries": {
 		
-			"Aguar": "I'm truly grateful for this gift./62 225 107 118/This is adequate, thank you./768 769 130 258/I find this rather unpleasant.//This is atrocious.//I'll use this for an experiment later./-4/ ",
+			"Aguar": "I'm truly grateful for this gift./62 225 107 118/This is adequate, thank you./768 769 130 258/I find this rather unpleasant./266/This is atrocious./82/I guess I'll use this for an experiment later.../-4/ ",
 
-			"Alissa": "I love this! Thank you so much, @!/211 276 60 398/I like this, thanks!/22 68 400 613/I’m sorry but I’m fond of these..//What are you doing! Get that away from me!.//Oh you’re giving me this? Thanks @../-4/ ",
+			"Alissa": "I love this! Thank you so much, @!/211 276 60 398/I like this, thanks!/22 68 400 613/I'm sorry but I'm not fond of thise./PLACEHOLDER/What are you doing! Get that away from me!/PLACEHOLDER/Oh, you're giving me this? Thanks @./-4/ ",
 
-			"Bert": "Wow! You’re really giving me this? Thanks a bunch!./207 336 72 645/Thanks for the gift @!./86 284 270 280/Are you pulling a prank?.//Keep at it and I’ll teach you some manners..//Oh a gift, Thank you @./-4/ ",
+			"Bert": "Wow! You're really giving me this? Thanks a bunch!/207 336 72 645/Thanks for the gift @!/86 284 270 280/What? Is this a prank?/PLACEHOLDER/Are you trying to get me killed!?/PLACEHOLDER/Oh a gift, Thank you, @./-4/ ",
 			
-			"Corine": "Oh wow @! These are wonderful! Thank you!./591 227 196 340/My oh my such a lovely gift. Thanks../280 398 638 254/Eww what’s that?.//Uhg, Please don’t talk to me after this..//Oh wow a gift huh? Thanks @./-4/ ",
+			"Corine": "Oh wow, @! This is wonderful! Thank you!/591 227 196 340/This is a nice gift. Thanks!/280 398 638 254/Eww, what's that?/PLACEHOLDER/Uh, please don't./PLACEHOLDER/Oh wow, a gift huh? Thanks, @./-4/ ",
 			
-			"Ezekiel": "Why you little cheeky youngin! I love this! Thanks a bunch!./198 386 190 129/Hmph, This is a decent gift. Thank you../78 403 24 192/Are you mocking me?.//Wait till I get my hands on you! You little squirt!.//What am I supposed to do with this?./-4/ ",
+			"Ezekiel": "What!? I love this! Thanks a bunch!/198 386 190 129/This is nice, I guess. Thanks./78 403 24 192/Are you mocking me?/PLACEHOLDER/What!? Wait till I get my hands on you!/PLACEHOLDER/What am I supposed to do with this?/-4/ ",
 				
-			"Flor": "These are just among my favorites! Uhm... Thank you!./253 64 268 233/I like these.. I’m really grateful!./260 412 22 418/May.. May I ask for you to go away?.//Now this is just absurd! Get away from me!.//Uhhm... Thank you I suppose../-4/ ",
+			"Flor": "This one of my favorite things! Thank you!/253 64 268 233/I like this. Thank you!/260 412 22 418/I... Uh... I don't really like this./PLACEHOLDER/Are you... Are you bullying me?/PLACEHOLDER/Uh... Thank you I suppose.../-4/ ",
 			
-			"Freddie": "This is a wonderful gift, young one. I am truly grateful./236 278 86 20/My this is a good gift. Thank you./380 396 348 252/I don’t like this item young one.//You young people need to learn some manners!.//Thank you @ for the gift./-4/ ",
+			"Freddie": "This is a wonderful gift, adventurer. I am truly grateful./236 278 86 20/This is a good gift. Thank you./380 396 348 252/I don't like this, adventurer./PLACEHOLDER/Are you trying to make an enemy out of me?/PLACEHOLDER/Thank you for the gift, @./-4/ ",
 			
-			"Ian": "These are great! Thank you @. Really!./233 213 272 400/I can really use this, Thanks a lot!./403 24 812 397/Uhhh. I guess I don’t have a choice?.//Okay listen, This isn’t funny okay? Now leave me alone..//I guess this is a gift? Thanks../-4/ ",
+			"Ian": "This is great! Thank you, @. Really!/233 213 272 400/This is useful. Thanks a lot!/403 24 812 397/Giving this to someone is kind of mean./PLACEHOLDER/Okay, wow. This isn't funny. Please leave me alone./PLACEHOLDER/I guess this is a gift? Thanks./-4/ ",
 			
-			"Jeric": "Woah man! These look great! Thanks a bunch!./637 224 444 597/This is one good gift @. Thanks!./20 335 266 408/Sorry to say but I don’t like these..//Uh is this a joke? Really funny..//That’s alright I guess. Thanks!./-4/ ",
+			"Jeric": "Whoa! This is great! Thanks a lot!/637 224 444 597/This is a nice gift, @. Thanks!/20 335 266 408/Sorry, but I don't like this./PLACEHOLDER/Uh, is this a joke? Really funny, @.../PLACEHOLDER/This is alright, I guess./-4/ ",
 			
-			"Jio": "This is my favorite! How did you know?. I’m truly thankful./605/This is a decent gift. Thanks./406/Stop wasting my time would you?.//Do you have a deathwish?.//Hm../-4/ ",
+			"Jio": "You know what I desire? I'm honored./604/Thank you, kind stranger./406/Please leave./PLACEHOLDER/Do you have a deathwish, stranger?/PLACEHOLDER/Hmm.../-4/ ",
 			
-			"Keahi": "Awesome @! These are awesome! Thanks!./223 224 372 282/Nice gift @! Thanks a lot!./396 404 567 430/Ew! What’s that!?.//Yuck! I hate those!.//Hey! I can use this as target practice I think, Thanks!./-4/ ",
+			"Keahi": "Awesome, @! This is awesome! Thanks!/223 224 372 282/Nice gift, @! Thanks a lot!/396 404 567 430/Ew! What's that!?/PLACEHOLDER/Yuck! I hate this!/PLACEHOLDER/Hey! I can use this for target practice, I think... Thanks!/-4/ ",
 			
-			"Kenneth": "Man oh man I’ve been looking for one of these! Thank you!./206 400 338 576/This is a great gift @. Thank you./90 184 395 538/Are you really this free to bother others?.//I hate that. Sorry but I really do..//Oh? Thank you @./-4/ ",
+			"Kenneth": "Wow! I've been looking for one of these! Thank you!/206 400 338 576/This is a nice gift, @. Thank you./90 184 395 538/I don't like this at all, @?/PLACEHOLDER/Please don't give me your trash./PLACEHOLDER/Oh? Thank you, I think.../-4/ ",
 			
-			"Kiwi": "Kiwi loves this! Kiwi likes you! Thank you!./268/Kiwi accepts../-4/Kiwi dislikes these.//Kiwi hates this! *throws shurikens at you*.//Hmmmm.// ",
+			"Kiwi": "Kiwi love this! Kiwi like you! Thank you!/268/Kiwi like this. Shee!/-4/Kiwi not like this. Shoo!/PLACEHOLDER/Kiwi hate this! Kiwi hate @. KIWI STAB!/PLACEHOLDER/For Kiwi? Why?/PLACEHOLDER/ ",
 			
-			"Lenny": "I love these! Thank you @! This brought a smile to my face today!./235 260 416 573/These are good gifts @. Thank you./400 376 264 196/I generally dislike these @. I’m sorry..//Why so rude! Fix your manners @.//I guess these are gifts? Thanks./-4/ ",
+			"Lenny": "I love this! Thank you, @! This brings a smile to my face!/235 260 416 573/This is a nice gift, @. Thank you./400 376 264 196/I don't like this, @. I'm sorry./PLACEHOLDER/Why would any sane person want this as a gift?/PLACEHOLDER/I'll... Uh... put it somewhere safe. Thanks./-4/ ",
 			
-			"Lola": "My, dear these are very lovely. Thank you./230 64 241 306/Oh what wonderful gifts. Thanks!./769 107 454 575/I am displeased with these gifts @.//I am not fond of these kinds of gifts @, please get it out of my sight.//I shall accept this gift, thank you./-4/ ",
+			"Lola": "This is very lovely gift, dear. Thank you./230 64 241 306/Oh, I like this!/769 107 454 575/I accept... reluctantly, @./PLACEHOLDER/You know. Giving someone this constitutes a war declaration in some cultures.../PLACEHOLDER/Thanks, I guess./-4/ ",
 			
-			"Maddie": "Oh! Is that? I love those! I mean.. Thanks../196 611 393 586/This is pleasant.Thank you../82 418 283 284/I’m busy, put that somewhere far..//Uhg! *slaps you*.//Hmph, Thanks, But don’t waste my time./-4/ ",
+			"Maddie": "Oh! Is that? I love this! I mean... Thanks./196 611 393 586/I like this! Thank you./82 418 283 284/Please don't bother me./PLACEHOLDER/This is awful. You're awful!/PLACEHOLDER/Uh, thanks, I guess./-4/ ",
 			
-			"Olga": "Why dear thank you so much for these!./212 348 376 188/Thank you @! These are nice./184 22 281 402/Uhg. What is this?.//Don’t stress me out please? Get that away from me.//Thanks I suppose../-4/ ",
+			"Olga": "Oh dear! Thank you so much!/212 348 376 188/Thank you, @. This is nice./184 22 281 402/What in Yoba's name is this?/PLACEHOLDER/Whhy would you give me this? Are you trying to be mean?/PLACEHOLDER/Thanks, I suppose.../-4/ ",
 			
-			"Philip": "Hey these are awesome! Thanks @!./219 86 264 591/Nice gifts @. Thank you../80 223 350 157/No thank you...//Uhgg, I hate these so much..//Thank you @./-4/ ",
+			"Philip": "Hey, this is awesome! Thanks, @!/219 86 264 591/Nice gift, @. Thank you./80 223 350 157/No, thank you.../PLACEHOLDER/Oh Yoba, I hate this so much./PLACEHOLDER/Thank you, @./-4/ ",
 			
-			"Pika": "Mahalo! Thank you! This is a favorite of mine!./733 60 342 350/This is a good item @. Thanks./157 346 419 246/I’m not into these stuff. I’ll just set it aside.//Are you insulting me @? How dare you..//Hm. Thanks for this @./-4/ ",
+			"Pika": "Mahalo! Thank you! This is a favorite of mine!/733 60 342 350/This is a nice gift, @. Thanks./157 346 419 246/I don't think so, @./PLACEHOLDER/This is weliweli. This is horrible!/PLACEHOLDER/Thanks for this, @./-4/ ",
 			
-			"Richard": "My this is splendid @! Much appreciated! Thank you!./72 218 348 604/Hmm, A quality gift. Thank you./386 86 552 303/Not really my taste @..//How repulsive!.//Oh? What do I do with this?. Thanks I guess./-4/ ",
+			"Richard": "Splendid gift, @! I'm humbled by your generosity. Thank you!/72 218 348 604/Hmm, a quality gift. Thank you./386 86 552 303/Not really my taste, @./PLACEHOLDER/How repulsive!/PLACEHOLDER/Oh? What do I do with this? Thanks, I guess./-4/ ",
 			
-			"Shiro": "Why thanks @. I didn’t expect this! Thank you!./414 241 610 420/You’re so kind. Thanks./424 190 399 304/I dislike these stuff..//I hate these. Sorry but I’m displeased..//Ehr, Thank you @./-4/ ",
+			"Shiro": "I didn't expect this! I'll cherish this forever. Thank you!/414 241 610 420/You're so kind. Thanks!/424 190 399 304/I dislike this./PLACEHOLDER/I hate this. Sorry, but I really do./PLACEHOLDER/Uh, thank you?/-4/ ",
 			
-			"Trinnie": "Eeep! These are pretty! Thank you @!!./233 797 211 221/Cutie gifts! Thank you!!./591 22 428 400/Eeek! I don’t like these!.//Ewww!! I hate these!.//Uhmm ehhh?? Thank you?./-4/ ",
+			"Trinnie": "This is great! Thank you, @!!/233 797 211 221/I like this gift! Thank you!/591 22 428 400/Ah! I don't like this!/PLACEHOLDER/Ewww! I hate this!/PLACEHOLDER/Uh.... What do you want me to do with this?/-4/ ",
 			
-			"Ysabelle": "These are just delightful @! Thank you!!./72 228 268 636/Thank you, these are quite good./348 340 421 258/Uhg, Ew, Get that away from me.//Wow, very unkind of you @. I hate these.//Oh, Thank you @./-4/ ",
+			"Ysabelle": "This is just delightful, @! Thank you!/72 228 268 636/Thank you, that's generous of you./348 340 421 258/Ew, get that away from me./PLACEHOLDER/I hate this. Please leave me alone./PLACEHOLDER/Oh, thank you, @./-4/ ",
 		
-			"Yuuma": "Thank you @, I really like these!./194 613 398 216/These are great! Thanks!./167 176 92 311/I don’t like these @..//I’m telling my brother! You’re rude!.//This is appreciated. Thanks./-4/ ",
+			"Yuuma": "Thank you, @! Thanks for thinking of me!/194 613 398 216/This is great! Thanks!/167 176 92 311/I don't like this, @./PLACEHOLDER/I'm telling my brother! You're rude!/PLACEHOLDER/Thanks.../-4/ ",
 
 		},
 	},
@@ -117,6 +118,14 @@
 		"Action": "Load",
 		"Target": "Portraits/Aguar_Beach, Portraits/Alissa_Beach, Portraits/Bert_Beach, Portraits/Corine_Beach, Portraits/Ezekiel_Beach, Portraits/Flor_Beach, Portraits/Freddie_Beach, Portraits/Ian_Beach, Portraits/Jeric_Beach, Portraits/Jio_Beach, Portraits/Keahi_Beach, Portraits/Kenneth_Beach, Portraits/Kiwi_Beach, Portraits/Lenny_Beach, Portraits/Lola_Beach, Portraits/Maddie_Beach, Portraits/Olga_Beach, Portraits/Philip_Beach, Portraits/Pika_Beach, Portraits/Richard_Beach, Portraits/Shiro_Beach, Portraits/Trinnie_Beach, Portraits/Ysabelle_Beach, Portraits/Yuuma_Beach, Portraits/Undreya_Beach, Portraits/Helen_Beach",
 		"FromFile": "assets/BeachPortraits/{{PTYPE}}/{{TargetWithoutPath}}.png"
+	},
+
+	{
+		"LogName": "PortraitChange",
+		"Action": "EditImage",
+		"Target": "Portraits/Aguar, Portraits/Alissa, Portraits/Bert, Portraits/Corine, Portraits/Ezekiel, Portraits/Flor, Portraits/Freddie, Portraits/Ian, Portraits/Jeric, Portraits/Jio, Portraits/Keahi, Portraits/Kenneth, Portraits/Kiwi, Portraits/Lenny, Portraits/Lola, Portraits/Maddie, Portraits/Olga, Portraits/Philip, Portraits/Pika, Portraits/Richard, Portraits/Shiro, Portraits/Trinnie, Portraits/Ysabelle, Portraits/Yuuma, Portraits/Undreya, Portraits/Helen",
+		"FromFile": "assets/Portraits/Official/{{TargetWithoutPath}}.png",
+		"When": { "IndividualRealismPortrait": "{{TargetWithoutPath}}"}
 	},
 	
 
@@ -207,5 +216,18 @@
 		"When": { "HasMod: |contains=Karmylla.ImmersiveMaps": true, },
 	},
 	
+	{
+		"LogName": "Kenneth SVE Schedule",
+		"Action": "EditData",
+		"Target": "Characters/schedules/Kenneth",
+		"Entries": {
+			"spring": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 RidgesideVillage 80 38 3/1400 RidgesideVillage 89 38 1/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
+			"summer": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 RidgesideVillage 84 61 2/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
+			"fall": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 ScienceHouse 2 22 1/1500 Mountain 20 26 2/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
+			"winter": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 Mountain 30 21 0/1800 KennethHouse 5 8 3/2200 KennethHouse 16 5 1 kenneth_sleep",
+			"marriage_Mon": "700 Town 24 54 0 kenneth_fixback/900 Town 25 61 3 kenneth_fixleft/930 Town 33 57 0 kenneth_fixback/1000 Town 37 67 1 kenneth_fixright/1030 Town 30 74 2 kenneth_fixfront/1100 Town 27 74 2 kenneth_fixfront/1130 Town 21 67 3 kenneth_fixleft/1200 RidgesideVillage 80 38 3/1400 RidgesideVillage 89 38 1/2200 BusStop -1 23 3",
+		},
+		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true, },
+	},
 ]
 }

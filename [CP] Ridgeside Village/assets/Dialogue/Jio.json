@@ -80,15 +80,16 @@
 	"Fri10": "This land has old secrets, and you'll live a happier life if you don't know them.#$e#Trust me.$h",
 	"Sat10": "Don't go wandering off into the ridge at night.$a#$e#I will not be around if you get into trouble.$s",
 	"Sun10": "The unseen blade is the deadliest.#$e#Always flank your enemies.$h",
+
+//Special Dialogue
+	"MovieInvitation": "A movie?#$b#I am quite interested in seeing these moving pictures.#$b#I'll be there.$h",
 	
 //Resort
-"Resort_Entering": "I sense activity within that volcano.$4#$e#Not the earth.#$b#Those within it.#$b#...$u#$b#Dwarves.$4#$b#It must be dwarves.$h",
-"Resort_Leaving": "To tell the truth, I'm looking forward to being back in the valley.",
-"Resort_Shore": "Do you people actually enjoy this kind of heat?$s",
-"Resort_Chair": "Too bright.$a#$e#Too hot.$s",
-"Resort_Bar": "Alcohol numbs the senses... that might be preferable here.$s",
-"Resort": "Kiwi appears to be enjoying herself.$h",
-
+	"Resort_Entering": "I sense activity within that volcano.$4#$e#Not the earth.#$b#Those within it.#$b#...$u#$b#Dwarves.$4#$b#It must be dwarves.$h",
+	"Resort_Leaving": "To tell the truth, I'm looking forward to being back in the valley.",
+	"Resort_Shore": "Do you people actually enjoy this kind of heat?$s",
+	"Resort_Chair": "Too bright.$a#$e#Too hot.$s",
+	"Resort_Bar": "Alcohol numbs the senses... that might be preferable here.$s",
+	"Resort": "Kiwi appears to be enjoying herself.$h",
 
 }
-

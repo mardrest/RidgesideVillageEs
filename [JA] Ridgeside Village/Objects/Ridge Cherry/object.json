@@ -11,12 +11,12 @@
   "Love": ["Trinnie", "Corine"],
   "Like": ["Alissa", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
 		"es": "Cereza Ridge"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Un tipo de cereza que se encuentra cerca de la cordillera. Presenta un sabor dulce y �cido."
-	}
+		"es": "Un tipo de cereza que se encuentra cerca de las crestas de las montañas. Presenta un sabor dulce y ácido."
+	},
 }

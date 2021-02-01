@@ -14,35 +14,35 @@
 		"Target": "Data/EngagementDialogue",
 		"Entries": {
 		
-				"Alissa0": "Wait, @? What are you doing?$l#$b#Oh don't tell me!! No way!!$l#$b#It's a YES ofcourse @! I love you!$l#$b#*Smooch*$l",
+				"Alissa0": "Wait, @? What are you doing?$l#$b#Oh, don't tell me! No way!$l#$b#It's a YES of course, @! I love you!",
 				"Alissa1": "I can't wait to tell Olga and Bert!! I'm so happy @!$h",
 				
-				"Corine0": "Hey uhmm @?? Is that what I think it is??$l#$b#Oh my yoba, @... *smooch*$l#$b#Ofcourse! Ofcourse it's a yes! I really really love you.$l",
+				"Corine0": "Hey, uhm... @? Is that what I think it is?$l#$b#Oh my Yoba, @...$l#$b#Of course! Of course it's a yes! I really love you.$l",
 				"Corine1": "I'll tell dad later. He will be so surprised!$h",
 				
-				"Flor0": "Oh wow, that necklace looks interesting @...#$b#Wait..$u#$b#Are you??$l#$b#@!!!! I... I don't know what to say..$l#$b#Yes.. Yes I will marry you!$l",
-				"Flor1": "I'm so excited @... I love you!!$l",
+				"Flor0": "Oh wow, that necklace looks interesting, @...#$b#Wait...$u#$b#Are you?$l#$b#@! I... I don't know what to say...$l#$b#Yes! Yes, I will marry you!$l",
+				"Flor1": "I'm so excited, @... I love you!$l",
 				
-				"Ian0": "Oh hey. Are you joking? Don't tell me you're not joking!$l#$b#@! No way! Really?$h#$b#Ofcourse I'll marry you! I love you.$l",
-				"Ian1": "*Kisses your forehead* Wow. I can't believe we're getting married!$h",
+				"Ian0": "Oh hey. Are you joking? Don't tell me you're joking!$l#$b#@! No way! Really?$h#$b#Of course I'll marry you! I love you.$l",
+				"Ian1": "Wow. I can't believe we're getting married!$h",
 				
-				"Jeric0": "@!!!$u#$b#I.. I don't know what to say!$l#$b#I'm speechless! Uhmm..$l#$b#Come here you! *kisses you*#$b#Ofcourse. It's a YES!$h",
+				"Jeric0": "@!$u#$b#I... I don't know what to say!$l#$b#I'm speechless!$l#$b#Come here, you!#$b#Of course. It's a YES!$h",
 				"Jeric1": "This is amazing! I can't wait to start a life with you!$h",
 				
-				"Kenneth0": "@?? Are you? Is that??$l#$b#This is surprising. I.. I'm so happy @.$l#$b#Yes. Yes ofcourse I'll marry you @. I love you.$l",
+				"Kenneth0": "@? Are you? Is that?$l#$b#This is surprising. I... I'm so happy, @.$l#$b#Yes. Yes of course I'll marry you, @. I love you.$l",
 				"Kenneth1": "You made me the happiest man in the world right now! I'm so excited!$h",
 				
-				"Maddie0": "@! Now's not the time to play pranks on me!$a#$b#Wait.. Are you serious?$l#$b#@!! No wait! Is this real?$l#$b#@... I.. I..#$b#*kisses you and holds you tight*$l#$b#Yes.. Yes I'll marry you.. I really do..$l",
-				"Maddie1": "Sorry.. I was so surprised!$l#$b#I'm so happy @.. So very happy!$l",
+				"Maddie0": "@! Now's not the time to play pranks on me!$a#$b#Wait... Are you serious?$l#$b#@! Is this real?$l#$b#@... I... I...#$b#Yes! Yes, I'll marry you! I really will!$l",
+				"Maddie1": "Sorry, I was so surprised!$l#$b#I'm so happy, @... So very happy!$l",
 				
-				"Philip0": "Hey uhmm are you??$u#$b#@? Are you really serious?$l#$b#Yes! It's a 100 percent yes!$h#$b#I love you @!$l",
-				"Philip1": "I can't wait for our wedding @!!$h#$b#Man! I'm so happy!$l",
+				"Philip0": "Hey, uhm, are you...?$u#$b#@? Are you really serious?$l#$b#Yes! A hundred percent yes!$h#$b#I love you, @!$l",
+				"Philip1": "I can't wait for our wedding, @!$h#$b#Oh wow! I'm so happy!$l",
 				
-				"Shiro0": "!!!$u#$b#@????$l#$b#Do you really want me?$l#$b#Have you thought about this??$l#$b#Isn't my answer obvious? Ofcourse I want to marry you @.$l#$b#*Embraces and kisses you*$l",
-				"Shiro1": "*Embraces you again*$l#$b#I'm so happy right now @... I can't wait to tell Yuuma.$h",
+				"Shiro0": "What!?$u#$b#@!?$l#$b#Do you really want... me?$l#$b#Have you thought about this?$l#$b#Isn't my answer obvious? Of course I want to marry you, @!$l#$b#I love you so much, @!$l",
+				"Shiro1": "I'm so happy!$l#$b#I'm genuinely so happy right now, @. I can't wait to tell Yuuma.$h",
 				
-				"Ysabelle0": "Baby? Wait. Are you really proposing to me love??$l#$b#EEEP!!$l#$b#I do! I do!! I really do!$l#$b#I love you! *smooch*$l",
-				"Ysabelle1": "I have to tell grandpa! I'm so happy!!$l#$b#Hey @.. I love you so much!$l",
+				"Ysabelle0": "@? Wait... Are you really proposing to me?$l#$b#@, @, @!$l#$b#I do! I do! I really do!$l#$b#I love you!$l",
+				"Ysabelle1": "I have to tell grandpa! I'm so happy!$l#$b#@, I love you so much!$l",
 				
 		},
 	},
@@ -113,11 +113,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Alissa",
 		"Entries": {
-			"give_flowersA": "Hey what's this @?#$b#Wait, Are you serious?$u#$b#You want me as your girlfriend?$l#$b#Ofcourse it's a yes!$l#$b#I wouldn't have it any other way!$l#$e#I'm seriously super happy right now, I can't stop smiling!$l#$b#Teehee < $l",
-			"give_flowersB": "Hey what's this @?#$b#Wait, Are you serious?$u#$b#You want me as your girlfriend?$l#$b#Ofcourse it's a yes!$l#$b#I wouldn't have it any other way!$l#$e#I'm seriously super happy right now, I can't stop smiling!$l#$b#Teehee < $l",
-			"stardrop_gift": "You've been the best partner I never thought I could have..$l#$b#No song could ever summerize how much I appreciate and love you @.. I hope this little gift could show you how special you are to me.$l",
-			"rejectNPCA": "I'm sorry but I don't see you as such @.$s#$b#I think you had the wrong idea. I'm sorry but it's a no.$s",
-			"rejectNPCB": "I'm sorry but I don't see you as such @.$s#$b#I think you had the wrong idea. I'm sorry but it's a no.$s",
+			"give_flowersA": "Hey, what's this, @?#$b#Wait, Are you serious?$u#$b#You want me as your girlfriend?$l#$b#Of course it's a yes!$l#$b#I wouldn't have it any other way!$l#$e#I'm seriously so happy right now, I can't stop smiling!$l#$b#I love you!$l",
+			"give_flowersB": "Hey, what's this, @?#$b#Wait, Are you serious?$u#$b#You want me as your girlfriend?$l#$b#Of course it's a yes!$l#$b#I wouldn't have it any other way!$l#$e#I'm seriously so happy right now, I can't stop smiling!$l#$b#I love you!$l",
+			"stardrop_gift": "May our love be an everlasting duet, @.$l#$b#No song could ever summarize how much I appreciate and love you, @. I hope this little gift will show you how special you are to me.$l",
+			"rejectNPCA": "I'm sorry but I don't... like you like that, @.$s#$b#I think you've got the wrong idea. I'm sorry but it's a no.$s",
+			"rejectNPCB": "I'm sorry but I don't... like you like that, @.$s#$b#I think you've got the wrong idea. I'm sorry but it's a no.$s",
 		},
 	},
 	{
@@ -125,11 +125,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Corine",
 		"Entries": {
-			"give_flowersA": "Oh my$u#$b#Are you sure about this?$l#$b#You really want me as your girlfriend??$l#$b#Well of course I’ll be happy to<3#$e#Oh my, we’re really together now?$h#$b#I’m so happy right now$l#$e#Give me a kiss @?$l#$b#Thank you for today! <$h",
-			"give_flowersB": "Oh my$u#$b#Are you sure about this?$l#$b#You really want me as your girlfriend??$l#$b#Well of course I’ll be happy to<3#$e#Oh my, we’re really together now?$h#$b#I’m so happy right now$l#$e#Give me a kiss @?$l#$b#Thank you for today! <$h",
-			"stardrop_gift": "Through dangers and sickness, throughout everything, I'll be with you.$l#$b#Hehe, I just wanted to give you this hun.$h#$b#I just want to say how much you mean to me, and how much I love you..$l#$b#I fight and live for another day because I want to be with you forever. I love you @..$l#$b#Teehee < *kisses you* $l",
-			"rejectNPCA": "Oh, uhm.. $u#$b#I don’t want you to take this the wrong way… but uhh. I don’t like you in that sense.$s#$b#I mean we could just be friends right? I’m really sorry @ $s",
-			"rejectNPCB": "Oh, uhm.. $u#$b#I don’t want you to take this the wrong way… but uhh. I don’t like you in that sense.$s#$b#I mean we could just be friends right? I’m really sorry @ $s",
+			"give_flowersA": "Oh wow!$u#$b#Are you sure about this?$l#$b#You really want me as your girlfriend?$l#$b#Of course I'd love to be your girlfriend!#$e#We're really together now!?$h#$b#I'm happy, so happy!$l#$e#I love you, @!$h",
+			"give_flowersB": "Oh wow!$u#$b#Are you sure about this?$l#$b#You really want me as your girlfriend?$l#$b#Of course I'd love to be your girlfriend!#$e#We're really together now!?$h#$b#I'm happy, so happy!$l#$e#I love you, @!$h",
+			"stardrop_gift": "We've been through a lot and you were with me all the way.$l#$b#I just wanted to give you something that might show you how much you mean to me.$h#$b#Something that might show you how much I love you.$l#$b#I will love and protect you forever.$h",
+			"rejectNPCA": "Oh, uhm... $u#$b#I don't want you to take this the wrong way... but I don't like you like that.$s#$b#I mean we could just be friends, right?#$b#I'm really sorry, @.$s",
+			"rejectNPCB": "Oh, uhm... $u#$b#I don't want you to take this the wrong way... but I don't like you like that.$s#$b#I mean we could just be friends, right?#$b#I'm really sorry, @.$s",
 		},
 	},
 	{
@@ -137,11 +137,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Flor",
 		"Entries": {
-			"give_flowersA": "Uhhmm @?.. What's this for?#$b#Wait, uhmm... Isn't this???$u#$b#Uhm Ofcourse! I'd love to be your girlfriend!$l#$b#Uhm.. How does one be a girlfriend?? I mean.. I..$l#$b#I think I'll start with this? *Kisses you*$l#$b#I'm so happy!!$l",
-			"give_flowersB": "Uhhmm @?.. What's this for?#$b#Wait, uhmm... Isn't this???$u#$b#Uhm Ofcourse! I'd love to be your girlfriend!$l#$b#Uhm.. How does one be a girlfriend?? I mean.. I..$l#$b#I think I'll start with this? *Kisses you*$l#$b#I'm so happy!!$l",
-			"stardrop_gift": "Everything you have given and provided me with has been wonderful @... I am so lucky being your wife..$l#$b#Here's a little gift of mine, I hope you like it @..$h#$b#I love you!!$l",
-			"rejectNPCA": "Uhm.. No I'm sorry. I don't have any interests on being in a romantic relationship. I'm too busy.#$b#I hope you understand.$h",
-			"rejectNPCB": "Uhm.. No I'm sorry. I don't have any interests on being in a romantic relationship. I'm too busy.#$b#I hope you understand.$h",
+			"give_flowersA": "Ah, that's a beautiful arrangement of flowers.$h#$b#Wait, uhm... Isn't this?$u#$b#Of course! I'd love to be your girlfriend!$l#$b#Uhm... So what does a girlfriend do? I mean...$l#$b#I mean at what point does the relationship transcend from its current state...$l#$b#Oh, sorry. I got lost in thought there. I love you, @!$l",
+			"give_flowersB": "Ah, that's a beautiful arrangement of flowers.$h#$b#Wait, uhm... Isn't this?$u#$b#Of course! I'd love to be your girlfriend!$l#$b#Uhm... So what does a girlfriend do? I mean...$l#$b#I mean at what point does the relationship transcend from its current state...$l#$b#Oh, sorry. I got lost in thought there. I love you, @!$l",
+			"stardrop_gift": "I think I have finally found the special affinity, understanding and powerful bond that exists between one person and another, @...#$b#I think I have finally found my soulmate.$h#$b#Here's a little gift from me... to you. I hope you like it.$h#$b#I love you!$l",
+			"rejectNPCA": "Uhm... No, I'm sorry. I don't have any interest in being in a romantic relationship. I'm too busy.#$b#I hope you understand.$h",
+			"rejectNPCB": "Uhm... No, I'm sorry. I don't have any interest in being in a romantic relationship. I'm too busy.#$b#I hope you understand.$h",
 		},
 	},
 	{
@@ -149,11 +149,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Ian",
 		"Entries": {
-			"give_flowersA": "@?! Hey? Do you know what this means?$l#$b#Wait, you're not joking right? Hey come on now!$h#$b#You're not??!$u#$b#Oh @.. Come here you!$l#$b#*kisses you*#$e#Ofcourse that was a yes! I love you @!$h",
-			"give_flowersB": "@?! Hey? Do you know what this means?$l#$b#Wait, you're not joking right? Hey come on now!$h#$b#You're not??!$u#$b#Oh @.. Come here you!$l#$b#*kisses you*#$e#Ofcourse that was a yes! I love you @!$h",
-			"stardrop_gift": "My life has been a lot more amazing and meaningful when you were in it. I'm very much thankful you're with me @.$l#$b#So here, Uhm.. I hope this shows you how much I really appreciate you @.$l",
-			"rejectNPCA": "Oh? Uhm, Please don't joke about relationships and stuff. It's not funny.$a#$b#I'm sorry but if you were serious, It's a no.$s",
-			"rejectNPCB": "Oh? Uhm, Please don't joke about relationships and stuff. It's not funny.$a#$b#I'm sorry but if you were serious, It's a no.$s",
+			"give_flowersA": "@!? Hey? Do you know what this means?$l#$b#Wait, you're not joking, right?$h#$b#You're not!?$u#$b#Oh, @!$l#$b#Of course it's a yes! I love you, @!$h",
+			"give_flowersB": "@!? Hey? Do you know what this means?$l#$b#Wait, you're not joking, right?$h#$b#You're not!?$u#$b#Oh, @!$l#$b#Of course it's a yes! I love you, @!$h",
+			"stardrop_gift": "My life has been great with you in it and... Uh... You know I'm not that good with words, @.$l#$b#So here, I hope this shows you how much I really love you, @.$l",
+			"rejectNPCA": "Oh? I, uh, don't think I like you like that.#$b#I'm sorry, it's a no.$s",
+			"rejectNPCB": "Oh? I, uh, don't think I like you like that.#$b#I'm sorry, it's a no.$s",
 		},
 	},
 	{
@@ -161,11 +161,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Jeric",
 		"Entries": {
-			"give_flowersA": "!!$u#$b#@!$l I--I'm speechless!$l#$b#I was just about to give you one too you know?$h#$b#Obviously the answer is yes!$l#$e#Now come here handsome!$l^Now come here beautiful!$l#$b#*kisses you*$l",
-			"give_flowersB": "!!$u#$b#@!$l I--I'm speechless!$l#$b#I was just about to give you one too you know?$h#$b#Obviously the answer is yes!$l#$e#Now come here handsome!$l^Now come here beautiful!$l#$b#*kisses you*$l",
-			"stardrop_gift": "Hey @.. You win. You have the most amazing farm.$l#$b#Why? This is serious now okay? Unlike last time.$h#$b#It's because it homes our family, it homes us.$l#$b#And, I can't tell you how much I love being with you. So here's your reward babe.$l#$b#Love ya!$h",
-			"rejectNPCA": "Ey now, I'm sorry but it's a no.$s#$b#But hey I'm flattered though! Don't be a stranger now.",
-			"rejectNPCB": "Ey now, I'm sorry but it's a no.$s#$b#But hey I'm flattered though! Don't be a stranger now.",
+			"give_flowersA": "Whoa!$u#$b#I... I'm speechless!$l#$b#I was just about to give you one too!$h#$b#Obviously the answer is yes!$l#$e#I have a handsome boyfriend now!$l^I have a beautiful girlfriend now!$l",
+			"give_flowersB": "Whoa!$u#$b#I... I'm speechless!$l#$b#I was just about to give you one too!$h#$b#Obviously the answer is yes!$l#$e#I have a handsome boyfriend now!$l^I have a beautiful girlfriend now!$l",
+			"stardrop_gift": "Hey @... You win. You have the most amazing farm.$l#$b#Ha ha! I'm being serious!$h#$b#It's because it's our family farm, it has us in it.$l#$b#Sorry, I can't really explain how much I love you using all these words...$l#$b#So I guess this gift will do!$h",
+			"rejectNPCA": "I, uh... I'm sorry but it's a no.$s#$b#But hey, I'm flattered, though! Don't be a stranger.",
+			"rejectNPCB": "I, uh... I'm sorry but it's a no.$s#$b#But hey, I'm flattered, though! Don't be a stranger.",
 		},
 	},
 	{
@@ -185,11 +185,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Maddie",
 		"Entries": {
-			"give_flowersA": "Are you serious?$8#$b#I mean, uh.. You’re not kidding me or playing some sort of prank right?$l#$b#You’d really want me as your girlfriend?$9#$e#Well, sure.. If you’d really like me to be$8#$b#*slowly smiles*Hihi I’m your girlfriend now?$l#$b#It’s really official!$h#$b#*kisses you*$l#$e#You really couldn’t hold in what you feel for me can you$6",
-			"give_flowersB": "Are you serious?$8#$b#I mean, uh.. You’re not kidding me or playing some sort of prank right?$l#$b#You’d really want me as your girlfriend?$9#$e#Well, sure.. If you’d really like me to be$8#$b#*slowly smiles*Hihi I’m your girlfriend now?$l#$b#It’s really official!$h#$b#*kisses you*$l#$e#You really couldn’t hold in what you feel for me can you$6",
-			"stardrop_gift": "Hey, I'll only be this cheesy once so you better listen.$l#$b#Take this gift, because you deserve it.$l#$b#You have become so special in my life to the point that I have loved again, and that means a lot for me @..$l#$b#I love you so much.. SO SO MUCH!$l#$b#And I'm very much happy, So happy that I have you @.. Thank you.$l",
-			"rejectNPCA": "Uhhh, I don’t think so.$u#$b#Trust me, that is a waste of time.$6",
-			"rejectNPCB": "Uhhh, I don’t think so.$u#$b#Trust me, that is a waste of time.$6",
+			"give_flowersA": "Are you serious?$8#$b#I mean, uh... You're not pranking me?$l#$b#You'd really want me as your girlfriend?$9#$e#Well... I'd really like that.$8#$b#I guess I'm your girlfriend now? I guess it's really official!$h",
+			"give_flowersB": "Are you serious?$8#$b#I mean, uh... You're not pranking me?$l#$b#You'd really want me as your girlfriend?$9#$e#Well... I'd really like that.$8#$b#I guess I'm your girlfriend now? I guess it's really official!$h",
+			"stardrop_gift": "Hey, I'll only be this cheesy once so you better listen carefully.$l#$b#Take this gift, because you deserve it.$l#$b#You managed to make me love again. But more importantly...#$b#You made me love myself again.$l#$b#I love you so much, @.$h",
+			"rejectNPCA": "Uh, I don't think so.$u#$b#Trust me, it would be a waste of time for the both of us.$6",
+			"rejectNPCB": "Uh, I don't think so.$u#$b#Trust me, it would be a waste of time for the both of us.$6",
 		},
 	},
 	{
@@ -197,11 +197,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Philip",
 		"Entries": {
-			"give_flowersA": "Hey now, really!?$l#$b#Wahaha! Hey! Stop really!?$l#$b#Oh come here you!$l#$b#*kisses you* Isn't the answer obvious? It's a yes!$l#$e#I feel like I'm flying right now! I'm so happy!!!$h",
-			"give_flowersB": "Hey now, really!?$l#$b#Wahaha! Hey! Stop really!?$l#$b#Oh come here you!$l#$b#*kisses you* Isn't the answer obvious? It's a yes!$l#$e#I feel like I'm flying right now! I'm so happy!!!$h",
-			"stardrop_gift": "Would you believe that you're my favorite person? Coz you're super amazing.$l#$b#This little geek would always fall in love with you everyday and I won't be tired because you're just super.$l#$b#So here's a gift @, I hope you like it.$h#$b#You mean so much to me, I love you!$h",
-			"rejectNPCA": "Hey now, But I don't think I see you that way @.$s#$b#I hope I didn't give you the wrong idea or something. Again I'm really sorry.$s",
-			"rejectNPCB": "Hey now, But I don't think I see you that way @.$s#$b#I hope I didn't give you the wrong idea or something. Again I'm really sorry.$s",
+			"give_flowersA": "Whoa, really!?$l#$b#Ha ha! You're just messing with me?$l#$b#You're not!?$l#$b#Oh my Yoba, isn't the answer obvious? It's a yes!$l#$e#I feel like I'm flying right now! I'm so happy!$h",
+			"give_flowersB": "Whoa, really!?$l#$b#Ha ha! You're just messing with me?$l#$b#You're not!?$l#$b#Oh my Yoba, isn't the answer obvious? It's a yes!$l#$e#I feel like I'm flying right now! I'm so happy!$h",
+			"stardrop_gift": "You know, I read about all those superheroes in the comics...$l#$b#But the only actual superhero in real life is you.$l#$b#So, here's a gift for the one and only Super-@. I hope you like it.$h#$b#You mean so much to me, I love you!$h",
+			"rejectNPCA": "I don't think I like you like that, @.$s#$b#I hope I didn't give you the wrong idea or something. Again, I'm really sorry.$s",
+			"rejectNPCB": "I don't think I like you like that, @.$s#$b#I hope I didn't give you the wrong idea or something. Again, I'm really sorry.$s",
 		},
 	},
 	{
@@ -209,11 +209,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Shiro",
 		"Entries": {
-			"give_flowersA": "@? Is this really happening?$u#$b#I... I'm glad.$l#$b#I'm glad you feel the same way about me @. I was beginning to worry maybe I was hopeless.$l#$b#I'm so happy! *kisses you*$l#$b#Hehe, I can feel my heart pounding for joy, But I hope not too much though or it would kinda hurt.$h",
-			"give_flowersB": "@? Is this really happening?$u#$b#I... I'm glad.$l#$b#I'm glad you feel the same way about me @. I was beginning to worry maybe I was hopeless.$l#$b#I'm so happy! *kisses you*$l#$b#Hehe, I can feel my heart pounding for joy, But I hope not too much though or it would kinda hurt.$h",
-			"stardrop_gift": "Here @, I want you to have this.$h#$b#It's a gift from me to you, why?$h#$b#Well because I want you to know how special you are to me, and how much I love that you're with me.$l#$b#Whatever I've been through just to meet you, I'd gladly go through all that, because you're worth it.$h#$b#I'll do my best to be get better so that you won't have to worry too much okay?$h#$b#I love you.$l",
-			"rejectNPCA": "Uhm No @. This is a waste of time.#$b#I don't see you as the way you see me. So I'm sorry.",
-			"rejectNPCB": "Uhm No @. This is a waste of time.#$b#I don't see you as the way you see me. So I'm sorry.",
+			"give_flowersA": "@? What... Are you serious?$u#$b#Yeah, absolutely!$h#$b#I'll be honest, I was trying to get up the nerve to buy a bouquet for you.$l#$b#But I wasn't sure if you were just being really nice to me, or actually felt the same way...$l#$b#Oh man, my heart is pounding.$h",
+			"give_flowersB": "@? What... Are you serious?$u#$b#Yeah, absolutely!$h#$b#I'll be honest, I was trying to get up the nerve to buy a bouquet for you.$l#$b#But I wasn't sure if you were just being really nice to me, or actually felt the same way...$l#$b#Oh man, my heart is pounding.$h",
+			"stardrop_gift": "Hey, I have someting for you.$h#$b#I just want you to know how glad I am that you're mine. It makes everything worth it, really.$l#$b#I really love, you, @.$l",
+			"rejectNPCA": "Uh, no. Sorry.#$b#I mean, I really don't have the time, with everything going on, and I have to focus on Yuuma.#$b# So, yeah. Sorry.",
+			"rejectNPCB": "Uh, no. Sorry.#$b#I mean, I really don't have the time, with everything going on, and I have to focus on Yuuma.#$b# So, yeah. Sorry.",
 		},
 	},
 	{
@@ -221,11 +221,11 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Ysabelle",
 		"Entries": {
-			"give_flowersA": "Oh, really?$l#$b#You’d like it if I would be your girlfriend?$l#$b#Of course I will! I’m happy to be your girlfriend!$h#$b#Oh my, We’re really together! I hope you won’t get tired of me$7#$e#But enough of that overthinking! I want to focus on now and just be happy that we’re together already!$h#$b#Give me a kiss?*points to her cheeks*$l.",
-			"give_flowersB": "Oh, really?$l#$b#You’d like it if I would be your girlfriend?$l#$b#Of course I will! I’m happy to be your girlfriend!$h#$b#Oh my, We’re really together! I hope you won’t get tired of me$7#$e#But enough of that overthinking! I want to focus on now and just be happy that we’re together already!$h#$b#Give me a kiss?*points to her cheeks*$l.",
-			"stardrop_gift": "My darling, You're the masterpiece of this world for me.. You're simply amazing.$l#$b#You don't know how happy I am to be living a life with you in it.. I'd trade all what I have just to have you by my side.$l#$b#Here's a gift from me baby, I hope my emotions reach you.$h#$b#Now come here and give me a kiss my love.$l",
-			"rejectNPCA": "Oh dear$u#$b#I’m sorry but I’d have to reject your offer..$s#$b#I just don’t see us in that way @ $s#$e#I hope you understand where I’m coming from. And I wish you all the best life has to offer.$s#$b#I apologize if I must’ve given you the wrong impression$7",
-			"rejectNPCB": "Oh dear$u#$b#I’m sorry but I’d have to reject your offer..$s#$b#I just don’t see us in that way @ $s#$e#I hope you understand where I’m coming from. And I wish you all the best life has to offer.$s#$b#I apologize if I must’ve given you the wrong impression$7",
+			"give_flowersA": "Oh, oh my.$l#$b#You want me to be your girlfriend?$l#$b#I would love that. I would love to be your girlfriend!$h#$b#I thought you'd never ask!$h#$b#I can't believe this. I'm so happy.$h#$b#I should go tell Corine and Abigail!$h",
+			"give_flowersB": "Oh, oh my.$l#$b#You want me to be your girlfriend?$l#$b#I would love that. I would love to be your girlfriend!$h#$b#I thought you'd never ask!$h#$b#I can't believe this. I'm so happy.$h#$b#I should go tell Corine and Abigail!$h",
+			"stardrop_gift": "Darling, you're the most amazing person in the whole wide world. You're simply the best.$l#$b#You don't know how happy I am to be living a life with you in it.$l#$b#Here's a gift for you, baby. I hope it properly expresses the love I feel for you.$h#$b#I love you so much, @.$l",
+			"rejectNPCA": "Oh dear...$u#$b#I'm sorry but I have to reject your offer.$s#$b#I don't think we're meant for each other.@$s#$e#I hope you understand.$s#$b#I apologize if I have given you the wrong impression.$7",
+			"rejectNPCB": "Oh dear...$u#$b#I'm sorry but I have to reject your offer.$s#$b#I don't think we're meant for each other.@$s#$e#I hope you understand.$s#$b#I apologize if I have given you the wrong impression.$7",
 		},
 	},
 	
@@ -240,6 +240,24 @@
 		"Action": "Load",
 		"Target": "Characters/Dialogue/MarriageDialogueAlissa, Characters/Dialogue/MarriageDialogueCorine, Characters/Dialogue/MarriageDialogueFlor, Characters/Dialogue/MarriageDialogueIan, Characters/Dialogue/MarriageDialogueJeric, Characters/Dialogue/MarriageDialogueKenneth, Characters/Dialogue/MarriageDialogueMaddie, Characters/Dialogue/MarriageDialoguePhilip, Characters/Dialogue/MarriageDialogueShiro, Characters/Dialogue/MarriageDialogueYsabelle",
 		"FromFile": "assets/MarriageDialogue/{{TargetWithoutPath}}.json",
+	},
+	
+	{
+		"LogName": "Movie Invitation Dialogue",
+		"Action": "EditData",
+		"Target": "strings/Characters",
+		"Entries": {
+			"MovieInvite_Spouse_Alissa": "This is a great idea for a date, darling! I'm so excited!$h#$b#I'll meet you there, okay? I have to go clean up first!",
+			"MovieInvite_Spouse_Corine": "Yay, date night! I love your idea, @!$h#$b#Just a moment, I'll be ready in a jiffy.$h#$e#I'm excited to spend some time with you!$l",
+			"MovieInvite_Spouse_Flor": "Oh, but of course! I'd love to go to the movies with you, @!$h#$b#Would you like me to bring some snacks, or should we buy some there?",
+			"MovieInvite_Spouse_Ian": "Movie night? That's a great idea, honey.$l#$b#I'm just gonna grab something, then we'll be on our way!$h",
+			"MovieInvite_Spouse_Jeric": "Date night? Fantastic!$h#$b#I was considering getting the tickets myself, can't wait to spend more time with you, babe!$l",
+			"MovieInvite_Spouse_Kenenth": "Movie night? Now you're talking!$h#$b#I'd love to join you! Let's go!",
+			"MovieInvite_Spouse_Maddie": "Aww, a movie date? I'd love to go to the movies with you!$9#$b#But PLEASE don't eat my snacks this time, okay?$6",
+			"MovieInvite_Spouse_Philip": "A movie? Great idea, honey!$h#$b#We should make a date night out of this!$l#$e#A dinner under the stars after the movie, maybe?$6",
+			"MovieInvite_Spouse_Shiro": "Ah! A much needed break!$h#$b#I love you and your creative date ideas, @.$l",
+			"MovieInvite_Spouse_Ysabelle": "A movie date, mon amour? I'd love to go to the movies with you!$l#$b#I love movies and I love you, ha ha!$h",
+		},
 	},
 
 	

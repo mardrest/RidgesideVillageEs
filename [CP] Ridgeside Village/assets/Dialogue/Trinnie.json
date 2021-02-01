@@ -80,15 +80,16 @@
 	"Fri10": "Are you okay here?#$b#Can I give you a helping hand?#$e#I'm really good at helping!$h#$b#My daddy says I'm the best helper hand in the world!$h",
 	"Sat10": "Hi, @!#$e#Come play!$h",
 	"Sun10": "I'm gonna pull a prank on Keahi!$h#$b#But I don't know what to do.#$e#Dad said I should try a whoopee cushion.#$b#What's a whoopee cushion?$u",
+
+//Special Dialogue
+	"MovieInvitation": "Yes! Yes! Yes!#$b#I love movies! Of course I'd love to go with you, @!$h#$e#We should definitely bring a lot of snacks!$h#$b#If we sit in the middle we can see everything!$h#$b#Aaah!! I'm so excited!!$h",
 	
 //Resort
-"Resort_Entering": "Whoa!$u#$b#Look at this!#$e#Dad, come on!$h",
-"Resort_Leaving": "I don't wanna leave...$s#$e#Can we come back soon?$h",
-"Resort_Shore": "The shells here look different from the shells at home.#$e#Do you think the fish are different?",
-"Resort_Chair": "Ew. My butt keeps sticking to the chair.$s",
-"Resort_Bar": "I want a strawberry lemonade?$u#$e#Can I have a strawberry lemonade?$h#$b#Please?$s",
-"Resort": "I ran around with Dad and Keahi!$h#$e#My legs are all sandy now.$s",
-
+	"Resort_Entering": "Whoa!$u#$b#Look at this!#$e#Dad, come on!$h",
+	"Resort_Leaving": "I don't wanna leave...$s#$e#Can we come back soon?$h",
+	"Resort_Shore": "The shells here look different from the shells at home.#$e#Do you think the fish are different?",
+	"Resort_Chair": "Ew. My butt keeps sticking to the chair.$s",
+	"Resort_Bar": "I want a strawberry lemonade?$u#$e#Can I have a strawberry lemonade?$h#$b#Please?$s",
+	"Resort": "I ran around with Dad and Keahi!$h#$e#My legs are all sandy now.$s",
 
 }
-

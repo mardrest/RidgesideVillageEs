@@ -5,7 +5,7 @@
 	"Edibility": 10,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 2000,
+	"Price": 1000,
 	"IsColored": false,
 	"GiftTastes":
 	{
@@ -13,10 +13,10 @@
 	},
 	"NameLocalization":
 	{
-		"es": "Carpa canción de cuna"
+		"es": "Carpa melodÃ­a de cuna"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Un misterio científico. Este pez produce melodías relajantes siempre que se lo deja solo, pero no posee ningún sistema interno que le permita 'cantar'."
+		"es": "Un misterio cientÃ­fico. Este pez produce melodÃ­as relajantes siempre que se lo deja solo, pero no posee ningÃºn sistema interno que le permita 'cantar'."
 	},
 }

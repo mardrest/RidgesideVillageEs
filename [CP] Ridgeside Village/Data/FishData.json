@@ -28,16 +28,16 @@
 		"Action": "EditData",
 		"Target": "Data/ObjectContextTags",
 		"Entries": {
-			"{{spacechase0.JsonAssets/ObjectId:Bladetail Sturgeon}}": "color_green, fish_bladetail_sturgeon",
-			"{{spacechase0.JsonAssets/ObjectId:Caped Tree Frog}}": "color_green, fish_caped_tree_frog",
-			"{{spacechase0.JsonAssets/ObjectId:Cardia Septal Jellyfish}}": "color_purple, fish_cardia_septal_jellyfish",
-			"{{spacechase0.JsonAssets/ObjectId:Crimson Spiked Clam}}": "color_red, fish_crimson_spiked_clam",
-			"{{spacechase0.JsonAssets/ObjectId:Fairytale Lionfish}}": "color_blue, fish_fairytale_lionfish",
-			"{{spacechase0.JsonAssets/ObjectId:Fixer Eel}}": "color_yellow, fish_fixer_eel",
-			"{{spacechase0.JsonAssets/ObjectId:Golden Rose Fin}}": "color_yellow, fish_golden_rose_fin",
-			"{{spacechase0.JsonAssets/ObjectId:Harvester Trout}}": "color_red, fish_harvester_trout",
-			"{{spacechase0.JsonAssets/ObjectId:Lullaby Carp}}": "color_green, fish_lullaby_carp",
-			"{{spacechase0.JsonAssets/ObjectId:Pebble Back Crab}}": "color_gray, fish_pebble_back_crab",
+			"Bladetail Sturgeon": "color_green, fish_bladetail_sturgeon",
+			"Caped Tree Frog": "color_green, fish_caped_tree_frog",
+			"Cardia Septal Jellyfish": "color_purple, fish_cardia_septal_jellyfish",
+			"Crimson Spiked Clam": "color_red, fish_crimson_spiked_clam",
+			"Fairytale Lionfish": "color_blue, fish_fairytale_lionfish",
+			"Fixer Eel": "color_yellow, fish_fixer_eel",
+			"Golden Rose Fin": "color_yellow, fish_golden_rose_fin",
+			"Harvester Trout": "color_red, fish_harvester_trout",
+			"Lullaby Carp": "color_green, fish_lullaby_carp",
+			"Pebble Back Crab": "color_gray, fish_pebble_back_crab",
 		},
 	},
 	
@@ -97,7 +97,7 @@
 		"Action": "EditData",
 		"Target": "Data/Locations",
 		"Entries": { "Ridge": "-1/-1/-1/-1/136 -1 142 -1 153 -1 702 -1 700 -1/136 -1 142 -1 153 -1 138 -1 702 -1 700 -1 698 -1/{{spacechase0.JsonAssets/ObjectId:Caped Tree Frog}} -1 136 -1 140 -1 142 -1 153 -1 702 -1 700 -1 269 -1/136 -1 140 -1 141 -1 153 -1 707 -1 702 -1 700 -1 698 -1 269 -1/382 .06 581 .1 378 .1 102 .15 390 .25 330 1", },
-		"When": { "DayOfWeek |contains=Saturday": true, "Season |contains=Fall": true },
+		"When": { "DayOfWeek |contains=Saturday, Sunday": true, "Season |contains=Fall": true },
 	},
 	
 	{
@@ -212,7 +212,7 @@
 		"Action": "EditData",
 		"Target": "Data/Locations",
 		"Entries": { "Ridge": "-1/-1/-1/-1/{{spacechase0.JsonAssets/ObjectId:Fixer Eel}} -1 136 -1 142 -1 153 -1 702 -1 700 -1/{{spacechase0.JsonAssets/ObjectId:Fixer Eel}} -1 136 -1 142 -1 153 -1 138 -1 702 -1 700 -1 698 -1/136 -1 140 -1 142 -1 153 -1 702 -1 700 -1 269 -1/136 -1 140 -1 141 -1 153 -1 707 -1 702 -1 700 -1 698 -1 269 -1/382 .06 581 .1 378 .1 102 .15 390 .25 330 1", },
-		"When": { "DayOfWeek |contains=Monday": true, "Season |contains=Summer": true },
+		"When": { "DayOfWeek |contains=Monday": true, "Season |contains=Spring, Summer": true },
 	},
 	
 	{

@@ -22,9 +22,15 @@
 		},
 		
 		"PortraitType": {
-			"AllowValues": "Legacy, Official",
-			"Default": "Legacy",
-			"Description": "Change Portrait Type (Legacy by Rafseazz / Official by avislone) Legacy/Official"
+			"AllowValues": "Default, Realism",
+			"Default": "Default",
+			"Description": "Change Portrait Type (Default by Rafseazz / Realism by avislone)"
+		},
+		
+		"IndividualRealismPortrait": {
+			"AllowMultiple": "true",
+			"AllowBlank": "true",
+			"Description": "List down RSV NPC names that you want to load in their Realism Portraits by avislone. (Ex. Alissa, Philip)"
 		},
 		
 		"MaddieGlasses": {
@@ -192,20 +198,19 @@
 	//Random Undreya Spawn
 		{
 		"Name": "RANDOMUNDREYA",
-		"Value": "{{Random:RidgesideVillage 47 22, RidgesideVillage 81 70, Town 98 85, RSVCliff 17 15, BusStop 29 16, Ridge 51 24, RSVCableCar 9 14, RidgesideVillage 131 105, Mountain 31 5, Mountain 87 33, Mountain 51 37, Beach 69 5, Beach 37 31, RidgesideVillage 134 42, Town 46 15, RidgesideVillage 13 83, RidgesideVillage 134 23, RidgesideVillage 74 35, Town 18 8, Town 6 78|key={{LocationName}}{{Time}}}}",
-		"Update": "OnLocationChange",
+		"Value": "{{Random:0 RidgesideVillage 47 22 0/2600 RSVAbandonedHouse 5 5 0, 0 RidgesideVillage 81 70 0/2600 RSVAbandonedHouse 5 5 0, 0 Town 98 85 0/2600 RSVAbandonedHouse 5 5 0, 0 RSVCliff 17 15 0/2600 RSVAbandonedHouse 5 5 0, 0 BusStop 29 16 0/2600 RSVAbandonedHouse 5 5 0, 0 Ridge 51 24, RSVCableCar 9 14 0/2600 RSVAbandonedHouse 5 5 0, 0 RidgesideVillage 131 105 0/2600 RSVAbandonedHouse 5 5 0, 0 Mountain 31 5 0/2600 RSVAbandonedHouse 5 5 0, 0 Mountain 87 33 0/2600 RSVAbandonedHouse 5 5 0, 0 Mountain 51 37 0/2600 RSVAbandonedHouse 5 5 0, 0 Beach 69 5 0/2600 RSVAbandonedHouse 5 5 0, 0 Beach 37 31 0/2600 RSVAbandonedHouse 5 5 0, 0 RidgesideVillage 134 42 0/2600 RSVAbandonedHouse 5 5 0, 0 Town 46 15 0/2600 RSVAbandonedHouse 5 5 0, 0 RidgesideVillage 13 83 0/2600 RSVAbandonedHouse 5 5 0, 0 RidgesideVillage 134 23 0/2600 RSVAbandonedHouse 5 5 0, 0 RidgesideVillage 74 35 0/2600 RSVAbandonedHouse 5 5 0, 0 Town 18 8 0/2600 RSVAbandonedHouse 5 5 0, 0 Town 6 78 0/2600 RSVAbandonedHouse 5 5 0}}",
 		},
 		
 	//Portrait Type
 		{
 		"Name": "PTYPE",
 		"Value": "Legacy",
-		"When": { "PortraitType": "Legacy" }
+		"When": { "PortraitType": "Default" }
 		},
 		{
 		"Name": "PTYPE",
 		"Value": "Official",
-		"When": { "PortraitType": "Official" }
+		"When": { "PortraitType": "Realism" }
 		},
    ],
    
@@ -458,23 +463,9 @@
 	//DISPOSITIONS
 	{
 		"Action": "EditData",
-		"Target": "Data/NPCDispositions",
-		"Entries": { "Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//{{RANDOMUNDREYA}}/Undreya" },
+		"Target": "Characters/schedules/Undreya",
+		"Entries": { "spring": "{{RANDOMUNDREYA}}", },
 		"When": { "HasSeenEvent: hostPlayer |contains=75160182": true, "DayOfWeek: |contains=Thursday": false },
-		"Update": "OnTimeChange, OnLocationChange",
-	},
-	{
-		"Action": "EditData",
-		"Target": "Data/NPCDispositions",
-		"Entries": { "Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//RSVAbandonedHouse 5 5/Undreya" },
-		"When": { "HasSeenEvent: hostPlayer |contains=75160182": true, "DayOfWeek: |contains=Thursday": true },
-		"Update": "OnTimeChange, OnLocationChange",
-	},
-	{
-		"Action": "EditData",
-		"Target": "Data/NPCDispositions",
-		"Entries": { "Undreya": "child/neutral/neutral/neutral/female/non-datable/null/Other/null//RSVAbandonedHouse 5 5/Undreya" },
-		"When": { "HasSeenEvent: hostPlayer |contains=75160182": false },
 	},
 	{
 	//SPRITE RANDOMIZE
@@ -482,7 +473,6 @@
 		"Target": "Characters/Undreya",
 		"FromFile": "Data/Undreya/Undreya{{Random:1, 2, 3, 4, 5, 6, 7, 8}}.png",
 		"When": { "HasSeenEvent: hostPlayer": 75160182, "DayOfWeek: |contains=Thursday": false },
-		"Update": "OnLocationChange",
 	},
 	
 //Kiwi dynamics

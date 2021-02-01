@@ -80,15 +80,16 @@
 	"Fri10": "Kiwi is bad Junimo before.$s#$b#Kiwi not like old Junimo life.#$e#Kiwi banish before.#$b#Now good Kiwi.#$e#Kiwi happy now.$h",
 	"Sat10": "Truth, Kiwi love to play with tiny human.#$e#Kiwi is happy.$h",
 	"Sun10": "Ridge scare Kiwi at night maybe.$s#$b#But Kiwi has duty!$a#$e#Kiwi do good!$h#$b#Make Jio proud.$u",
+
+//Special Dialogue
+	"MovieInvitation": "Kiwi watch movie!?$h#$b#Kiwi like friend @.$4",
 	
 //Resort
-"Resort_Entering": "Kiwi go on adventure.$h#$e#Maybe swim.$u",
-"Resort_Leaving": "Kiwi will be back!$a",
-"Resort_Shore": "Kiwi try swim.$h#$e#Only float.$s",
-"Resort_Chair": "Kiwi sit and rest.$s#$e#But still strong.$a",
-"Resort_Bar": "Sun bright, sun hot. Kiwi thirsty.",
-"Resort": "Kiwi see rainbow chicken.#$b#Fly high in sky.$u#$e#One day Kiwi also fly.$h",
-
+	"Resort_Entering": "Kiwi go on adventure.$h#$e#Maybe swim.$u",
+	"Resort_Leaving": "Kiwi will be back!$a",
+	"Resort_Shore": "Kiwi try swim.$h#$e#Only float.$s",
+	"Resort_Chair": "Kiwi sit and rest.$s#$e#But still strong.$a",
+	"Resort_Bar": "Sun bright, sun hot. Kiwi thirsty.",
+	"Resort": "Kiwi see rainbow chicken.#$b#Fly high in sky.$u#$e#One day Kiwi also fly.$h",
 
 }
-

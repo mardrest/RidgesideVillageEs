@@ -1,7 +1,5 @@
-
-
 {    
-//If Married:
+
 ///Spring
 	"spring_1": "The way the valley looks in the spring is so beautiful.#$b#All the fresh new life, it really gives me hope.$h",
 	"spring_12": "Hey, I'm excited to actually go to the festival with you tomorrow. It'll be nice to see everyone.$h",
@@ -25,8 +23,6 @@
 	"winter_16": "Is it just me, or do we see the woman with the purple cart everywhere?",
 	"winter_17": "I think I want to try the deep sea fishing...$s#$b#Next year, though.",
 	"winter_24": "Well, @, another year has almost come and gone. You have no idea how much it means to me to have you here with me for it.$l#$b#Here's to another great one together, one day at a time...$h",
-
-//Marriage
 
 ///Room
 "spouseRoom_Shiro": "Since I'm stuck at home a lot, I've been trying to find some new hobbies. #$e#Leah has been teaching me to paint, and Robin has been teaching me some whittling. Maybe I can show you sometime!$h",
@@ -81,17 +77,16 @@
 "funReturn_Shiro": "Phew! That was a good stroll. I had a really good day, and the walk was so refreshing. $h#$b#I, um... am kind of tired now, though... $6#$b#Come rest with me later, okay, @?$8", 
 
 //One kid
-"OneKid_0": "Hey, did you see [kid 1's name]'s big, goofy smile? $h#$b#Ha ha, I think they got that from me!$h", 
-"OneKid_1": "You go ahead and focus on the farm, okay?#$b# I'll keep an eye on [kid 1's name].$h", 
-"OneKid_2": "I think [kid 1's name] is teething. #$b#Did you hear the crying this morning?", 
-"OneKid_3": "I'm really thankful for you, @. Thank you for taking care of me and [kid 1's name], we're both so lucky to have you!$h",
+"OneKid_0": "Hey, did you see %kid1's big, goofy smile? $h#$b#Ha ha, I think they got that from me!$h", 
+"OneKid_1": "You go ahead and focus on the farm, okay?#$b# I'll keep an eye on %kid1.$h", 
+"OneKid_2": "I think %kid1 is teething. #$b#Did you hear the crying this morning?", 
+"OneKid_3": "I'm really thankful for you, @. Thank you for taking care of me and %kid1, we're both so lucky to have you!$h",
 
 //Two kids
-"TwoKids_0": "I don't have words to express how happy I am with our life now.$l#$b# I'm sure [kid 1's name] and [kid 2's name] will grow up to be amazing people because of how good we raise them. I hope so, at least. Thank you for giving me all this, @. I love you.$h",
-"TwoKids_1": "Ha ha, [kid 2's name] has been playing with some of your old tools, and [kid 1's name] has been trying to help me cook. I think they're already taking after us!$h#$b#",
+"TwoKids_0": "I don't have words to express how happy I am with our life now.$l#$b# I'm sure %kid1 and %kid2 will grow up to be amazing people because of how good we raise them. I hope so, at least. Thank you for giving me all this, @. I love you.$h",
+"TwoKids_1": "Ha ha, %kid2 has been playing with some of your old tools, and %kid1 has been trying to help me cook. I think they're already taking after us!$h#$b#",
 "TwoKids_2": "The kids are behaving well today. I think it might actually be kinda quiet for once, ha ha.",
-"TwoKids_3": "I'm glad [kid 1's name] and [kid 2's name] get along. It would've been a lot to handle if they fought a lot.",
-
+"TwoKids_3": "I'm glad %kid1 and %kid2 get along. It would've been a lot to handle if they fought a lot.",
 
 //Relationship-dependent
 ///Good
@@ -130,6 +125,4 @@
 "Bad_8": "I think we weren't meant to be...This was a mistake...$u",
 "Bad_9": "I need time to cool off.$a#$b# ...I can't handle another day like this.$s",
 
-
 }
-

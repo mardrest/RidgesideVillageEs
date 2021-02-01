@@ -1,6 +1,6 @@
 {
 	"Name": "Arugula Roll",
-	"Description": "Rolled Arugula with some special sauce and toppings. Really good paired with some alcohol!",
+	"Description": "Fresh Arugula bathing in spicy sauce resting in a tortilla wrap.",
 	"Category": "Cooking",
 	"Edibility": 60,
 	"EdibleIsDrink": false,
@@ -23,13 +23,12 @@
 	{
 		"Love": ["Ezekiel", "Kenneth"],
 	},
-
 	"NameLocalization":
 	{
-		"es": "Rollo de rúcula"
+		"es": "Rollo de rÃºcula"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Rúcula enrollada con salsa y aderezos especiales. ¡Muy bien combinada con un poco de alcohol!"
+		"es": "RÃºcula fresca baÃ±ada en salsa picante puesta sobre en una tortilla."
 	},
 }

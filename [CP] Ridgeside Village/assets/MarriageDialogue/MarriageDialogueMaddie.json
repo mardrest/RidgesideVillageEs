@@ -1,6 +1,5 @@
-
 {    
-//If Married:
+
 ///Spring
 	"spring_1": "Happy new year!$h#$b#I'm going to keep trying to improve the world, one small step at a time.$h",
 	"spring_12": "Oh, I'm excited! Imagine if we have our own little kids to bring to this festival!$h#$b#I'd definitely help them win the egg hunt.$6",
@@ -26,10 +25,10 @@
 	"winter_24": "Tomorrow I'm gonna dine like a queen.$h#$b#Gus tries to up his game every year, so who knows what he has in store for us!#h",
 
 ///Room
-"spouseRoom_Spouse": "Little Gupgup is a glutton little goldfish! He eats so much!  He is so cute though!!$h#$b#Hey babe, want to feed Gupgup too?$h",
+"spouseRoom_Maddie": "Little Gupgup is a glutton little goldfish! He eats so much!  He is so cute though!!$h#$b#Hey babe, want to feed Gupgup too?$h",
 
 ///Patio
-"patio_Spouse": "Ah...This is relaxing... I have to hand it to you babe.$h#$b#You're doing an amazing job! I absolutely adore this!$h",
+"patio_Maddie": "Ah...This is relaxing... I have to hand it to you babe.$h#$b#You're doing an amazing job! I absolutely adore this!$h",
 
 ///Rainy Day 
 "Rainy_Day_0": "Big day at the water facility today, Mr. Aguar has informed me of some inspector that will visit the place.$u#$b#Out of all the days, why pick a rainy one?$s",
@@ -37,7 +36,7 @@
 "Rainy_Day_2": "What would you like me to order at Pika's tonight?#$b#I can handle any soup you'd like just not clam chowder please.$6",
 "Rainy_Day_3": "Hey love, can you give me a warm hug before we go to work?$l",
 "Rainy_Day_4": "Have you decided on what you'd like to eat for later?#$b#I think I can stop by Blooming Hill Farm before I go home.",
-"Rainy_Day_Spouse": "Babe, can you make some hot cocoa for me. I feel cold brr...$l",
+"Rainy_Day_Maddie": "Babe, can you make some hot cocoa for me. I feel cold brr...$l",
 
 ///Rainy Night
 "Rainy_Night_0": "Mr. Aguar actually seemed happy today.$l#$b#I seldom see him smiling. I guess he must've remembered something good.$h",
@@ -46,7 +45,7 @@
 "Rainy_Night_3": "I still feel so cold babe. I think I might have a fever coming on.$s#$b#Can you please heat up some soup for me please?$l",
 "Rainy_Night_4": "Hey hottie! Missed me?$6",
 "Rainy_Night_5": "Rainy nights are for 'you and me' time babe!$6#$b#Could you make time for us right now?$l#$e#I was thinking maybe... Dinner and game night???$h",
-"Rainy_Night_Spouse": "Raiiiiiin! Oh I love the rain! I guess I'm really such a water baby haha!$h",
+"Rainy_Night_Maddie": "Raiiiiiin! Oh I love the rain! I guess I'm really such a water baby haha!$h",
 
 ///Indoor Day
 "Indoor_Day_0": "Ughh it's so early in the morning! I need my coffeeee!$a#$e#Huh? Oh what? I look pretty even without it?$l#$b#Uhh?? What's the connection???$8#$b#You're just messing with me aren't you?$6",
@@ -54,7 +53,7 @@
 "Indoor_Day_2": "Good morning @! How was your sleep?#$e#Did you dream about your side chick?$6#$b#Haha kidding boo! I'm just messing with you!$h",
 "Indoor_Day_3": "Oh dear! It's such a great morning. Don't ruin it with a cheesy pick up babe.$6#$e#A breakfast in bed would've been better, haha! Kidding!$h#$b#I love you, you crazy thing.$l",
 "Indoor_Day_4": "OOOOHH Babe why don't we grow some strawberries on our backyard?$9#$b#I have a bit of a hankering for strawberries lately.$l#$e#Hmm, maybe I'll try to buy one from Blooming Hill.",
-"Indoor_Day_Spouse": "Another day another hustle for us!$h#$e#Have a great day ahead! Bring home the bacon my little champion!$h",
+"Indoor_Day_Maddie": "Another day another hustle for us!$h#$e#Have a great day ahead! Bring home the bacon my little champion!$h",
 
 //Indoor Night
 "Indoor_Night_0": "Ahhh home at last! What's for dinner blubby?$h",
@@ -62,8 +61,7 @@
 "Indoor_Night_2": "@!! You're home!  You wouldn't believe what a day I had!$h#$b#I actually had fun earlier because there were cute little bunnies! Hihi.$9",
 "Indoor_Night_3": "UGH  I feel so aggravated today.$8#$b#*sighs* Can I get a hug from you please?$s",
 "Indoor_Night_4": "Hi babe! I see that you're super tired from today's work.#$e#Would you like it if I gave you a massage???$l#$b#Well, as long as you also give me one soon! Haha!$l",
-"Indoor_Night_Spouse": "Whew, I had a rough day. Thank Yoba that I'm here now.$u#$b#Aaaaaah, home at last.$h",
-
+"Indoor_Night_Maddie": "Whew, I had a rough day. Thank Yoba that I'm here now.$u#$b#Aaaaaah, home at last.$h",
 
 ///Outdoors
 "Outdoor_0": "Ahhh the sun! So relaxing isn't it?$h#$b#I don't get much sun when I'm at the facility sometimes.$7",
@@ -72,13 +70,11 @@
 "Outdoor_3": "Hey babe, it's a beautiful day today! Would you like to go to the ridge?$h#$b#Maybe we'll see the bunnies!$l",
 "Outdoor_4": "I was thinking, what if we had a small flowerbed over here?$7#$b#Just something pretty...$l",
 
-
 //Leaving
-"funLeave_Spouse": "Bye babe! Have a great day ahead alright?$h#$b#Don't forget to bring food or else you might pass out!!!$a",
+"funLeave_Maddie": "Bye babe! Have a great day ahead alright?$h#$b#Don't forget to bring food or else you might pass out!!!$a",
 
 //Returning
-"funReturn_Spouse":  "I'm baaaaaaackkk, and with some midnight snacks for us this time.$h#$e#Teehee, we could stay up all night and just play or talk about anything under the stars!$l",
-
+"funReturn_Maddie":  "I'm baaaaaaackkk, and with some midnight snacks for us this time.$h#$e#Teehee, we could stay up all night and just play or talk about anything under the stars!$l",
 
 //One kid
 "OneKid_0": "Oh no! %kid1 has your eyes and lips babe!$u#$b#Tsk, we need to have %kid1 face reconstructed I guess...$s#$b#Just kidding! %kid1 has a beautiful face!$h",
@@ -86,14 +82,11 @@
 "OneKid_2": "Don't worry about %kid1. That little stinker's got my wits and your perseverance.$6",
 "OneKid_3": "Isn't it amazing how %kid1 just changed our lives?$9#$b#It's hectic, but it's worth it.$h",
 
-
 //Two kids
 "TwoKids_0": "Oh Yoba! Babe!! You wouldn't believe how much %kid1 and %kid2 ate for breakfast!$u#$e#We better get some more chickens to keep up with how many eggs they eat in a week!$u",
 "TwoKids_1": "It's going to be bathtime soon for these two...#$b#You'll help me wrangle them, right? Co-parenting and all that!$6",
 "TwoKids_2": "I never really imagined that I'd have a family of my own...$l#$b# I'm so grateful for what we've built together!$9",
 "TwoKids_3": "Ahhh. I just love you, %kid1 and %kid2.$l#$b#You all are the best gift the universe gave me. Well except for the gift of me of course! Haha!$h",
-
-
 
 //Relationship-dependent
 ///Good
@@ -108,7 +101,6 @@
 "Good_8": "Awwee thank you for caring for me babe! When you get sick I'll take care of you!$7#$e#But please don't get sick??? I'm terrible at that kind of stuff.$u#$b#Haha but I'll try for you.$h", 
 "Good_9": "This. This is the life. Thank you so much. I know I don't say this often... But I really love you so much.",
 
-
 ///Neutral
 "Neutral_0": "Hey babe! Great day isn't it? Don't forget to water the plants okay?$h",
 "Neutral_1": "Babe, can you make me a coffee before you go?#$b#I'm actually fixing up some sandwiches for you and for Mr. Aguar.$h#$e#I hope you'll like them. If you don't, you can make your own sandwiches.$6",
@@ -120,7 +112,6 @@
 "Neutral_7": "Oooh! I learned a new technique today in filtering water.$h#$b#Do you have any clean paper? I'd love to show you how!$h",
 "Neutral_8": "Just imagine...You have me as a wife! Aren't you lucky?? Hahaha!$6",
 "Neutral_9": "Babe! I want to have a puffball!< $h#$b#I actually read about them when I went to the library to research about solvents and I found them quite fascinating.$h",
-
 
 ///Bad
 "Bad_0": "Oh, stop making such a fuss over me!  I told you I'm alright okay??$a#$b#Is that hard to understand?$a",

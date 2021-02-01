@@ -1,5 +1,5 @@
 {
-	"Introduction": "Oh, h-hello. I don't know everyone in the valley, but... are you new?#$b# It's nice to meet you, @.$h#$b# I just finished graduate school for clinical psychology, and I'm living at the hotel for now.#$b#Huh? O-oh! I'm sorry!$u#$b#My name is Flor. ... Nice to meet you.$l",
+	"Introduction": "Oh, h-hello. I don't know everyone in the valley, but... are you new?#$b# It's nice to meet you, @.$h#$b# I just finished graduate school for clinical psychology, and I'm living at the hotel for now.#$b#Huh? O-oh! I'm sorry!$u#$b#My name is Flor... Nice to meet you.$l",
 
 //Spring
 	"spring_1": "I really like spring. The additional sunlight is really good for the brain.$h",
@@ -24,7 +24,6 @@
 	"winter_16": "%Flor acknowledges you with a smile, and then goes back to watching everything at the market with wide eyes.",
 	"winter_17": "I bought a painting! I'm really excited to hang it up!$h",
 	"winter_24": "The year's almost over. See you at the festival tomorrow, right?",
-
 
 //Days of the Week
 
@@ -52,7 +51,7 @@
 	"Wed4": "Do you know how close in age Trinnie and Jas are?#$b#I don't know how old Jas is... ll I know is that they have a really interesting friend/role model relationship dichotomy.",
 	"Thu4": "Miss Penny is such a wonderful person, and she's so good with kids. $h#$b# Have you ever noticed how patient and encouraging she is with Yuuma and Jas? She really is quite amazing.$h",
 	"Fri4": "Hi @... You look well.$h#$b#Are you doing well today?#$b#Wait, uh... I... Sorry, that was a mess...$s.",
-	"Sat4": "I think I'll go relax at the beach today... #$b#Or... I'd like to see Elliott but I don't want to bother him. $s#$b#I'll probably just stick with my normal routine...$s",
+	"Sat4": "I think I'll go relax at the beach today... #$b#Or... I'd like to see Elliot but I don't want to bother him. $s#$b#I'll probably just stick with my normal routine...$s",
 	"Sun4": "What is that word? Focal? Factual? Fall-Oh! #$b#Sorry, @, I forgot the technical term for something I was trying to explain to Penny and it's driving me crazy.$h",
 	
 	//6 Hearts
@@ -81,14 +80,12 @@
 	"Fri10": "Promise me that you'll tell me if I ever get boring, okay? $s#$b#I would rather know that you're tired of hearing me chatter about psychology and maybe get a little hurt than wonder without ever being sure.$s",
 	"Sat10": "It was really kind of Doctor Harvey to reach out when I came to the valley. $h#$b# I get to help provide behavioral health suppot for valley residents. $h#$b#I don't know if he knows it, but that help is getting me closer and closer to full licensure.$h",
 	"Sun10": "Working with Doctor Harvey means it will be easier to stay here, if I decide to. $h#$b#Er, if you want me to. Not that I'd make the decision based just on you and me, I mean, that'd be unhealthy,but you are a major factor in my decision, just not in a codependent... $u#$b#I'm going to stop talking now.$l",
-	
-
 
 //Special Dialogue
-"breakUp": "Please don't. I need some time.$s",
-"danceRejection": "No thank you... I... I'm not good at dancing.$l",
-"divorced": "I need to set boundaries, so this is me setting them. Leave me alone.$a",
-
+	"breakUp": "Please don't. I need some time.$s",
+	"danceRejection": "No thank you... I... I'm not good at dancing.$l",
+	"divorced": "I need to set boundaries, so this is me setting them. Leave me alone.$a",
+	"MovieInvitation": "Oh! You're inviting me to a movie?$l#$b#I don't get invited to places often... I'll gladly join you, @!$l",
 
 //Resort
 	"Resort_Entering": "Oh, wow! It's so pretty! $u#$b#And so hot...$s",
@@ -103,6 +100,4 @@
 	"Resort_Bar": "I'm so thirsty! I can't wait to get some lemonade.$l",
 	"Resort": "Hi, @! Are you enjoying yourself?$here",
 
-
 }
-

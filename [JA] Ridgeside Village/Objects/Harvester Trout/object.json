@@ -1,11 +1,11 @@
 {
 	"Name": "Harvester Trout",
-	"Description": "It got it's name for being infamously harvesting nearby water crops or fruits. This strange behavior led it to being hunted down for it's destructive behavior. It is not endagered yet rare for it migrates a lot. It's weird behavior pattern is a mystery.",
+	"Description": "It got its name for 'harvesting' crops and plants that grow near water. This destructive behavior means it's being regarded as a pest. Though it seems to be popular because of its tender oily meat.",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 3000,
+	"Price": 1400,
 	"IsColored": false,
 	"GiftTastes":
 	{
@@ -17,6 +17,6 @@
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Obtuvo su nombre por cosechar infamemente cultivos de agua o frutas cercanas. Este extraño comportamiento lo llevó a ser perseguida por su comportamiento destructivo. No está en peligro, pero es rara, ya que migra mucho. Su patrón de comportamiento extraño es un misterio."
+		"es": "RecibiÃ³ su nombre por 'cosechar' cultivos y plantas que crecen cerca del agua. Este comportamiento destructivo significa que se lo considera una plaga. Aunque parece ser popular por su tierna carne aceitosa."
 	},
 }

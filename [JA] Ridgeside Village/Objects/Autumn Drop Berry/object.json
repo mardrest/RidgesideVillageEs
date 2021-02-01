@@ -1,6 +1,6 @@
 {
   "Name": "Autumn Drop Berry",
-  "Description": "A unique tasting berry. It is commonly found by the mountain ridge. It presents a nutty yet sweet taste.",
+  "Description": "It tastes like like rainy autumn nights. It is commonly found near mountain ridges. It has a nutty yet sweet taste.",
   "Category": "Fruit",
   "Edibility": 10,
   "Price": 55,
@@ -11,12 +11,12 @@
   "Love": ["Flor", "Kenneth"],
   "Like": ["Olga", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Baya caída de otoño"
+		"es": "Baya gota de otoÃ±o"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Una baya de sabor único. Se encuentra comúnmente en la cordillera. Presenta un sabor a nuez pero dulce."
-	}
+		"es": "Sabe a noches lluviosas de otoÃ±o. Se encuentra comÃºnmente cerca de las crestas de las montaÃ±as. Tiene un sabor a nuez pero dulce."
+	},
 }

@@ -25,8 +25,6 @@
 	"winter_17": "Hey there, @! Did you know that submarines have been used for centuries? #$b# And now we can even fish in them!",
 	"winter_24": "The Feast of the Winter Star makes me anxious - the decorations use up so much power!$s#$b#I just hope there isn't a power surge.",
 
-
-
 //Days of the Week
 
 	//0 Hearts
@@ -75,7 +73,6 @@
 	"Sun8": "I hope you're doing fine today @. Need any help with something?#$e#I hope I can help you with anything.$h#$e#Just tell me okay?$h",
 
 	//10 Hearts
-
 	"Mon10": "You're looking great today @. #$b#I can't figure out how I managed to steal your heart.$l#$e#I'm just glad I did like you did mine.$h#$e#Cheesy? I'm sorry, I tried!$h",
 	"Tue10": "Marnie came by the other day and asked for some help with her television.#$e#It looked like someone kicked it! I was confused. I didn't ask any questions though.",
 	"Wed10": "I tried to finish some more work last night.#$b# Man I'm so tired! I haven't gotten enough sleep.$s",
@@ -83,15 +80,12 @@
 	"Fri10": "Want me to teach you some basic circuitry? #$b#I saw that you do your own crafting at your farm too. I'd like to help.$h",
 	"Sat10": "Sometimes the little things you do pop into my head out of nowhere.#$e#Like how you tug on your ear when you're thinking, or smile at me...$l#$b# I'm being cheesy again, sorry!$h",
 	"Sun10": "@! I'm glad you're here.$h#$b#It's just been a long week and seeing you always helps.$l",
-	
-
-
 
 //Special Dialogue
-"breakUp": "Did I do something wrong, @? I didn't think it would come to this.$s",
-"danceRejection": "Oh, no. I'm not much of a dancer...$6",
-"divorced": "Doesn't matter how many times you try to mend two wires, the outcome is always a blown fuse.$s",
-
+	"breakUp": "Did I do something wrong, @? I didn't think it would come to this.$s",
+	"danceRejection": "Oh, no. I'm not much of a dancer...$6",
+	"divorced": "Doesn't matter how many times you try to mend two wires, the outcome is always a blown fuse.$s",
+	"MovieInvitation": "The movies? Sure!$h#$b#I'd love to come with you to the movies, @.#$b#Nice change of scenery for me. Ha ha!$h",
 
 //Resort
 	"Resort_Entering": "This beats the beach back in Pelican Town, that's for sure!$h",
@@ -105,6 +99,5 @@
 	"Resort_Wander": "I know some people who would want to go exploring the interior of the island.#$b#As for me? I'm fine right here! I'm NOT getting abducted by pirates today, no thank you!$6",
 	"Resort_Bar": "Oh, I'm just having a fruit punch. I don't really care much for alcohol.$h",
 	"Resort": "I bet there's all sorts of hidden treasures here.$h#$b#I'd love to collect a few, but who knows what lurks in that jungle...$6",
-
 
 }

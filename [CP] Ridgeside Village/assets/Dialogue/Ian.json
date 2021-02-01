@@ -25,7 +25,6 @@
 	"winter_17": "I've always been a fan of the lights and vibe of the Night Market.#$b#Something about the boats on the dark water is calming.",
 	"winter_24": "The big holiday tree is so fun to decorate!$h#$b#I look forward to tomorrow.",
 
-
 //Days of the Week
 
 	//0 Hearts
@@ -82,28 +81,23 @@
 	"Sat10": "I tried writing earlier before I left for work.#$b#My goal is at least 5 words a day.#$b#Today, I wrote '%farm', '%favorite', '%noun', '@', and '%place'.$h#$b#Not sure why those popped into my head, but oh well!$h",
 	"Sun10": "I helped Clint the other day with some tool upgrades.#$b#I'm not sure which was yours though.#$b#He gets a lot of orders.#$b#I mean, if I knew, I would have delivered it to you personally.$h#$b#You know, just to see you.$l",
 	
-
-
 //Special Dialogue
-"breakUp": "I'm sorry we didn't work out... I hope you can find someone to give you the happiness I couldn't.$s",
-"danceRejection": "Oh, sorry @.#$b#I have to tend to some tables.",
-"divorced": "Don't talk to me.$s#$b#You've wasted enough of my time.$a",
-
+	"breakUp": "I'm sorry we didn't work out... I hope you can find someone to give you the happiness I couldn't.$s",
+	"danceRejection": "Oh, sorry @.#$b#I have to tend to some tables.",
+	"divorced": "Don't talk to me.$s#$b#You've wasted enough of my time.$a",
+	"MovieInvitation": "A movie invitation?$u#$b#I rarely get those.$l#$b#I'd love to go with you, @!$h",
 
 //Resort
-  "Resort_Entering": "It's been so long since I've left the valley.$h#$b#I've almost forgotten what being on a boat feels like!",
-  "Resort_Leaving": "It was nice while it lasted.#$b#But tomorrow, it's back to the usual, work and errands.$h#$b#I do feel refreshed, though!",
-  "Resort_Leaving_2": "I'm going to miss the salt on the air.#$b#It reminds me of home.#$b#I should write another letter to my family, soon.",
-  "Resort_Shore": "Is it really alright to enjoy myself like this?#$b#I just keep thinking about all the work I'm missing out on...$s",
-  "Resort_Shore_2": "Harvey tells me I've been stressing too much lately.#$b#I think this will help.",
-  "Resort_Umbrella": "The sound of the ocean is one of my favorite things.#$b#It makes me feel so calm, like I could just walk into the waves and live without a care.#$b#Haha, sorry, was that a weird thing to say?$h",
-  "Resort_Umbrella_2": "I don't like to be in the sun when I can avoid it.#$b#I can't tan.#$b#I just burn.#$b#That's how I got all of these freckles, haha!$h",
-  "Resort_Umbrella_3": "I wonder if they need another person to help clean.#$b#I should ask whoever's in charge.",
-  "Resort_Wander": "Am I lost?#$b#I may not look like it, but I'm good at finding my way around new places!",
-  "Resort_Bar": "Hey, @!#$b#Can you believe Gus runs bother the bar and the saloon?#$b#What an awesome guy!$h",
-  "Resort": "I wonder if I could take some coconuts home.#$b#They're super tasty, and the fiber is great for starting a fire!$h",
-
-
+  	"Resort_Entering": "It's been so long since I've left the valley.$h#$b#I've almost forgotten what being on a boat feels like!",
+  	"Resort_Leaving": "It was nice while it lasted.#$b#But tomorrow, it's back to the usual, work and errands.$h#$b#I do feel refreshed, though!",
+  	"Resort_Leaving_2": "I'm going to miss the salt on the air.#$b#It reminds me of home.#$b#I should write another letter to my family, soon.",
+  	"Resort_Shore": "Is it really alright to enjoy myself like this?#$b#I just keep thinking about all the work I'm missing out on...$s",
+  	"Resort_Shore_2": "Harvey tells me I've been stressing too much lately.#$b#I think this will help.",
+  	"Resort_Umbrella": "The sound of the ocean is one of my favorite things.#$b#It makes me feel so calm, like I could just walk into the waves and live without a care.#$b#Haha, sorry, was that a weird thing to say?$h",
+  	"Resort_Umbrella_2": "I don't like to be in the sun when I can avoid it.#$b#I can't tan.#$b#I just burn.#$b#That's how I got all of these freckles, haha!$h",
+  	"Resort_Umbrella_3": "I wonder if they need another person to help clean.#$b#I should ask whoever's in charge.",
+  	"Resort_Wander": "Am I lost?#$b#I may not look like it, but I'm good at finding my way around new places!",
+  	"Resort_Bar": "Hey, @!#$b#Can you believe Gus runs bother the bar and the saloon?#$b#What an awesome guy!$h",
+  	"Resort": "I wonder if I could take some coconuts home.#$b#They're super tasty, and the fiber is great for starting a fire!$h",
 
 }
-

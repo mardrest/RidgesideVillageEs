@@ -25,8 +25,6 @@
 	"winter_17": "You should go tell the art dealer you can model for him sometime.$6#$b#There's no way he'd turn a beauty like you down.$7",
 	"winter_24": "Been a good year, huh @?$h#$e#Next one's gonna be even better.#$b#Got some good plans, you'll see!$h",
 
-
-
 //Days of the Week
 
 	//0 Hearts
@@ -84,19 +82,18 @@
 	"Sun10": "What's up, @?$h#$b#Having a good day so far?#$b#Mine's better now.$7",
 
 //Special Dialogue
-"breakUp": "What..?$s#$b#Did - did I do something?$s#$b#Can't we talk about this?$s",
-"danceRejection": "No, not now. Sorry, @.$u",
-"divorced": "Sorry? Ha!$a#$b#Go fool around with someone else.$a",
-"summer_Mon": "I've seen you at the beach before.$6",
-"summer_Mon4": "Wanna join me at the beach sometime to soak up some sun?$6",
-"summer_Wed": "Summer's a good season for fruits, but it's also a good time to take a break once in a while.$h",
-"summer_Fri": "Dressing light for the summer, @?$6#$b#It's a good look on you.$7",
-"winter_Mon": "Winter's a weird season for farmers.#$b#I usually just stay inside and work on some sewing project.$l",
-"'winter_Thu": "I feel bad for Ian.$s#$e#The poor guy seems like he's freezing, doing so much work outside.$s#$b#One of these days I'm gonna invite him inside for some hot chocolate.$h",
-"winter_Sat": "Pika's doesn't see much business during the winter.#$b#I would go to the saloon to eat out, but it's a long walk.$s",
-"fall_Fri": "Fall's probably my favorite season to design for.$h#$b#It's the start of the fashion year!$l",
-
-
+	"breakUp": "What..?$s#$b#Did - did I do something?$s#$b#Can't we talk about this?$s",
+	"danceRejection": "No, not now. Sorry, @.$u",
+	"divorced": "Sorry? Ha!$a#$b#Go fool around with someone else.$a",
+	"summer_Mon": "I've seen you at the beach before.$6",
+	"summer_Mon4": "Wanna join me at the beach sometime to soak up some sun?$6",
+	"summer_Wed": "Summer's a good season for fruits, but it's also a good time to take a break once in a while.$h",
+	"summer_Fri": "Dressing light for the summer, @?$6#$b#It's a good look on you.$7",
+	"winter_Mon": "Winter's a weird season for farmers.#$b#I usually just stay inside and work on some sewing project.$l",
+	"'winter_Thu": "I feel bad for Ian.$s#$e#The poor guy seems like he's freezing, doing so much work outside.$s#$b#One of these days I'm gonna invite him inside for some hot chocolate.$h",
+	"winter_Sat": "Pika's doesn't see much business during the winter.#$b#I would go to the saloon to eat out, but it's a long walk.$s",
+	"fall_Fri": "Fall's probably my favorite season to design for.$h#$b#It's the start of the fashion year!$l",
+	"MovieInvitation": "Oh! A movie?$l#$b#That's a great idea, @!$h#$e# Don't forget the snacks, I'll be there waiting for you.$7",
 
 //Resort
 	"Resort_Entering": "How did you manage to find a spot like this?#$e#And more importantly, why didn't you tell me?$6#$b#Haha, just kidding.$7",
@@ -111,7 +108,4 @@
 	"Resort_Bar": "%Jeric is hanging onto the bar and slurring something to the bartender.#$b#%Better wait for him to sober up before talking to him.",
 	"Resort": "This resort's nice.$h#$e#I wish there were some night lights or music playing.#$b#Just something to amp it up, you know?$h",
 
-
 }
-
-

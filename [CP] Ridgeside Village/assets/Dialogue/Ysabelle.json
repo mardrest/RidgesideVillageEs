@@ -25,8 +25,6 @@
 	"winter_17": "Lupini asked if he could paint me.$u#$e#I was surprised at the offer, but I couldn't say no!$l#$b#His rococo style is unparalleled!",
 	"winter_24": "I hope this yuletide season brings you joy as much as the Winter Star treats bring me happiness!$h#$b#Have a wonderful new year, @!$h",
 
-
-
 //Days of the Week
 
 	//0 Hearts
@@ -83,14 +81,11 @@
 	"Sat10": "I finally figured out a name for what you and dance have in common, for me: both feel like home.$l",
 	"Sun10": "How does a picnic and a bottle of something sparkling sound?#$e#Champagne would be wonderful, but to be honest, I'd be fine with some sparkling water, as long as you're there.$l",
 	
-
-
-
 //Special Dialogue
-"breakUp": "I apologize for doing this... But I don't think things will work out between us.$6",
-"danceRejection": "Oh dear, I'm sorry but I have to decline.$6",
-"divorced": "What you did to me is unacceptable!$a#$b#You're not worth my time so please stop wasting it!$a",
-
+	"breakUp": "I apologize for doing this... But I don't think things will work out between us.$6",
+	"danceRejection": "Oh dear, I'm sorry but I have to decline.$6",
+	"divorced": "What you did to me is unacceptable!$a#$b#You're not worth my time so please stop wasting it!$a",
+	"MovieInvitation": "I'd be delighted to accompany you to the movies, @.$h#$b#Just let me tidy myself up, then I'll meet you at the theatre in a heartbeat.",
 
 //Resort
 	"Resort_Entering": "Ahhh, a chance to soak up some sunshine and relax!$h#$b#This is my kind of getaway.$h",
@@ -105,6 +100,4 @@
 	"Resort_Bar": "There's nothing else you need at the beach but a tequila and a tan!$h",
 	"Resort": "Ahhhh! Home is where the sea is, haha!$h#$b#I hope I get to work on my tan!",
 
-
 }
-

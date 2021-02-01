@@ -80,15 +80,16 @@
 	"Fri10": "Hey, @. What's a prank?#$e#Keahi and Trinnie said they're prank experts.#$b#My brother told me not to pull any pranks though. I'm confused.$u",
 	"Sat10": "Miss Flor is really pretty.$h#$b#I always like it when she talks about how people's brains work.$h#$b#She's really sweet.$h",
 	"Sun10": "Hello, @! I'm happy you're here!$h#$b#Can I come help you on your farm some day?$h",
+
+//Special Dialogue
+	"MovieInvitation": "Oh? A movie?#$b#Shiro's doing fine at the moment... so I'm good to go.#$b#Thanks.$h",
 	
 //Resort
-"Resort_Entering": "I think my brother is excited to be able to relax. That makes me happy.$h",
-"Resort_Leaving": "That... that was nice.#$b#I really enjoyed today.$h",
-"Resort_Shore": "Have you been swimming in the water before, @?#$b#It looks really deep...$u",
-"Resort_Chair": "Maybe I should have brought a book with me.#$b#Ms. Penny says I should read more...",
-"Resort_Bar": "Wow, the juice they have here is really neat.$h#$e#We don't have these kinds of juices back in the ridge.",
-"Resort": "This place is really interesting.$h#$e#Um... I have to go, bye.",
-
+	"Resort_Entering": "I think my brother is excited to be able to relax. That makes me happy.$h",
+	"Resort_Leaving": "That... that was nice.#$b#I really enjoyed today.$h",
+	"Resort_Shore": "Have you been swimming in the water before, @?#$b#It looks really deep...$u",
+	"Resort_Chair": "Maybe I should have brought a book with me.#$b#Ms. Penny says I should read more...",
+	"Resort_Bar": "Wow, the juice they have here is really neat.$h#$e#We don't have these kinds of juices back in the ridge.",
+	"Resort": "This place is really interesting.$h#$e#Um... I have to go, bye.",
 
 }
-

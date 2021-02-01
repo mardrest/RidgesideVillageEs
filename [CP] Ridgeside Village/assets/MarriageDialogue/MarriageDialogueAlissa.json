@@ -1,4 +1,5 @@
-{    
+{
+
 ///Spring
 	"spring_1": "It's a great day today isn't it?$h#$b#The birds in the trees are singing a sweet melody in my ears and it makes me just wanna join in.$6",
 	"spring_12": "I collected some eggs to bring tomorrow, @. $h#$b#I hope that's alright with you.$l",
@@ -23,7 +24,6 @@
 	"winter_17": "I hope you got some interesting items, @! I was able to buy some good stuff.$h",
 	"winter_24": "I'm quite excited for tomorrow!#$b#Have you got a gift for your secret santa yet?",
 	
-
 ///Room
 "spouseRoom_Alissa": "I've been working on a new song, darling.$u#$b#I hope to have you hear it first of course!$h",
 
@@ -45,7 +45,7 @@
 "Rainy_Night_3": " You must be tired baby, come. Change your clothes and climb on the bed with me$h#$b#I'm going to sing you a lullaby to help you sleep.$6",
 "Rainy_Night_4": " The rain's been pretty vocal today.#$b#Hmmm... maybe if I sing it'll calm the rain down$6#$b#Hahaha any excuse just to sing, I know. Sorry.$l ",
 "Rainy_Night_5": "~Rain rain, go away~$6#$b# Oh welcome home baby!$h#$b#Were you good today?",
-"Rainy_Night_Spouse": "~When life gives you rainy days, go out and play to make the bad days go away~$6#$e#Come here baby, give me a hug and a kiss please?#$b#%Alissa pouts her cute little lips.",
+"Rainy_Night_Alissa": "~When life gives you rainy days, go out and play to make the bad days go away~$6#$e#Come here baby, give me a hug and a kiss please?#$b#%Alissa pouts her cute little lips.",
 
 ///Indoor Day
 "Indoor_Day_0": " Good morning baby! I feel so energized today! I was able to write 3 verses for my new song$h#$b#Ahh it's such a joy to be so carefree and in love.$l ",
@@ -61,7 +61,7 @@
 "Indoor_Night_2": "Let's lie down and talk about our day, @!$h",
 "Indoor_Night_3": "I don't know why, darling, but I really find the night time inspiring.$l#$b#It gives me a lot of lyric and even tune ideas.$h",
 "Indoor_Night_4": "You're home, @!#$b#I spent the day doing chores.#$b#I also visited Auntie earlier.$h",
-"Indoor_Night_Spouse": "~Lullaby... and good night... Let the starlights be your guide.~$6#$b#What my darling? Nothing, I'm just practicing some lullabies for later.$l#$b#So prepare okay? Teehee <$h",
+"Indoor_Night_Alissa": "~Lullaby... and good night... Let the starlights be your guide.~$6#$b#What my darling? Nothing, I'm just practicing some lullabies for later.$l#$b#So prepare okay? Teehee <$h",
 
 ///Outdoors
 "Outdoor_0": "Darling! What a wonderful day it is to be outside.$h#$e#Can you smell the flowers around us?#$b#I mean, even the birds are singing a great melody!$h#$b#~Hi birds!~$6",
@@ -77,20 +77,19 @@
 "funReturn_Alissa": "~I'm hoooooomeee!~$6#$b#Did you miss me, @?$h", 
 
 //One kid
-"OneKid_0": "Oh, darling, did you feel [kid 1's name]'s tiny fingers?#$b#I can't stop obsessing over how little they are!$h", 
-"OneKid_1": "Look, darling! [kid 1's name] is starting to learn how to walk!$h", 
-"OneKid_2": "Awwww, aren't you and [kid 1's name] just so adorable? You just look so alike!$h", 
-"OneKid_3": "Do you think [kid 1's name] would like a little brother or sister?$l",
+"OneKid_0": "Oh, darling, did you feel %kid1's tiny fingers?#$b#I can't stop obsessing over how little they are!$h", 
+"OneKid_1": "Look, darling! %kid1 is starting to learn how to walk!$h", 
+"OneKid_2": "Awwww, aren't you and %kid1 just so adorable? You just look so alike!$h", 
+"OneKid_3": "Do you think %kid1 would like a little brother or sister?$l",
 
 //Two kids
 "TwoKids_0": "Aww, look at them both running around our farm. It makes me so happy to see.$h",
 "TwoKids_1": "I'm glad we decided to start a family, darling.#$e#We have the cutest kids to whom we can leave all this land and these crops to, ha ha ha.$h#$b#When they grow older we're going to teach them our farm tricks!$h",
-"TwoKids_2": "Hey, darling. [kid 1's name] has been giving [kid 2's name] some fruit.#$b#It's such a delight to see them share.$h",
+"TwoKids_2": "Hey, darling. %kid1 has been giving %kid2 some fruit.#$b#It's such a delight to see them share.$h",
 "TwoKids_3": "I love you, @! I love our kids. I love our life! I'm so happy with everything we have.$h",
 
-
 //Relationship-dependent
-///Good
+///Good%kid1
 "Good_0": "Hey, you got some bit of dirt in your hair, come here.#$b#There! I'll never get tired of taking care of you.$l",
 "Good_1": "~Hmm hmm hm hmm...~$6#$b#I've got this melody in my ear and I can't seem to shake it. It must be a sign or something, right?$u",
 "Good_2": "~When the world is cold, you can have a hiding place you can go. In beneath my arms you are home.~$6#$b#Oh! Hi, darling!$h",

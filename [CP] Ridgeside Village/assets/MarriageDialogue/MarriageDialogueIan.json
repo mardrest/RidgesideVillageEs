@@ -1,6 +1,5 @@
-
 {    
-//If Married:
+
 ///Spring
 	"spring_1": "Happy new year!$h#$b#Here's to making this the best year of our lives!$l",
 	"spring_12": "Honey, would it be okay if I leave you here for a while?#$b#I'm going to help Mayor Lewis set up for tomorrow.#$b#I've still got to send some money to my family this month, so this gig might be a big bonus!$h",
@@ -25,8 +24,6 @@
 	"winter_17": "I'm not looking forward to the cleanup tonight.#$b#But, a job's a job!#$b#I'll try and finish up as soon as possible.#$b#If it's okay, I'd like some extra cuddles when I get home.$l",
 	"winter_24": "I've always loved decorating the tree.$h#$b#It makes me feel giddy inside.$h",
 
-//Marriage
-
 ///Room
 "spouseRoom_Ian": "I've been practicing my writing.#$b#Look!#$b#I think my handwriting is getting better!$h#$b#It's easier to write neatly and quickly than it was last week.h#$e#I'll work on my reading tonight, but I think I need a break!",
 
@@ -41,7 +38,6 @@
 "Rainy_Day_4": "I was just looking out the window.#$b#The farm looks so peaceful in the rain.$h#$b#I should really learn how to relax from time to time huh?#$e#I've been working nonstop for so long I feel like I've forgotten how to.$s",
 "Rainy_Day_Ian": "There's a small leak above the kitchen.$u#$b#Don't worry about it, I'll take care of it right away.$h#$b#It's the least I can do.",
 
-
 ///Rainy Night
 "Rainy_Night_0": "You're soaked!$u#$b#I still hope you had a good day.#$b#Now, let's get you warm and dry.$h",
 "Rainy_Night_1": "Ah hon, you're drenched!#$b#Who am I to say that, I'm drenched too!$h",
@@ -51,7 +47,6 @@
 "Rainy_Night_5": "I was thinking, what if we had dinner on the couch and watched a movie before bed?$l",
 "Rainy_Night_Ian": "It's kind of cheesy, but rainy days are so gloomy when you're not here.$s#$b#But rainy nights with us both home together are one of my favorite things.$l",
 
-
 ///Indoor Day
 "Indoor_Day_0": "I'm gonna do some cleaning today.#$b#Let me know if you want me to run any laundry, okay?",
 "Indoor_Day_1": "I saw some rabbits at the edge of the farm earlier.#$b#They're so cute, with their button tails!$h#$b#We should also probably put up some fencing to keep them out of the field.",
@@ -59,7 +54,6 @@
 "Indoor_Day_3": "Another day, another full schedule!$h#$b#I'm excited!$h#$b#I've had my coffee and I'm ready to put my nose to the grindstone!#$b#I brewed you a cup as well.#$b#Here ![395] $h",
 "Indoor_Day_4": "You look really good, even first thing in the morning.$l#$b#Your bed head is really cute.$h",
 "Indoor_Day_Ian": "Oof, my neck is so stiff.$s#$b#I should probably see Harvey about it... Maybe I need a better pillow?#$b#I've had the same one for longer than I can remember.$h",
-
 
 //Indoor Night
 "Indoor_Night_0": "Hey @, I made you some of Gus' special pasta!#$b#[224] He taught me how to cook 'al dente' the other day.$h",
@@ -77,7 +71,7 @@
 "Outdoor_4": "I've always liked animals, but I've never had any of my own.#$b#I'm glad I get to hang out with yours every day.$h",
 
 //Leaving
-"funLeave_Ian": "I'm off for a relaxation walk honey.#$b#Philip said I could use one.$h",
+"funLeave_Ian": "I'm off for a relaxation walk, honey.#$b#Philip said I could use one.$h",
 
 //Returning
 "funReturn_Ian": "Phew! That was a fun walk!$h#$b#I saw Lewis and Lenny were moving some boxes so I helped!#$b#It was relaxing!$h",
@@ -93,7 +87,6 @@
 "TwoKids_1": "I can't believe I'm a Dad!#$b#I'm going to work even harder to support our family.#$b#I want them to have everything they want!$h",
 "TwoKids_2": "I think I'm going to ask Penny for tips on teaching the kids all kinds of stuff.$h#$b#I want them to get the education I never had.#$b#I'll be the best teacher dad!$h",
 "TwoKids_3": "All I wish in life is to have our kids grow up to be responsible and kind.$h#$b#I know if they're raised by you, they'll be amazing people.$l",
-
 
 //Relationship-dependent
 ///Good
@@ -118,7 +111,7 @@
 "Neutral_6": "I've learned to ignore when I'm hungry and thirsty so I can get work done faster, but Doctor Harvey says that's why I sometimes feel dizzy out of nowhere.",
 "Neutral_7": "I've been hearing this rumor about Marnie and Lewis.#$b#Is it true?#$b#I mean, I don't think I should care, but I kind of do.#$b#I wonder why?",
 "Neutral_8": "Hey, @, next time you have a free evening, we should make some plans.#$b#Something quiet, maybe just cuddling on the couch?",
-"Neutral_9": "I'm in a hurry hon.#$b#Sorry I can't talk right now.#$b#I have lots of work to do today.",
+"Neutral_9": "I'm in a hurry, honey.#$e#Sorry, I can't talk right now.#$b#I have lots of work to do today.",
 
 ///Bad
 "Bad_0": "I don't have the energy to talk right now.$s",
@@ -128,10 +121,7 @@
 "Bad_4": "Hmm?#$b#Did you say something?#$b#Sorry, I didn't notice.",
 "Bad_5": "I'm going to sleep on the couch tonight.$s#$b#I just haven't been able to sleep well in the bed lately.$s",
 "Bad_6": "Hey do you have time to talk, @?$s#$b#Oh... no?$s#$b#I understand... sorry.$s",
-"Bad_7": "I've got a lot of work to do on the Ridge tomorrow, so I'm gonna go spend the night at my old place.$s",
+"Bad_7": "I've got a lot of work to do at the Ridge tomorrow, so I'm gonna go spend the night at my old place.$s",
 "Bad_8": "I'm not feeling well.$s#$b#Of course I'm still going to go to work, why would I stay here?$s",
 "Bad_9": "Why did you marry me if you're just going to...$s#$b#I mean... sorry... I'm just going to keep my mouth shut.$s",
-
-
 }
-

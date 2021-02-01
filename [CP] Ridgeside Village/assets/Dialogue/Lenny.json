@@ -80,16 +80,16 @@
 	"Fri10": "Sometimes I get so caught up in paperwork that I forget to eat.$s#$b#Good thing Pika's open all the time!$h#$e#He makes amazing pie, and there's nothing better than a warm slice of pie after a long night of pencil pushing.",
 	"Sat10": "It might be a long trek between Ridgeside and Pelican Town, but everyone goes back and forth all the time.#$e#It feels like we're just one town with a cable car in the middle!$h",
 	"Sun10": "You know how I couldn't find anything about Linus?#$e#Apparently, he was once a millionaire!$u#$e#Don't tell anyone I told you!",
+
+//Special Dialogue
+	"MovieInvitation": "A movie? How'd you know I was looking for a date?$4#$b#Ha ha! I'm just messing with you! Of course I'll go. Thank you for the invite.$h#$b#I'll see you there.",
 	
 //Resort
-"Resort_Entering": "Oh wow, it's way hotter here than Ridgeside!$u",
-"Resort_Leaving": "Time to go!",
-"Resort_Shore": "I taught Lewis how to swim.#$e#He taught himself how to float, ha ha!$h",
-"Resort_Chair": "A break from all that paperwork is really what I needed.$h",
-"Resort_Bar": "Aawh, they don't sell Cherry Berry Shakey here.$s",
-"Resort": "Hiya, @!$h#$e#They say the water on the island has healing properties.#$e#Do you believe that?$4",
-
-
+	"Resort_Entering": "Oh wow, it's way hotter here than Ridgeside!$u",
+	"Resort_Leaving": "Time to go!",
+	"Resort_Shore": "I taught Lewis how to swim.#$e#He taught himself how to float, ha ha!$h",
+	"Resort_Chair": "A break from all that paperwork is really what I needed.$h",
+	"Resort_Bar": "Aawh, they don't sell Cherry Berry Shakey here.$s",
+	"Resort": "Hiya, @!$h#$e#They say the water on the island has healing properties.#$e#Do you believe that?$4",
 
 }
-

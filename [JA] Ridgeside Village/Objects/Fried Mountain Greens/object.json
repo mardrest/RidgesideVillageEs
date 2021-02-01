@@ -23,13 +23,12 @@
 	{
 		"Love": ["Keahi", "Ysabelle"],
 	},
-
 	"NameLocalization":
 	{
-		"es": "Verduras de la montaña fritas"
+		"es": "Verduras de montaÃ±a fritas"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "¡Las verduras fritas nunca han sido tan sabrosas!"
+		"es": "Â¡Las verduras fritas nunca han sido tan sabrosas!"
 	},
 }

@@ -24,12 +24,12 @@
     "Like": ["Abigail", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Jodi", "Sandy", "Demetrius", "Gus", "Pierre"],
     "Dislike": ["Krobus", "Dwarf"]
   },
-  "NameLocalization":
-    {
-		"es": "Helado de las montañas"
-    },
-    "DescriptionLocalization":
-    {
-		"es": "Helado especial hecho en Ridgeside Village. Bueno para disfrutar de la vista a la montaña."
-    }
+	"NameLocalization":
+	{
+		"es": "Helado de las montaÃ±as"
+	},
+	"DescriptionLocalization":
+	{
+		"es": "Helado especial hecho en la aldea Ridgeside. Bueno para disfrutar de la vista a la montaÃ±a."
+	},
 }

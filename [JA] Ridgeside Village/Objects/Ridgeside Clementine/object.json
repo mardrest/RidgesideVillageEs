@@ -24,12 +24,12 @@
   "Love": ["Richard", "Alissa"],
   "Like": ["Freddie", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
 		"es": "Clementina de Ridgeside"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Casi igual a una clementina normal. Casi saben igual. La única diferencia es el regusto a nuez que da. Se pudre rápidamente si no fuera por el clima frío del invierno y la gran altitud."
-	}
+		"es": "Al igual que una clementina normal. Casi saben igual. La Ãºnica diferencia es el regusto a nuez que da. Si no fuera por el clima frÃ­o del invierno y la gran altitud, se pudre rÃ¡pidamente."
+	},
 }

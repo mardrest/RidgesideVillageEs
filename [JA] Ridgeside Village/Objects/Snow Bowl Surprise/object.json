@@ -23,13 +23,12 @@
 	{
 		"Love": ["Shiro", "Bert"],
 	},
-
 	"NameLocalization":
 	{
-		"es": "Cuenco de nieve sorpresa"
+		"es": "Bol de nieve sorpresa"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "La fruta silvestre local combinada con virutas de hielo limpias, almíbar y cerezas."
+		"es": "La fruta silvestre local combinada con virutas de hielo limpias, almÃ­bar y cerezas."
 	},
 }

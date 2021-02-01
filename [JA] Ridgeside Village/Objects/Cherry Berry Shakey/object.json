@@ -1,6 +1,6 @@
 {
   "Name": "Cherry Berry Shakey",
-  "Description": "A sweet cherry rich drink beloved by kids and adults alike!",
+  "Description": "A sweet cherry-rich drink beloved by both kids and adults!",
   "Category": "Cooking",
   "Price": 200,
   "Edibility": 51,
@@ -24,12 +24,12 @@
     "Like": ["Abigail", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Jodi", "Sandy", "Demetrius", "Gus", "Pierre"],
     "Dislike": ["Krobus", "Dwarf"]
   },
-  "NameLocalization":
-    {
+	"NameLocalization":
+	{
 		"es": "Batido de cereza y bayas"
-    },
-    "DescriptionLocalization":
-    {
-		"es": "¡Una bebida rica en cereza dulce amada por niños y adultos por igual!"
-    }
+	},
+	"DescriptionLocalization":
+	{
+		"es": "Â¡Una bebida dulce rica en cerezas amada tanto por niÃ±os como por adultos!"
+	},
 }

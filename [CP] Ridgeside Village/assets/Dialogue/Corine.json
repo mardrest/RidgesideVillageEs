@@ -20,10 +20,10 @@
 	"winter_1": "Ooohh, it's so cold!!$u#$b#This is a very fun season though! I especially love drinking hot cocoa by the fire.",
 	"winter_7": "I'm glad that the fish are released after the fishing competition tomorrow.#$b#It'd be a big waste to try and cook them all; they'd never get eaten in time.",
 	"winter_14": "I hope I get to buy a cute necklace tomorrow. I once saw a pretty blue shell necklace when I was young!$h#$b#I wanted to buy it then my Mama said it was not for kids.",
+	"winter_15": "PLACEHOLDER",
+	"winter_16": "PLACEHOLDER",
+	"winter_17": "PLACEHOLDER",
 	"winter_24": "It's going to be the end of the year soon, @. I hope you had a good one.#$b#Papa's been looking forward to spring, he hates the cold!$h",
-
-
-
 
 //Days of the Week
 
@@ -80,20 +80,15 @@
 	"Fri10": "Pika won't let me give customers a discount!$s#$b#He says it's unfair! I just want to give you a 70 or 80 percent discount!$a#$b#It's not that big of a deal!$a",
 	"Sat10": "Papa had an extra set in his collection.#$b#He says give it to someone special and, well, you're someone really special sooo here [577].$l#$b#I hope you like it, @.$h",
 	"Sun10": "@! I'm glad you're here!$h#$b#I have some errands to do later. Want to come with?#$b#We can make a bit of a date of it!#$b#I just want an excuse to spend time with you.$l",
-	
-
-
-
 
 //Special Dialogue
-"breakUp": "Please... I don't want to talk to you right now.$s",
-"danceRejection": "I'm going to have to say no, @. I'm sorry!$s",
-"divorced": "Don't even try to talk to me. I hate you.$a",
-
+	"breakUp": "Please... I don't want to talk to you right now.$s",
+	"danceRejection": "I'm going to have to say no, @. I'm sorry!$s",
+	"divorced": "Don't even try to talk to me. I hate you.$a",
+	"MovieInvitation": "Really??? The movies?!$l#$b#I'd love to go with you!$h#$b#Just let me freshen up a bit okay?",
 
 //Locations
     "Saloon": "Hey there, @.#$b#What can I get you?$h",
-	
 
 //Resort
 	"Resort_Entering": "This place looks amazing!$h",
@@ -108,6 +103,4 @@
 	"Resort_Bar": "Oh! Maybe I could ask if there's a job opening here!",
 	"Resort": "I wonder what wonders I can see around here.#$b#Tell me if you find anything interesting, okay @?$h",
 
-
 }
-

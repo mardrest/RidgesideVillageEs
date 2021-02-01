@@ -1,6 +1,6 @@
 {
   "Name": "Autumn Dew Drop Juice",
-  "Description": "The flavor of the mountain fall season in a drink!",
+  "Description": "The flavor of the mountains contained in a single drink!",
   "Category": "Cooking",
   "Price": 200,
   "Edibility": 51,
@@ -24,12 +24,12 @@
     "Like": ["Abigail", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Jodi", "Sandy", "Demetrius", "Gus", "Pierre"],
     "Dislike": ["Krobus", "Dwarf"]
   },
-  "NameLocalization":
-    {
-		"es": "Jugo de gotas de rocío de otoño"
-    },
-    "DescriptionLocalization":
-    {
-		"es": "¡El sabor de la temporada de otoño de la montaña en una bebida!"
-    }
+	"NameLocalization":
+	{
+		"es": "Jugo de gotas de rocÃ­o de otoÃ±o"
+	},
+	"DescriptionLocalization":
+	{
+		"es": "Â¡El sabor de la montaÃ±a contenido en una sola bebida!"
+	},
 }

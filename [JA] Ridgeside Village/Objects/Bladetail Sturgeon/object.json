@@ -1,11 +1,11 @@
 {
 	"Name": "Bladetail Sturgeon",
-	"Description": "A very dangerous fish. It's tail is as sharp as a blade. It is believed that their endangered status is caused by overhunting, for their tails may have served as arrow heads in ancient times.",
+	"Description": "A very dangerous fish. Its tail is as sharp as a blade. Overfishing caused this species' population to dwindle. Their tail may have served as arrow heads in ancient times.",
 	"Category": "Fish",
 	"Edibility": 10,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": null,
-	"Price": 2000,
+	"Price": 1000,
 	"IsColored": false,
 	"GiftTastes":
 	{
@@ -13,10 +13,10 @@
 	},
 	"NameLocalization":
 	{
-		"es": "Esturión cola filo de espada"
+		"es": "EsturiÃ³n cola filo de espada"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Un pez muy peligroso. Su cola es tan afilada como una hoja de espada. Se cree que su estado de peligro de extinción se debe a la caza excesiva, ya que su cola puede haber servido como punta de flecha en la antigüedad."
+		"es": "Un pez muy peligroso. Su cola es tan afilada como una espada. La sobrepesca hizo que la poblaciÃ³n de esta especie disminuyera. Su cola puede haber servido como puntas de flecha en la antigÃ¼edad."
 	},
 }

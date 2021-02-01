@@ -155,7 +155,7 @@
 		"Update": "OnLocationChange, OnTimeChange"
     },
 	
-//Unlock plot
+//Unlock Minecarts
 	{
         "Action": "EditMap",
         "Target": "Maps/RidgesideVillage",
@@ -192,7 +192,7 @@
 		],
 		"When": { "HasSeenEvent: hostPlayer": 75160190 },
 		"Update": "OnLocationChange, OnTimeChange"
-    },
+	},
 	//Open Enrance
 	{
 		"Action": "EditMap",
@@ -203,6 +203,22 @@
 		"When": { "HasSeenEvent: hostPlayer": 75160189 },
 		"Update": "OnLocationChange, OnTimeChange"
 	},
+
+//Blank Questboards
+	{
+        "Action": "EditMap",
+        "Target": "Maps/RidgesideVillage",
+        "MapTiles": [
+			{
+				"Position": { "X": 109, "Y": 40 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Message rsv.noquestboard"
+               }
+            }
+		],
+		"When": { "HasMod: |contains=Rafseazz.RSVQF": false }
+    },
 
 	
 ]

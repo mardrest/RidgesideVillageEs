@@ -23,13 +23,12 @@
 	{
 		"Love": ["Ysabelle", "Richard"],
 	},
-
 	"NameLocalization":
 	{
-		"es": "Atún picante"
+		"es": "AtÃºn Zesty"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Atún ahumado con salsa cítrica! Es un manjar local de Ridgeside."
+		"es": "Â¡AtÃºn ahumado con salsa cÃ­trica! Es un manjar local de ridgeside."
 	},
 }

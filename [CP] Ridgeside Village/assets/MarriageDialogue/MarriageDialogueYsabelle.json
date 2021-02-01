@@ -1,6 +1,5 @@
- 
 {	
-//If Married:
+
 ///Spring
 	"spring_1": "Seeing the flowers bloom makes me want to take off my shoes and dance around in the fields.$l",
 	"spring_12": "Why don't we have our own version of the egg hunt tomorrow?#$e#Why don't I hide, then you come and find me. And-- maybe I shouldn't finish that sentence, hmm?$l",
@@ -24,7 +23,6 @@
 	"winter_16": "Silk ribbons! Finally!$h",
 	"winter_17": "The entire market is like an exercise in exotic romanticism... and I adore it.$l",
 	"winter_24": "You're the greatest lucky charm of all, and I'm happy I get to end the year beside you.$l#$b#You make everything so much better, love.$h",
-
 
 ///Room
 "spouseRoom_Ysabelle": "Ah, this is such a nice space. I can relax so easily.$h#$b#Maybe I can turn this into an indoor dance studio?",
@@ -90,7 +88,6 @@
 "TwoKids_2": "Hey love, why don't you get some rest?#$b#I'll take care of %kid1 and %kid2 today, okay?$h",
 "TwoKids_3": "I'm just so blessed to have you three in my life.$h#$b#I don't know what I did in my past life to deserve this, but I'm so happy I get to share these moments with you all.$h",
 
-
 //Relationship-dependent
 ///Good
 "Good_0": "Sometimes I feel like bursting into dance with how happy I am. I truly love my life here with you, @.$h",
@@ -128,4 +125,3 @@
 "Bad_8": "If you're not going to put in effort to save our marriage...$6#$b#I don't know anymore really...$s#$e#We might as well end this.$7",
 "Bad_9": "Maybe I really was a trophy wife...$7",
 }
-

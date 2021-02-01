@@ -24,12 +24,12 @@
   "Love": ["Ysabelle", "Jeric"],
   "Like": ["Ian", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Rúcula montañesa"
+		"es": "RÃºcula de la montaÃ±a"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Un cultivo de clima fresco que se encuentra en la cordillera. Da un impulso temporal de suerte, dicen los lugareños."
-	}
+		"es": "Un cultivo de clima fresco que se encuentra en la cresta de las montaÃ±as. Da un golpe temporal de suerte, dicen los lugareÃ±os."
+	},
 }

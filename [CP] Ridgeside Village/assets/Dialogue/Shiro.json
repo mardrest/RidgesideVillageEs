@@ -1,5 +1,5 @@
 {
-	"Introduction": "Oh, hey, I haven't seen you around before. #$b# Are you the new farmer? Sorry, I don't get out to socialize much.  Name's Shiro, nice to meet you. $h",
+	"Introduction": "Oh, hey, I haven't seen you around before. #$b# Are you the new farmer? Sorry, I don't get out to socialize much. Name's Shiro, nice to meet you. $h",
 
 //Spring
 	"spring_1": "Aw, winter's over? That means it's almost pollen season...$s#$b#I don't know which is worse.",
@@ -24,7 +24,6 @@
 	"winter_16": "I gave Yuuma some pocket change.#$b#I hope he picks out a new toy, or some art supplies for himself.$h",
 	"winter_17": "Did you find anything cool at the market?",
 	"winter_24": "I'm thankful for so many things... Like Yuuma, and everyone here in the ridge.$h#$b#Everyone has made my life so much better, especially now.$l#$e#How about you, @? I hope you've had a good year.$h",
-
 
 //Days of the Week
 
@@ -81,14 +80,12 @@
 	"Fri10": "I try to cook for myself and Yuuma sometimes. It's the least I can do for my little bro. #$e#I get tired easily though, even just from simple house work.$s#$b# I really appreciate how much you're willing to help.$h",
 	"Sat10": "I should try to get out more. I mean, I miss talking with lots of other people.#$e#Let's take a walk and see everyone sometime, okay, @?",
 	"Sun10": "Despite everything, you still stick around with me. #$b#I don't know how to thank you for that, @. Just... thank you. $h#$e#You have no idea how much you mean to me.$l",
-	
-
 
 //Special Dialogue
-"breakUp": "No, I already have too much to worry about... just leave me alone.$a",
-"danceRejection": "Sorry, @. I'd like to, but dancing's too much for me to handle right now.$s",
-"divorced": "After everything, you really want to put me through this, too? Did you ever mean any of it?$a",
-
+	"breakUp": "No, I already have too much to worry about... just leave me alone.$a",
+	"danceRejection": "Sorry, @. I'd like to, but dancing's too much for me to handle right now.$s",
+	"divorced": "After everything, you really want to put me through this, too? Did you ever mean any of it?$a",
+	"MovieInvitation": "A movie? I'd really like that.$h#$b#I'll just make sure Yuuma's taken care of, then we'll be on our way.",
 
 //Resort
 	"Resort_Entering": "I got a lot of rest on the trip here, and now I'm ready to relax some more!$h",
@@ -102,6 +99,5 @@
 	"Resort_Wander": "I dropped some money over here somewhere... don't tell Yuuma.$6",
 	"Resort_Bar": "Shane had a few too many once and told me that I needed to try this mixed drink, but I can't remember the name of it...",
 	"Resort": "This place is beautiful. I already feel relaxed.$h",
-
 
 }

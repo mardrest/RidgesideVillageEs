@@ -1,6 +1,6 @@
 {
   "Name": "Highland Chard",
-  "Description": "Turns bitter when it gets too hot. It is a delicate yet rich wild crop popularly used in salads. It's locally harvested in mountain ridges.",
+  "Description": "Turns bitter when the weather gets too hot. It has a delicate yet sharp taste. Mostly used in salads. Its habitat is mostly mountain ridges.",
   "Category": "Fruit",
   "Edibility": 20,
   "EdibleBuffs": {
@@ -24,12 +24,12 @@
   "Love": ["Lola", "Maddie"],
   "Like": ["Flor", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
   },
-    "NameLocalization":
+	"NameLocalization":
 	{
-		"es": "Acelga de las monta�as"
+		"es": "Acelga de las montañas"
 	},
 	"DescriptionLocalization":
 	{
-		"es": "Se vuelve amarga cuando hace demasiado calor. Es un cultivo silvestre delicado pero rico que se usa popularmente en ensaladas. Se cosecha localmente en la cordillera."
-	}
+		"es": "Se vuelve amarga cuando hace demasiado calor. Tiene un sabor delicado pero fuerte. Se usa principalmente en ensaladas. Su hábitat es principalmente en la cordillera."
+	},
 }

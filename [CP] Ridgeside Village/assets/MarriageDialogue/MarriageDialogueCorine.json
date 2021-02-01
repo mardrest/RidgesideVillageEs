@@ -1,14 +1,13 @@
-
 {    
-//If Married:
+
 ///Spring
 	"spring_1": "Ahh, the season of flowers and everything that's blossoming.$h#$b#Kind of like us.. young, blossoming, and in love, haha!$l",
 	"spring_12": "I'm going to go over to Ysa's for a while.#$b#We're going to pick out our outfits for tomorrow.#$e#I'm eggcited to show you what I planned.$h",
 	"spring_23": "I'm so excited for tomorrow. hun.$h#$b#I'd love to dance around with you!$l#$b#It's going to be so much fun!",
 
 ///Summer
-	"summer_1": "Why don't we have a barbeque outside?$h",
-	"summer_10": "Papa is always so talkative about what he'll bring for the festival tomorrow.#$e#I think he won't admit it but he really is excited.$h",
+	"summer_1": "Why don't we have a barbeque outside?$h#$b#I'll stop by Pika's for some premium cuts of meat!",
+	"summer_10": "Papa is always so talkative about what he'll bring for the Luau tomorrow.#$e#He won't admit it but he really is excited.$h",
 	"summer_27": "I'm excited to go to the beach tomorrow.$h#$e#It looks like the beach wouldn't be the only beautiful scenery I'll be looking at tomorrow night.$l",
 
 ///Fall
@@ -20,6 +19,9 @@
 	"winter_1": "A season for warm hugs and gift giving is here.#$b#That's me asking for a hug, you dork.$l",
 	"winter_7": "It's cute the way Trinnie and Keahi made snowmen and snow angels.#$b#They're so carefree. Ah, the joy of childhood!$h",
 	"winter_14": "Oooooh, let's watch out for exotic items tomorrow, honey.",
+	"winter_15": "Hey honey! Would you like to check out the shops with me?#$b#We can get some coffee and make our way down the dock.$l",
+	"winter_16": "I wonder if there is anything Jio would like...#$b#Oh! Ha ha, don't worry, @.$h#$b#You know you're my number one.$l",
+	"winter_17": "Brr! I’m freezing.$u#$b#Let's head back and cuddle up together soon, okay?$l",
 	"winter_24": "Thank you for sticking with me throughout the years, honey.$l",
 	
 ///Room
@@ -86,7 +88,6 @@
 "TwoKids_2": "Isn't it amazing how %kid1 is taking care of %kid2 all on her own.$h#$b#I mean did you see how %kid1 fed kid %kid2 earlier?",
 "TwoKids_3": "I'm so happy for our little growing family. Thank you for everything. I love you and our kids so, so much.",
 
-
 //Relationship-dependent
 //Good
 "Good_0": "Hey! Wanna join me in my training sometime?$h#$b#It could be a fun activity as a couple.$l",
@@ -123,6 +124,4 @@
 "Bad_7": "I've been trying to reason with you but your mind is just closed.$a#$b#I'm too tired for this.$s",
 "Bad_8": "If I'd known that we'd reach this point I would've never agreed to this relationship.$s",
 "Bad_9": "That does it. I'm done. I have much better things that are worth my attention.$a",
-
-
 }

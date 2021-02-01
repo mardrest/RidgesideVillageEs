@@ -2409,17 +2409,17 @@
 				"BeforeMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Kiwi is curious about these things. But Kiwi is excited!$h"
+					"Text": "Kiwi like movie. But Jio never take!$s"
 				},
 				"DuringMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "WOAH MOVING PICTURES!$h"
+					"Text": "THIS KIWI FAVORITE PART!$h"
 				},
 				"AfterMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Kiwi was amazed! Kiwi want's to watch another moving picture!$h"
+					"Text": "Kiwi like friend @! Kiwi want to watch more!$h"
 				}
 				},
 				"ID": "reaction_0"

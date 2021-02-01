@@ -81,13 +81,15 @@
 	"Sat10": "One day I'm going to open up my own restaurant!$h#$e#Come visit me when I do, okay?$h",
 	"Sun10": "I wish I could fly so I could see the valley from up above.#$e#That would be so much fun!$h",
 	
-//Resort
-"Resort_Entering": "Wow! This place looks amazing!$h",
-"Resort_Leaving": "Awh, I didn't really want to leave yet.$s",
-"Resort_Shore": "Hey @, how long can you hold your breath underwater?$h",
-"Resort_Chair": "I'm so tired from all the swimming.#$e#How do the fish do it?$u",
-"Resort_Bar": "I'm so thirsty.$s#$e#I drank some water from the ocean, but now I'm even thirstier!$u",
-"Resort": "I'm going to build the largest sandcastle ever!$h",	
-	
-}
+//Special Dialogue
+	"MovieInvitation": "Movie!?$u#$b#COOL! Thanks, @!$h#$b#I'll see ya there.",
 
+//Resort
+	"Resort_Entering": "Wow! This place looks amazing!$h",
+	"Resort_Leaving": "Awh, I didn't really want to leave yet.$s",
+	"Resort_Shore": "Hey @, how long can you hold your breath underwater?$h",
+	"Resort_Chair": "I'm so tired from all the swimming.#$e#How do the fish do it?$u",
+	"Resort_Bar": "I'm so thirsty.$s#$e#I drank some water from the ocean, but now I'm even thirstier!$u",
+	"Resort": "I'm going to build the largest sandcastle ever!$h",
+
+}

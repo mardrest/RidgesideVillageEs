@@ -80,16 +80,16 @@
 	"Fri10": "Hello, young one!$h#$b#I'm going to share with you some wise words my wife left me.#$b#'Cherish the time you have with the ones you love.'#$b#Time is the most precious gift that you can give anyone.$h",
 	"Sat10": "I'm so proud of my granddaughter.$h#$e#She has grown so much, from a sweet little girl to a beautiful, strong and independent woman.$h#$b#I'm confident that whenever I part with this world, my little Ysa will be alright.$h#$e#She has made me and her grandmother proud!$h",
 	"Sun10": "You're a good friend, @!#$e#Thank you for spending time with an old-timer like me.$h#$b#I hope you've learned a little something from all our chats throughout the days.",
+
+//Special Dialogue
+	"MovieInvitation": "Oh! I'd be honored, young man.^Oh! I'd be honored, young lady.#$b#This would take my mind off running the hotel day and night.$4#$e#I'm sure Ysa can take care of the hotel until I'm back.#$b#After all, she'll be running it one day.$h",
 	
 //Resort
-"Resort_Entering": "Ah, this place looks perfect for a hotel.#$b#Perhaps one day...$h",
-"Resort_Leaving": "I feel refreshed!$h#$e#Sometimes, you need a break from the everyday grind.#$b#I suppose it's time to get back to the real world.$s",
-"Resort_Shore": "Angelika and I spent countless weekends at the beach.#$b#I've learned the hard way that you can never have too much sunscreen, ha ha ha!$h",
-"Resort_Chair": "I've yet to be hassled by a seagull today, but it's inevitable.#$b#They sure have a way of pushing my buttons.#$e#I can't blame them, though.#$b#They're just trying to get by, like the rest of us...",
-"Resort_Bar": "Old folks like myself need to be careful around spirits.#$e#Doesn't take much to get to me, anymore.#$b#Plus, one's got to be presentable at all times.#$b#You never know when a business offer will appear!$4",
-"Resort": "The air feels different here.#$e#Something about the salty breeze feels invigorating!$h#$b#Maybe I should retire here?#$b#Ha ha, no, that's still a ways off.$h",
-
+	"Resort_Entering": "Ah, this place looks perfect for a hotel.#$b#Perhaps one day...$h",
+	"Resort_Leaving": "I feel refreshed!$h#$e#Sometimes, you need a break from the everyday grind.#$b#I suppose it's time to get back to the real world.$s",
+	"Resort_Shore": "Angelika and I spent countless weekends at the beach.#$b#I've learned the hard way that you can never have too much sunscreen, ha ha ha!$h",
+	"Resort_Chair": "I've yet to be hassled by a seagull today, but it's inevitable.#$b#They sure have a way of pushing my buttons.#$e#I can't blame them, though.#$b#They're just trying to get by, like the rest of us...",
+	"Resort_Bar": "Old folks like myself need to be careful around spirits.#$e#Doesn't take much to get to me, anymore.#$b#Plus, one's got to be presentable at all times.#$b#You never know when a business offer will appear!$4",
+	"Resort": "The air feels different here.#$e#Something about the salty breeze feels invigorating!$h#$b#Maybe I should retire here?#$b#Ha ha, no, that's still a ways off.$h",
 
 }
-
-

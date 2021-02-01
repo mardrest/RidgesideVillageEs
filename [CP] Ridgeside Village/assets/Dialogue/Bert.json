@@ -80,15 +80,16 @@
 	"Fri10": "I went into town yesterday and passed by your farm.#$b#You are doing some amazing work!$u#$e#No wonder you're in the papers!$h",
 	"Sat10": "Lewis and I lost track of time when we were reminiscing yesterday.#$e#The missus was not happy that I forgot to cook dinner.$s#$e#Good thing Pika's was still open!$h",
 	"Sun10": "Trinnie and Alissa get along great.#$b#They're only cousins but you'd almost think they were sisters!$u#$e#I tell ya, life's better with Alissa around.$h",
-	
-//Resort
-"Resort_Entering": "Ain't this a fine view?$h#$b#There's nothin' like this back in our little valley.#$e#Well, we might as well take this time to relax!",
-"Resort_Leaving": "Good things must come to an end.$s#$e#Tell ya what, keep this a secret from the missus okay?#$e#I'm going to bring her here on our next anniversary!$h#$e#Ha ha! I'm a genius!$h",
-"Resort_Shore": "Lookin' at this view makes you think about what life gives ya.#$e#You remember that you gotta fight for what you want and give it your all if y'wanna survive in this world.#$e#You gotta be willing to give up anything...$s#$e#Even your identity, if it comes to that...$s#$b#Yoba!$a#$b#Enough of the sentiments!$a#$b#I think this blazin' heat might be goin' to my head.$h",
-"Resort_Chair": "Ahhh, this is the life!$h",
-"Resort_Bar": "Hmmm, I think I'll go for a beer.#$b#Put it in a mug and tell Olga it's ginger tea, y'know? Haha!$h#$e#What about you? It's on me![346]$h",
-"Resort": "Ahhh, Fern Islands.$h#$e#I haven't been here since the eruption!$u#$e#Man, twenty years go by fast...$s",
 
+//Special Dialogue
+	"MovieInvitation": "The movies? Sounds great!#$b#I'm lookin' forward to it!$h#$b#I'll see ya there!",
+
+//Resort
+	"Resort_Entering": "Ain't this a fine view?$h#$b#There's nothin' like this back in our little valley.#$e#Well, we might as well take this time to relax!",
+	"Resort_Leaving": "Good things must come to an end.$s#$e#Tell ya what, keep this a secret from the missus okay?#$e#I'm going to bring her here on our next anniversary!$h#$e#Ha ha! I'm a genius!$h",
+	"Resort_Shore": "Lookin' at this view makes you think about what life gives ya.#$e#You remember that you gotta fight for what you want and give it your all if y'wanna survive in this world.#$e#You gotta be willing to give up anything...$s#$e#Even your identity, if it comes to that...$s#$b#Yoba!$a#$b#Enough of the sentiments!$a#$b#I think this blazin' heat might be goin' to my head.$h",
+	"Resort_Chair": "Ahhh, this is the life!$h",
+	"Resort_Bar": "Hmmm, I think I'll go for a beer.#$b#Put it in a mug and tell Olga it's ginger tea, y'know? Haha!$h#$e#What about you? It's on me![346]$h",
+	"Resort": "Ahhh, Fern Islands.$h#$e#I haven't been here since the eruption!$u#$e#Man, time sure goes by fast...$s",
 
 }
-

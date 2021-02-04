@@ -16,10 +16,10 @@
 	"CritMultiplier": 4,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "El centavo de la suerte"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Se rumorea que la hoja se fundió a partir de varios centavos de la suerte proclamados de diferentes personas. Aunque si ese fuera el caso, ¿quién se sintió motivado a robar tantos centavos para hacer una daga?"
 	}
 }

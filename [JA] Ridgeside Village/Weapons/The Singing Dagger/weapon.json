@@ -16,10 +16,10 @@
 	"CritMultiplier": 3,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "La Daga Cantora"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Su forma de hoja misteriosa crea una melodía silbante cada vez que se blande. Muy poco práctica para asesinatos. También se puede utilizar como flauta, pero ten cuidado."
 	}
 }

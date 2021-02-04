@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Rompecorazones"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Nudillos de bronce con púas con fuerza devastadora. Obtuvo su nombre de los enemigos habituales que son derribados cuando son golpeados por uno de estos."
 	}
 }

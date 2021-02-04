@@ -9,8 +9,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Alissa",
 		"Entries": {
-			"RSV_GH1": "I can't wait to plant some crops inside the Greenhouse.#$b#There's also a great echo in here for sing...$h#$b#...for talking.$u",
-			"keahi_prank": "Hey, uhm, @?#$b#You seem to be really stinky.$s#$b#Uhm, I hope that wasn't rude.$s",
+			"RSV_GH1": "No puedo esperar a plantar algunos cultivos dentro del invernadero.#$b#También hay un gran eco aquí para cantar...$h#$b#...para hablar.$u",
+			"keahi_prank": "Ey, uhm, ¿@?#$b#Parece que realmente apestas.$s#$b#Uhm, espero que no haya sido grosera.$s",
 		},
 	},
 	{
@@ -18,7 +18,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Corine",
 		"Entries": {
-			"keahi_prank": "@? You're really smelly.$s#$b#Can you take a shower before socializing?$s",
+			"keahi_prank": "¿@? Realmente apestas.$s#$b#¿Puedes darte una ducha antes de socializar?$s",
 		},
 	},
 	{
@@ -26,7 +26,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Flor",
 		"Entries": {
-			"keahi_prank": "Uhmm... @? Did you forget to take a shower?$s",
+			"keahi_prank": "¿Uhmm... @? ¿Olvidaste darte una ducha?$s",
 		},
 	},
 	{
@@ -34,8 +34,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Maddie",
 		"Entries": {
-			"RSV_GH1": "Teehee, I can make my own little fairytale garden inside the Greenhouse.$h#$b#Huh?#$b#What?$u#$b#N-no, you heard nothing!$a",
-			"keahi_prank": "What's that pungent smell?$a#$b#Oh! It's you!#$b#Please conform to societal hygiene standards!$a",
+			"RSV_GH1": "Jiji, Puedo hacer mi propio jardín de cuento de hadas dentro del invernadero.$h#$b#¿Eh?#$b#¿Que?$u#$b#¡N-no, no escuchaste nada!$a",
+			"keahi_prank": "¿Qué es ese olor penetrante?$a#$b#¡Oh! ¡Eres tú!#$b#¡Cumple con los estándares de higiene de la sociedad!$a",
 		},
 	},
 	{
@@ -43,7 +43,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Ysabelle",
 		"Entries": {
-			"keahi_prank": "%Ysabelle sniffs you before she almost throws up. #$b#Uh, @? I advise you take a shower immediately.$a",
+			"keahi_prank": "%Ysabelle te olfatea antes de que casi vomite.#$b#¿Uh, @? Te aconsejo que te duches de inmediato.$a",
 		},
 	},
 	
@@ -53,7 +53,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Ian",
 		"Entries": {
-			"keahi_prank": "What's that smell?$a#$b#Oh! It's coming from you!$u#$b#Uhmm... hard work does make one sweaty sometimes, right?$s#$b#But @, I think you jumped the whale.$s",
+			"keahi_prank": "¿Qué es ese olor?$a#$b#¡Oh! ¡Viene de ti!$u#$b#Uhmm... el trabajo duro a veces hace que uno sude, ¿verdad?$s#$b#Pero @, Creo que saltaste la ballena.$s",
 		},
 	},
 	{
@@ -61,8 +61,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Jeric",
 		"Entries": {
-			"RSV_GH1": "Oh wow! A Greenhouse! This is exciting!$h#$b#I can plant exotic crops from all over the valley here!$h#$b#Maybe even Starfruit!$h",
-			"keahi_prank": "Oh wow, what's that smell!?$a#$b#I'm gonna vomit!$s",
+			"RSV_GH1": "¡Oh guau! ¡Un invernadero! ¡Esto es emocionante!$h#$b#¡Puedo plantar cultivos exóticos de todo el valle aquí!$h#$b#¡Quizás incluso carambolas!$h",
+			"keahi_prank": "Oh guau, ¿¡qué es ese olor!?$a#$b#¡Voy a vomitar!$s",
 		},
 	},
 	{
@@ -70,7 +70,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Kenneth",
 		"Entries": {
-			"keahi_prank": "Hey @? Is that odor coming from you?$s#$b#Uhm, did you step on something?$s",
+			"keahi_prank": "¿Ey @? ¿Ese olor viene de ti?$s#$b#Uhm, ¿pisaste algo?$s",
 		},
 	},
 	{
@@ -78,7 +78,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Philip",
 		"Entries": {
-			"keahi_prank": "%Philip looks like he's going to be sick.$u#$b#What's that supernatural smell?$u",
+			"keahi_prank": "%Philip parece que va a devolver.$u#$b#¿Qué es ese olor sobrenatural?$u",
 		},
 	},
 	{
@@ -86,7 +86,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Shiro",
 		"Entries": {
-			"keahi_prank": "Oh... that smell is making me dizzy.$s#$b#Where is that odor coming from!?$a",
+			"keahi_prank": "Oh... ese olor me está mareando.$s#$b#¿¡De dónde viene ese olor !?$a",
 		},
 	},
 	
@@ -96,7 +96,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Aguar",
 		"Entries": {
-			"keahi_prank": "You smell like sulphur.#$b#Perhaps you should bathe yourself more often, @.",
+			"keahi_prank": "Hueles a azufre.#$b#Quizás deberías bañarte más a menudo, @.",
 		},
 	},
 	{
@@ -104,7 +104,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Bert",
 		"Entries": {
-			"keahi_prank": "Is that smell coming from you?$u#$b#Oh Yoba, release me from this pungent smell!$s",
+			"keahi_prank": "¿Ese olor viene de ti?$u#$b#¡Oh Yoba, libérame de este olor penetrante!$s",
 		},
 	},
 	{
@@ -112,7 +112,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Ezekiel",
 		"Entries": {
-			"keahi_prank": "Bah! You smell like week-old goat milk!$a#$b#Get away from me!$a",
+			"keahi_prank": "¡Bah! ¡Hueles a leche de cabra de una semana!$a#$b#¡Aléjate de mi!$a",
 		},
 	},
 	{
@@ -120,7 +120,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Freddie",
 		"Entries": {
-			"keahi_prank": "Even with this old nose, I can still say that there's something really wrong with that smell.$s",
+			"keahi_prank": "Incluso con esta vieja nariz, todavía puedo decir que hay algo realmente malo con ese olor.$s",
 		},
 	},
 	{
@@ -128,7 +128,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Jio",
 		"Entries": {
-			"keahi_prank": "You smell like a swamp spirit.#$b#Please leave.$h",
+			"keahi_prank": "Hueles a espíritu de pantano.#$b#Por favor vete.$h",
 		},
 	},
 	{
@@ -136,7 +136,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Kiwi",
 		"Entries": {
-			"keahi_prank": "Kiwi think you smell!$s#$b#Don't come close or Kiwi stab!#a",
+			"keahi_prank": "¡Kiwi piensa que apestas!$s#$b#¡No te acerques o Kiwi apuñala!#a",
 		},
 	},
 	{
@@ -144,8 +144,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Lenny",
 		"Entries": {
-			"RSV_GH1": "The ones who have personal plots in the first Greenhouse besides you are Jeric, Alissa, Olga, and Maddie.#$b#I'm quite curious about Maddie's intentions with the Greenhouse, though.#$b#Either way, I'm glad it's being used to the fullest extent.$h",
-			"keahi_prank": "Do you smell it?$u#$b#That smell.$a#$b#A kind of smelly smell.$s#$b#The smelly smell that smells... smelly.$s",
+			"RSV_GH1": "Los que tienen parcelas personales en el primer invernadero además de tí son Jeric, Alissa, Olga, y Maddie.#$b#Sin embargo, tengo bastante curiosidad por las intenciones de Maddie con Greenhouse.#$b#De cualquier manera, me alegro de que se esté utilizando al máximo.$h",
+			"keahi_prank": "¿Lo hueles?$u#$b#Ese olor.$a#$b#Una especie de olor apestoso.$s#$b#El olor apestoso que huele... apestoso.$s",
 		},
 	},
 	{
@@ -153,7 +153,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Lola",
 		"Entries": {
-			"keahi_prank": "@, dear...#$b#You might want to take a shower.$s",
+			"keahi_prank": "@, querido...^@, querida...#$b#Quizás quieras darte una ducha.$s",
 		},
 	},
 	{
@@ -161,8 +161,8 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Olga",
 		"Entries": {
-			"RSV_GH1": "I'll be growing lots of flowers inside the Greenhouse!$h#$b#Thank Yoba, my floral dreams will finally come true!$h",
-			"keahi_prank": "Oh no, he's done it again!$a#$b#Keahi is really going to meet his maker today!$a",
+			"RSV_GH1": "¡Estaré cultivando muchas flores dentro del invernadero!$h#$b#Gracias a Yoba, ¡mis sueños florales finalmente se harán realidad!$h",
+			"keahi_prank": "¡Oh no, él lo ha hecho de nuevo!$a#$b#¡Keahi realmente va a conocer a su creadora hoy!$a",
 		},
 	},
 	{
@@ -170,7 +170,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Pika",
 		"Entries": {
-			"keahi_prank": "Ah, you smell like the Pua Kupapau.$h#$b#A flower known for its pungent aroma.#$b#It's also known as the corpse flower because of the putrid smell.",
+			"keahi_prank": "Ah, hueles como a Pua Kupapau.$h#$b#Una flor conocida por su penetrante aroma.#$b#También se la conoce como la flor del cadáver debido al olor pútrido.",
 		},
 	},
 	{
@@ -178,7 +178,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Richard",
 		"Entries": {
-			"keahi_prank": "Oh no! Not in my hotel you don't!$a#$b#Go take a bath first!$a",
+			"keahi_prank": "¡Oh no! ¡No en mi hotel tú no!$a#$b#¡Ve a darte un baño primero!$a",
 		},
 	},
 	
@@ -189,7 +189,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Keahi",
 		"Entries": {
-			"keahi_prank": "Ooohh! That STINKS!$h#$b#You REALLY should take a bath, @.$4",
+			"keahi_prank": "¡Ooohh! ¡Eso APESTA!$h#$b#REALMENTE deberías tomarte un baño, @.$4",
 		},
 	},
 	{
@@ -197,9 +197,9 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Trinnie",
 		"Entries": {
-			"keahi_sorry": "Teehee < Keahi baked me a cake!$h",
-			"keahi_nosorry": "Hmph! That stupid Keahi!$a#$b# He didn't even bother to say sorry.$s",
-			"keahi_prank": "Hey @$u#$b#You're really REALLY stinky!$h",
+			"keahi_sorry": "Jiji < ¡Keahi me horneó un pastel!$h",
+			"keahi_nosorry": "¡Hmph! ¡Ese estúpido Keahi!$a#$b#Ni siquiera se molestó en pedir perdón.$s",
+			"keahi_prank": "Ey @.$u#$b#¡Estás realmente REALMENTE apestando!$h",
 		},
 	},
 	{
@@ -207,7 +207,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Jas",
 		"Entries": {
-			"keahi_prank": "Ew!$s#$b#You smell like Aunt Marnie's cows!$s",
+			"keahi_prank": "¡Ew!$s#$b#¡Hueles como las vacas de mi tía Marnie!$s",
 		},
 	},
 	{
@@ -215,7 +215,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Vincent",
 		"Entries": {
-			"keahi_prank": "Hey! What's that smell?#$b#AHHH, MY NOSE IS DYING!$s",
+			"keahi_prank": "¡Ey! ¿Qué es ese olor?#$b#¡AHHH, MI NARIZ SE ESTÁ MURIENDO!$s",
 		},
 	},
 	{
@@ -223,7 +223,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Yuuma",
 		"Entries": {
-			"keahi_prank": "You should take a bath.#$b#You kind of smell.",
+			"keahi_prank": "Deberías darte un baño.#$b#Como que apestas.",
 		},
 	},
 	
@@ -233,7 +233,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Abigail",
 		"Entries": {
-			"keahi_prank": "What's that smell!?$s#$b#It smells evil!$s",
+			"keahi_prank": "¿¡Qué es ese olor!?$s#$b#¡Huele a maldad!$s",
 		},
 	},
 	{
@@ -241,7 +241,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Emily",
 		"Entries": {
-			"keahi_prank": "Oh my.$s#$b#It smells like the month-old pizza I found in Gus' cellar.$s",
+			"keahi_prank": "Oh dios.$s#$b#Hueles como la pizza de hace un mes que encontré en el sótano de Gus.$s",
 		},
 	},
 	{
@@ -249,7 +249,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Haley",
 		"Entries": {
-			"keahi_prank": "You stink!$a#$b#Don't come near me!$a",
+			"keahi_prank": "¡Apestas!$a#$b#¡No te acerques a mi!$a",
 		},
 	},
 	{
@@ -257,7 +257,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Leah",
 		"Entries": {
-			"keahi_prank": "I think it's good to be one with nature and all @...#$b#But I think you're taking it a bit too far by not taking a bath.$s",
+			"keahi_prank": "Creo que es bueno ser uno con la naturaleza y todo @...#$b#Pero creo que lo estás llevando demasiado lejos al no bañarte.$s",
 		},
 	},
 	{
@@ -265,7 +265,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Maru",
 		"Entries": {
-			"keahi_prank": "That smell is NOT healthy!$s",
+			"keahi_prank": "¡Ese olor NO es saludable!$s",
 		},
 	},
 	{
@@ -273,7 +273,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Penny",
 		"Entries": {
-			"keahi_prank": "Is that smell coming from you, @?$s#$b#Oh, uhm...#$b#%Penny starts walking away slowly.",
+			"keahi_prank": "¿Ese olor viene de ti, @?$s#$b#Oh, ehm...#$b#%Penny empieza a alejarse lentamente.",
 		},
 	},
 	
@@ -283,7 +283,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Alex",
 		"Entries": {
-			"keahi_prank": "%Alex is pinching his nose.#$b#You okay there, @?$s",
+			"keahi_prank": "%Alex se está tapando la nariz.#$b#¿Estás bien, @?$s",
 		},
 	},
 	{
@@ -291,7 +291,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Elliott",
 		"Entries": {
-			"keahi_prank": "Oh my, You smell quite... exotic.$s#$b#Perhaps a dip in the water could clear this aroma?$s",
+			"keahi_prank": "Oh dios, hueles bastante... exótico.$s^Oh dios, hueles bastante... exótica.$s#$b#¿Quizás un chapuzón en el agua podría quitar ese aroma?$s",
 		},
 	},
 	{
@@ -299,7 +299,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Harvey",
 		"Entries": {
-			"keahi_prank": "That smell...#$b#Do you have a medical issue?$s#$b#It's okay, you know...#$b#I won't judge you as a medical practitioner.",
+			"keahi_prank": "Ese holor...#$b#¿Tienes algún problema médico?$s#$b#Está bien, sabes...#$b#No te juzgaré como médico.",
 		},
 	},
 	{
@@ -307,7 +307,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Sam",
 		"Entries": {
-			"keahi_prank": "Woah! You smell that?!$a#$b#Where's that coming from!? It's really gross!$s",
+			"keahi_prank": "Woah! ¡¿Hueles eso?!$a#$b#¿¡De dónde viene eso!? ¡Es realmente asqueroso!$s",
 		},
 	},
 	{
@@ -315,7 +315,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Sebastian",
 		"Entries": {
-			"keahi_prank": "Did you forget to take a bath or something, @?",
+			"keahi_prank": "¿Olvidaste bañarte o algo, @?",
 		},
 	},
 	{
@@ -323,7 +323,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Shane",
 		"Entries": {
-			"keahi_prank": "Don't come near me with that smell!$a#$b#Take a bath.$a",
+			"keahi_prank": "¡No te acerques a mí con ese olor!$a#$b#Tómate un baño.$a",
 		},
 	},
 	
@@ -333,7 +333,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Caroline",
 		"Entries": {
-			"keahi_prank": "Did you just do some aerobics?#$b# It's pretty much customary to take a shower after, you know...$s",
+			"keahi_prank": "¿Acabas de hacer aeróbicos?#$b#Es bastante habitual tomar una ducha después, sabes...$s",
 		},
 	},
 	{
@@ -341,7 +341,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Clint",
 		"Entries": {
-			"keahi_prank": "It's not my business to tell you this.#$b#But you may have forgotten to take a shower today.$s",
+			"keahi_prank": "No es asunto mío el decirte esto.#$b#Pero parece que te olvidaste de ducharte hoy.$s",
 		},
 	},
 	{
@@ -349,7 +349,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Demetrius",
 		"Entries": {
-			"keahi_prank": "That smell... I know this smell.#$b#It's from a local species of stink bug found in the mountains.#$b#Did you... sit on it?",
+			"keahi_prank": "Ese olor... conozco ese olor.#$b#Es de una especie local de chinche apestosa que se encuentra en las montañas.#$b#¿Te... sentaste sobre una?",
 		},
 	},
 	{
@@ -357,7 +357,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Evelyn",
 		"Entries": {
-			"keahi_prank": "Oh dear, that smells horrible!$s",
+			"keahi_prank": "¡Oh querido, ese olor es horrible!$s^¡Oh querido, ese olor es horrible!$s",
 		},
 	},
 	{
@@ -365,7 +365,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/George",
 		"Entries": {
-			"keahi_prank": "Your smell is bothering me!#$b#Please leave my house!$a",
+			"keahi_prank": "¡Tu olor me está preocupando!#$b#¡Por favor sal de mi casa!$a",
 		},
 	},
 	{
@@ -373,7 +373,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Gus",
 		"Entries": {
-			"keahi_prank": "Uh, @? Can you get out of my Saloon?$s#$b#You smell horrible!$s",
+			"keahi_prank": "¿Eh, @? ¿Puedes salir de mi salón?$s#$b#¡Hueles horrible!$s",
 		},
 	},
 	{
@@ -381,7 +381,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Jodi",
 		"Entries": {
-			"keahi_prank": "Oh no, don't tell me. Was it Vincent or Keahi?#$b#Or was it both of them!?$s#$b#I think one of them pranked you...$s",
+			"keahi_prank": "Oh no, no me lo digas. ¿Fué Vincent o Keahi?#$b#¿¡O fueron los dos!?$s#$b#Creo que uno de ellos te hizo una broma...$s",
 		},
 	},
 	{
@@ -389,7 +389,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Kent",
 		"Entries": {
-			"keahi_prank": "Gross. Do you ever shower?$a",
+			"keahi_prank": "Asqueroso. ¿Alguna vez te duchas?$a",
 		},
 	},
 	{
@@ -397,7 +397,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Lewis",
 		"Entries": {
-			"keahi_prank": "Listen, @. Working hard is good, but I think you should learn to shower and relax once in a while.$s#$b#You're stinking up the town.$s",
+			"keahi_prank": "Escucha, @. Trabajar duro está bien, pero creo que deberías aprender a ducharte y relajarte de vez en cuando.$s#$b#Estas apestando el pueblo.$s",
 		},
 	},
 	{
@@ -405,7 +405,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Linus",
 		"Entries": {
-			"keahi_prank": "Ouch, got hit by the Ridgeside stink bug, huh?#$b#Been there, done that.#$b#Tt was a nightmare to get off.#$b#Took me hours of scrubbing.$s",
+			"keahi_prank": "Auch, fuistes alcanzado por la chinche apestosa de Ridgeside, eh?#$b#Estuve ahí, me pasó eso.#$b#Fué una pesadilla sacarmelo.#$b#Pasé horas fregandome.$s",
 		},
 	},
 	{
@@ -413,7 +413,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Marnie",
 		"Entries": {
-			"keahi_prank": "What's that smell? That can't be any of my cows!$s#$b#Uhm, @? Is that you?$s",
+			"keahi_prank": "¿Qué es ese olor? ¡No puede ser de ninguna de mis vacas!$s#$b#Ehm, ¿@? ¿Ese eres tú?$s",
 		},
 	},
 	{
@@ -421,7 +421,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Pam",
 		"Entries": {
-			"keahi_prank": "What in Yoba's name is that smell? It's horrible!$s#$b#You make me wish I had no nose!$a",
+			"keahi_prank": "¿Qué en nombre de Yoba es ese olor? ¡Es horrible!$s#$b#¡Me haces desear no tener nariz!$a",
 		},
 	},
 	{
@@ -429,7 +429,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Pierre",
 		"Entries": {
-			"keahi_prank": "That smell is bad for business.$s#$b#I suggest you come back after you've taken a shower, @.$s",
+			"keahi_prank": "Ese olor es malo para el negocio.$s#$b#Sugiero que regreses cuando te hayas duchado, @.$s",
 		},
 	},
 	{
@@ -437,7 +437,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Robin",
 		"Entries": {
-			"keahi_prank": "What's that smell? Is it you?$s#$b#No judgement here! But you really need to take a bath, @.",
+			"keahi_prank": "¿Qué es ese olor? ¿Eres tú?$s#$b#¡Sin juzgarte! Pero realmente necesitas darte un baño, @.",
 		},
 	},
 	{
@@ -445,7 +445,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Sandy",
 		"Entries": {
-			"keahi_prank": "Ah, it smells like the Ridgeside stink bug.$h#$b#Pungent? Yes.#$b#But it makes me miss the valley.$s",
+			"keahi_prank": "Ah, huele a chinche apestoso de Ridgeside.$h#$b#¿Penetrante? Si.#$b#Pero me hace extrañar el valle.$s",
 		},
 	},
 	{
@@ -453,7 +453,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Willy",
 		"Entries": {
-			"keahi_prank": "That smell would scare all the fish away.#$b#You need to take a bath, @.",
+			"keahi_prank": "Ese olor va a espantar a todos los peces.#$b#Necesitas tomarte un baño, @.",
 		},
 	},
 	{
@@ -461,7 +461,7 @@
 		"Action": "EditData",
 		"Target": "Characters/Dialogue/Wizard",
 		"Entries": {
-			"keahi_prank": "That smell is evil!$a#$b#Begone!$a",
+			"keahi_prank": "¡Ese olor es malvado!$a#$b#¡Márchate!$a",
 		},
 	},
 	

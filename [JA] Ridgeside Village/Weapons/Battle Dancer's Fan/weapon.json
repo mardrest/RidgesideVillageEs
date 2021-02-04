@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Abanico de Batalla Bailarín"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un abanico de afiladas hojas doradas. Cuenta la leyenda que esta arma fue utilizada por los seductores pero mortales bailarines de batalla del pasado."
 	}
 }

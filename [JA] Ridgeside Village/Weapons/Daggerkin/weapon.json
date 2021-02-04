@@ -16,10 +16,10 @@
 	"CritMultiplier": 5,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Dagakin"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una daga larga casi considerada como una espada. Parece ser una opción de arma popular utilizada para asesinatos por profesionales capacitados."
 	}
 }

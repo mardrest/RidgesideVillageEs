@@ -16,10 +16,10 @@
 	"CritMultiplier": 1,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "El Látigo Salvaje"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un látigo con púas infame por su rquerimiento de una gran habilidad para manejarlo. El látigo en sí está hecho de un material elástico forjado con trozos de iridio."
 	}
 }

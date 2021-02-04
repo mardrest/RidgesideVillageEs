@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Dolor del Padre"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Tal espada misteriosamente causa sufrimiento al mas mínimo corte a sus víctimas... pero eventualmente también al portador. Se cree que está maldita."
 	}
 }

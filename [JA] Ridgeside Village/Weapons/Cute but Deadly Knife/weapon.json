@@ -16,10 +16,10 @@
 	"CritMultiplier": 3,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Cuchillo Mono pero Mortal"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un cuchillo mono pero mortal"
 	}
 }

@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Hacha del Observador"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un arma que lleva el nombre de la leyenda que la rodea. Se dice que su primer portador fue un guerrero silencioso pero mortal al que le gustaba observar a otras personas. Se dice que el rubí incrustado en el cuerpo del hacha contiene el alma del guerrero, aún observando incluso desde la otra vida."
 	}
 }

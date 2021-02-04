@@ -16,10 +16,10 @@
 	"CritMultiplier": 3,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "La Bromista"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una pesada espada en forma de gancho que recibió su nombre por ser demasiado inestable e impredecible para usar en combate. Su extraño diseño es un gusto adquirido y puede ser mortal cuando se usa correctamente."
 	}
 }

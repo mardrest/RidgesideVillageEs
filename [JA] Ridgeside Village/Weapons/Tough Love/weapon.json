@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Amor Duro"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un martillo de batalla pesado que tiene un impacto devastador. También tiene una punta de lanza en la parte superior como una fuente adicional de daño. Es bastante exagerado según algunos aventureros."
 	}
 }

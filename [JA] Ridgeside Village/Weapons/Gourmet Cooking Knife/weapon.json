@@ -16,10 +16,10 @@
 	"CritMultiplier": 3,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Cuchillo de Cocina Gourmet"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "¡Un cuchillo afilado que se utiliza para platos elegantes de calidad! Funciona como un arma mortal si no te gusta cocinar."
 	}
 }

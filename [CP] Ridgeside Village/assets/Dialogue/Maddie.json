@@ -12,8 +12,8 @@
 	"summer_27": "The moonlight jellies are mysterious creatures. I'd like to study on in detail, but it's probably wrong of me to disturb nature.$7",
 
 //Fall
-	"fall_1": "Fall is the season of leaves.#$b#Leaves everywhere, and nobody ever wants to clean up.$a#$e#I'm thankful for the cooler weather, though.$8",
-	"fall_15": "The fair exhausts my social battery pretty quickly, but even I can't deny that there are some neat things for sale.$8#$b#Are you planning on setting up a grange display?",
+	"fall_1": "Fall is the season of leaves.#$b#Leaves everywhere, and nobody ever wants to clean up.$a#$e#I'm thankful for the cooler weather, though.$6",
+	"fall_15": "The fair exhausts my social battery pretty quickly, but even I can't deny that there are some neat things for sale.$6#$b#Are you planning on setting up a grange display?",
 	"fall_26": "Lenny tells me that we ought to wear a costume tomorrow.#$b#I'll just dress up as Mr. Aguar's lab assistant, then...$7",
 
 //Winter
@@ -34,7 +34,7 @@
 	"Thu": "Unless it's about my work, I don't wanna hear it.$a#$b#Especially not on a weekday.$7",
 	"Fri": "Please stop following me. You're giving me a headache, for crying out loud!$a",
 	"Sat": "This day is intended for observing marine life outside the water facility.#$b#I have no time for distractions, this is a very important task...$a",
-	"Sun": "Today is the only day that I'm free.#$e#Sorry, but for me this means some time to myself.$8",
+	"Sun": "Today is the only day that I'm free.#$e#Sorry, but for me this means some time to myself.$6",
 	
 	//2 Hearts
 	"Mon2": "%Maddie seems to be ignoring you.",
@@ -49,7 +49,7 @@
 	"Mon4": "What's up, @? Do you need anything?",
 	"Tue4": "Hello @! Do you want to see what I'm working on?$6#$b#It's actually pretty neat.$h",
 	"Wed4": "I really admire how ecology maintains diversity and redundancy.#$b#It simply provides balance in nature.$h",
-	"Thu4": "Unraveling the mysteries of science is hard work.$8#$b#I find it rewarding, though.$h",
+	"Thu4": "Unraveling the mysteries of science is hard work.$6#$b#I find it rewarding, though.$h",
 	"Fri4": "Hello @! We're a little busy here today.#$b#If you need anything just write it down on a slip of paper and I'll get to it.$h",
 	"Sat4": "OH NO! I forgot to feed the fishes!!$uMr. Aguar's going to throw a fit for sure.$s",
 	"Sun4": "Abiotic factors are non-living components that... Oh I didn't see you there, @.$u#$b#What's up?$h",

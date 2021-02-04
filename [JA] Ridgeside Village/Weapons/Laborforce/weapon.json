@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Mano de Obra"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "La maza de confianza de un hombre honesto."
 	}
 }

@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Hoja de Perdición"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una enorme hacha de guerra con una cinta pálida envuelta en el medio. Parece que no se ha utilizado durante mucho tiempo."
 	}
 }

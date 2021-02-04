@@ -9,7 +9,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -19,-74 ],
 	"PortraitPath": "assets/JericShop.png",
-	"Quote": "Hey! How can I help you?",
+	"Quote": "¡Ey! ¿Como puedo ayudarte?",
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 3,
 	"DefaultSellPriceMultiplier": 0.7,
@@ -97,7 +97,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
 	"PortraitPath": "assets/PikaShop.png",
-	"Quote": "Welcome to Pika's!",
+	"Quote": "¡Bienvenido a Pika's!",
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 5,
 	"DefaultSellPriceMultiplier": 0.7,
@@ -150,7 +150,7 @@
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7,-98 ],
 	"PortraitPath": "assets/LolaShop.png",
-	"Quote": "How can I help you, dear?",
+	"Quote": "¿Como puedo ayudarte, cariño?",
 	"ShopPrice": -1,
 	"DefaultSellPriceMultiplier": 1.0,
 	"When": ["t 600 2600"],
@@ -189,7 +189,7 @@
 	"ShopName": "RSVMysticFalls1",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
-	"Quote": "Mystic Falls of Companions: 'Those who bond with their neighbors and share their joy and sorrow are blessed by Yoba.'",
+	"Quote": "Cascadas místicas del Compañerismo: 'Aquellos que unen lazos con sus vecinos y comparten su alegría y tristeza son bendecidos por Yoba.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -288,7 +288,7 @@
 	"ShopName": "RSVMysticFalls2",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
-	"Quote": "Mystic Falls of Love: 'Being able to capture the heart of someone is both a blessing and a curse. But in the presence of these waterfalls, love prefers to be a blessing.'",
+	"Quote": "Cascadas místicas del Amor: 'Poder capturar el corazón de alguien es tanto una bendición como una maldición. Pero en presencia de estas cascadas, el amor prefiere ser una bendición.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -373,7 +373,7 @@
 	"ShopName": "RSVMysticFalls3",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
-	"Quote": "Mystic Falls of Sacrifice: 'Among the heaviest of burdens are those carried by those who fight for the greater good.'",
+	"Quote": "Cascadas místicas del Sacrificio: 'Entre las cargas más pesadas se encuentran las que llevan aquellos que luchan por un bien mayor.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -402,7 +402,7 @@
 	"ShopName": "RSVFestPika",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
-	"Quote": "Welcome to Gus and Pika's!",
+	"Quote": "¡Bienvenido a Gus y Pika's!",
 	"DefaultSellPriceMultiplier": 0.8,
 	"MaxNumItemsSoldInStore": 20,
 	"ShopPrice": -1,
@@ -461,7 +461,7 @@
 	"ShopName": "RSVFestGirls",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
-	"Quote": "Girls rule!!",
+	"Quote": "¡¡Las chicas son geniales!!",
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 8,
 	"DefaultSellPriceMultiplier": 1.0,
@@ -580,7 +580,7 @@
 	"ShopName": "RSVFestBoys",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -7 ],
-	"Quote": "Boys rule!!",
+	"Quote": "¡¡Los chicos son geniales!!",
 	"ShopPrice": -1,
 	"MaxNumItemsSoldInStore": 8,
 	"DefaultSellPriceMultiplier": 1.0,
@@ -693,7 +693,7 @@
 	"ShopName": "RSVJioShop",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
-	"Quote": "What will it be?",
+	"Quote": "¿Qué será?",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [

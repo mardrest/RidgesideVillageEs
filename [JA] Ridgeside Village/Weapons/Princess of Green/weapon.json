@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Princesa de la Naturaleza"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una espada hecha con magia. Parece que las plantas que componen esta espada están vivas y son capaces de cambiar de forma para adaptarse. Realmente es un arma interesante."
 	}
 }

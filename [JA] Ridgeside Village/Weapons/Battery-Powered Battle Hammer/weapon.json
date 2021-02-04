@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Martillo de Batalla a Pila"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un martillo antiguo que parece sospechosamente moderno en términos de diseño. Aún se desconoce mucho sobre él. ¡Sin embargo, tiene un gran impacto!"
 	}
 }

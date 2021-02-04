@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Mazo burbuja"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Un mazo que golpea fuerte que de alguna manera al blandirlo produce burbujas."
 	}
 }

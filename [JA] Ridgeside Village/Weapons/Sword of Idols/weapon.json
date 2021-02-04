@@ -16,10 +16,10 @@
 	"CritMultiplier": 3,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Espada de los Ídolos"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una espada antigua que se cree que se transmitió de diferentes generaciones de héroes y líderes. Mejor cuídala."
 	}
 }

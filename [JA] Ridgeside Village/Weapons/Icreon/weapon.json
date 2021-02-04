@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Icreon"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una espada antigua utilizada por una secta que adoraba a una deidad con cola roja. Se descubrió que era utilizada comúnmente para sus rituales."
 	}
 }

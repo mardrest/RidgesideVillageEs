@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Espada Llave Dorada"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una espada de forma extraña, destinada a parecerse a una llave dorada. Es bastante cara debido al material del que está hecha."
 	}
 }

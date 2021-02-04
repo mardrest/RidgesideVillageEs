@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "La Inquebrantable"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una espada antigua que lleva el nombre por las leyendas que la rodean como la espada utilizada por miles de usuarios diferentes y nunca ha dejado de servirles. Está hecha de un extraño material irrompible, se rumorea que está relacionada con los antiguos enanos."
 	}
 }

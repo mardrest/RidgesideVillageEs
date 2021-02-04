@@ -16,10 +16,10 @@
 	"CritMultiplier": 1,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "La Jugadora Verde"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una daga curva que recibió su nombre de su misteriosa habilidad que la hace capaz de infligir un gran daño o de no causar ningún daño."
 	}
 }

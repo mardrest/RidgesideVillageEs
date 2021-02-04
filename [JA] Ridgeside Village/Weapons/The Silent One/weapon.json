@@ -16,10 +16,10 @@
 	"CritMultiplier": 12,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "La Silenciosa"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una daga mística rodeada de un mito infame. Hay un silencio ensordecedor que parece arrastrarse cada vez que esta arma es usada en asesinatos. Junto con los informes de avistamientos de entidades sobrenaturales mientras el silencio persiste."
 	}
 }

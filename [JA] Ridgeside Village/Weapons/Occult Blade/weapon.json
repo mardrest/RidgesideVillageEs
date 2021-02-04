@@ -16,10 +16,10 @@
 	"CritMultiplier": 2,
 	"NameLocalization":
 	{
-		/*Information goes here*/
+		"es": "Espada Oculta"
 	},
 	"DescriptionLocalization":
 	{
-		/*Information goes here*/
+		"es": "Una hoja de doble filo con una estructura similar a una katana. Tiene una pequeña empuñadura roja con el símbolo de una mujer y una cola que la envuelve."
 	}
 }

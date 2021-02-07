@@ -24,7 +24,6 @@
 	"winter_16": "Debo ver si puedo encontrar tiempo para comunicarme con la sirena...$h",
 	"winter_17": "%El Sr. Aguar te está ignorando. Parece estar tarareando la canción de la sirena en voz baja.",
 	"winter_24": "El año casi termina, ¿eh?#$b#La nieve se derretirá pronto y el ciclo se repetirá.$h",
-	"winter_25": "Y una feliz fiesta de la estrella de invierno para ti, @. #$e# No parezcas tan sorprendido. No disfruto las cortesías, pero eso no significa que no me dé cuenta de su importancia.",
 
 //Days of the Week
 
@@ -81,6 +80,9 @@
 	"Fri10": "Hola a todos, @.$h#$b#No se exceda ahora.#$e#La juventud y el vigor son cosas buenas, pero el cuerpo humano tiene límites.",
 	"Sat10": "Como mago, me especialicé en magia de agua.#$b#Ahora integro la bioquímica con los estudios mágicos para comprender mejor las propiedades peculiares de este valle.#$e#Es un trabajo gratificante.$h",
 	"Sun10": "El domingo es tradicionalmente un día de descanso.#$e#Aprovecha esta oportunidad, mi amigo.$h^Aprovecha esta oportunidad, mi amiga.$h#$b#Debes darle tiempo a tu cuerpo para que se recupere de la semana.",
+
+//Special Dialogue
+	"MovieInvitation": "Hmm, ¿Una película dices?#$b#Creo que sería una buena idea.$h#$e#Espero que el puesto de comida tenga cosas comestibles a la venta.$a",
 	
 //Resort
 	"Resort_Entering": "Mmm.#$b#Esto es muy diferente.",
@@ -89,3 +91,5 @@
 	"Resort_Chair": "No me estoy relajando.#$e#Simplemente descansando mis ojos.#$b#Aquí está muy soleado.",
 	"Resort_Bar": "Mmm, Supongo que probaré una de estas piñas coladas.$h",
 	"Resort": "La isla tiene una cierta aura que emana desde adentro.#$e#Mmmm...$4",
+
+}

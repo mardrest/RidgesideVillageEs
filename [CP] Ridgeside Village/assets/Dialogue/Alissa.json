@@ -6,7 +6,6 @@
 	"spring_12": "¡Estoy tan emocionada por el Festival del Huevo de mañana! ¡No puedo esperar!$h",
 	"spring_23": "Hmmm. La tía Olga me compró un vestido nuevo para el baile de mañana.#$b#Aunque no soy una gran fanática del estilo, simplemente no se siente como soy realmente.$7",
 
-
 //Summer
 	"summer_1": "¡Ayer casi me olvido de plantar los cultivos de primavera en la tierra!$s#$b#Me alegro de que mi tía me lo haya dicho antes de salir a la ciudad.$7",
 	"summer_10": "¡Cada verano, el festival Luau es el único evento que realmente me emociona!$h#$b#¡No puedo esperar para mostrar los cultivos de mi granja mañana!$l",
@@ -26,9 +25,6 @@
 	"winter_17": "¡Espero que consigas algunos artículos interesantes, @! Pude comprar algunas cosas buenas.$h",
 	"winter_24": "El año está por terminar, @. ¿Has tenido un buen año?#$b#Espero que lo hayas hecho. Aprovechemos al máximo el próximo, ¿de acuerdo?$h",
 
-
-
-
 //Days of the Week
 
 	//0 Hearts
@@ -36,7 +32,7 @@
 	"Tue": "%Alissa parece estar tarareando una melodía dulce.#$b#¡Oh! @! ¡No te vi allí!$7#$e#  Ummmm... ¡No, no estaba cantando ni nada! haciendo cosas de la granja aquí, jaja!$l",
 	"Wed": "¡Hola @! ¿Terminaste el trabajo? ¡Qué te vaya bien!$h",
 	"Thu": "Oh hola, @. ¿Cómo estás?#$b#¿Oh, yo? Simplemente ocupada con la vida como siempre, supongo.$7",
-	"Fri": "¡Buen día para ti, @! Es un día maravilloso hoy ¿no? ¡Qué te vaya bien!$h",
+	"Fri": "¡Buen día para ti, @! Es un día maravilloso hoy, ¿no? ¡Qué te vaya bien!$h",
 	"Sat": "Me pregunto si ya terminé mis quehaceres de hoy.$u#$b#¡Oh! ¡Oye, @! ¿Cómo estás?",
 	"Sun": "¡Hola, @! ¿Qué te trae por aquí?#$e#Hice un buen desayuno antes y estaba tan feliz que finalmente cociné algo comestible por una vez, ¡jaja!$h",
 	
@@ -65,13 +61,13 @@
 	"Thu6": "%Alissa's singing to herself.#$b#Oh! Hi, @! I know you have caught me singing to myself from time to time.$l#$e#It's just a little hobby haha.$h#$b#I'm not confident in my voice.$7",
 	"Fri6": "Good day, @!#$e#Corine, the cashier and waitress at Pika's restaurant, is so pretty!$l#$b#I think I have a little girl crush! Teehee.$l",
 	"Sat6": "Oh, hello there. You're asking about the shed beside my house?#$b#It's where we store our harvest.#$e#We ship them every week.#$b#You ship yours everyday? Woah! That's mighty diligent of you.",
-	"Sun6": "%Alissa is talking to herself.#$b#Mmm, I really want to know what my voice would sound like if it were on a microphone.$uWhat? Oh! Nothing! I was just thinking out loud! I thought I was alone.$7",
+	"Sun6": "%Alissa is talking to herself.#$b#Hmm, I really want to know what my voice would sound like if it were on a microphone.$uWhat? Oh! Nothing! I was just thinking out loud! I thought I was alone.$7",
 	
 	//8 Hearts
 	"Mon8": "Oh! Hi, @! I'm sorry, I didn't see you there! What brings you here?$h#$e#Now that you're here... Uh, may I ask?$l#$b#What's your favorite type of crop? Oh nothing, I was just curious.$l",
 	"Tue8": "Hi there, @! I'm happy to see you today!$l#$b#Ehrr- I mean- It's such a nice day today, right?!$l#$e#%Alissa starts to talk to herself.#$b#Alissa, you blew it!$7",
 	"Wed8": "Good day to you, @! It's nice seeing you.$h#$e#I sometimes see the old couple who lives just north of my farm spend time around the second waterfall.#$b#I want what they have someday.$u#$e#Oh! I mean- UHMM EEEEP! Sorry! That was just a little song of mine on the works! Yeah! That's it! That's all that it was!$7",
-	"Thu8": "Hey there, @! Are you visiting?#$b#%Alissa then whispers to herself.#$e#I'm glad you did.$l#$b#I MEAN UHM. HEY LOOK IT'S TRINNIE DOING A PRANK AGAIN!$l#$b#Please disregard what I said earlier!$7",
+	"Thu8": "Hey there, @! Are you visiting?#$b#%Alissa then whispers to herself.#$e#I'm glad you did.$l#$b#I MEAN UHM. HEY LOOK IT'S TRINNIE PULLING A PRANK AGAIN!$l#$b#Please disregard what I said earlier!$7",
 	"Fri8": "%Alissa is singing a beautiful song.#$b#~And he comes around my place, looking all worn out from work. I'd been wanting to hold him close...~  ^~And she comes around my place, looking all worn out from work. I'd been wanting to hold her close...~$6#$b#Oh! Hey, @! What was I singing? Oh, nothing much! Just something I've been dabbling around with!$l",
 	"Sat8": "Hello, @! I hope you're doing fine today!#$e#Earlier when Auntie was tired during work, Uncle came all the way from their home just to bring her an apple juice and a back rub.#$b#They are just so cute!$h",
 	"Sun8": "Hi, @! How are you today?#$b#Your company is welcome anytime! I really enjoy hanging out with you!$h",
@@ -85,15 +81,11 @@
 	"Sat10": "@, hi there! Come here, you! I need a hug.$h#$e#Oh, by the way, have you seen a little kiwi fruit around the valley lately?#$b#I saw one rolling around the other day. It was a weird sight.$u",
 	"Sun10": "Hey, @! I missed you! Want to have a date today?$l#$b#We can go eat at Pika's restaurant if you want!$h",
 	
-//Marriage
-
-
-
 //Special Dialogue
-"breakUp": "Uhmm... I'm sorry us being a thing didn't work out...$7#$b#Uhm...  yeah...  goodbye then...$s",
-"danceRejection": "I'm sorry @, but I will have to say no.$7",
-"divorced": "Don't speak to me.$a",
-
+	"breakUp": "Uhmm... I'm sorry us being a thing didn't work out...$7#$b#Uhm...  yeah...  goodbye then...$s",
+	"danceRejection": "I'm sorry, @, but I will have to say... no.$7",
+	"divorced": "Don't speak to me.$a",
+	"MovieInvitation": "Oh! A movie invitation!? I'm so excited!$h#$b#Thank you, @! I'll meet you there soon. I have to clean up first.#$e#I can't wait!$h",
 
 //Resort
 	"Resort_Entering": "Wow! Isn't this nice? A place of rest and relaxation for everyone.$h#$b#This is so exciting!$h",
@@ -102,7 +94,7 @@
 	"Resort_Shore": "Just look at the sea @. Isn't it so peaceful?$h",
 	"Resort_Shore_2": "The sea just makes you feel so warm. I wish...$u#$b# It doesn't matter what I wish...$7",
 	"Resort_Umbrella": "The only thing that'll grow on the beach are coconuts. And I've got no complaints!#$b#They're so refreshing to drink and can be used in so many dishes!$h",
-	"Resort_Umbrella_2": "Little Trinnie would love this resort!$h#$e#I used to take over at the ridge everyday when she was little.#$b#She absolutely loves the water!$h",
+	"Resort_Umbrella_2": "Little Trinnie would love this resort!$h#$e#I used to take her to the Ridge everyday when she was little.#$b#She absolutely loves water!$h",
 	"Resort_Umbrella_3": "%Alissa seems to be humming to herself.#$b#What? Oh, I'm sorry. I was just thinking of a tune for a new song.$l#$e#The resort really gives that calm and free feeling, it just made me want to write.$u#$b#Oh no, I'm sorry I couldn't possibly sing it out loud!$7",
 	"Resort_Wander": "I used to pick up pretty rocks on the shoreline when I was young.#$b#I wasn't like the other girls who'd pick up seashells. I often use the rocks in landscaping my farm.$l",
 	"Resort_Bar": "Have you tried coconut milk? It tastes absolutely yummy!#$b#It's also good for lots of dishes!$h",

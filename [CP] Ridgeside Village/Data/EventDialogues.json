@@ -30,7 +30,7 @@
                 "Action": "EditData",
                 "Target": "Characters/Dialogue/Bert",
                 "Entries": {                        
-                        "bert1_1": "¡Muchas gracias, @! ¡Eres el mejor!$h^"¡Muchas gracias, @! ¡Eres la mejor!$h",
+                        "bert1_1": "¡Muchas gracias, @! ¡Eres el mejor!$h^¡Muchas gracias, @! ¡Eres la mejor!$h",
                         "bert1_2": "Oh, eso es muy malo. %fork$s",                
                         "bert2_1": "Hmm. Si, creo que sería mejor.",
                         "bert2_2": "¿Porque?, ¡si! ¡Me ha estado cargoseando por salir de la aldea desde hace un tiempo!",

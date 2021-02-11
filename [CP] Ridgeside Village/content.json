@@ -114,6 +114,42 @@
 //		"Value": "Alex, Elliot, Harvey, Sam, Sebastian, Shane, Abigail, Emily, Haley, Leah, Maru, Penny, Alissa, Corine, Flor, Maddie, Ysabelle, Ian, Jeric, Kenneth, Philip, Shiro",
 //		},
 		
+		{
+        "Name": "g",
+        "Value": "a",
+		"When": { "PlayerGender": "Female" },
+		},
+		
+		{
+        "Name": "g",
+        "Value": "o",
+		"When": { "PlayerGender": "Male" },
+		},
+		
+		{
+        "Name": "ge",
+        "Value": "a",
+		"When": { "PlayerGender": "Female" },
+		},
+		
+		{
+        "Name": "ge",
+        "Value": "e",
+		"When": { "PlayerGender": "Male" },
+		},
+		
+		{
+        "Name": "gu",
+        "Value": "a",
+		"When": { "PlayerGender": "Female" },
+		},
+		
+		{
+        "Name": "gu",
+        "Value": "",
+		"When": { "PlayerGender": "Male" },
+		},
+		
 	//EMBER OF RESOLUTIONS TOKENS
 		{
 		//Alone

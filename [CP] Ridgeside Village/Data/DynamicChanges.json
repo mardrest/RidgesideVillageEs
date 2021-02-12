@@ -135,7 +135,7 @@
 				"Position": { "X": 28, "Y": 32 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "MessageOnce 75160181 '???: ¿Eh? ¿¡Quién eres!?#Lograste encontrarme eh... Quizás seas el que él dijo...# Uhmm.. Ey, regresa acá mañana por la noche, a la misma hora. Me gustaría conocerte apropiadamente.'"
+				"Action": "MessageOnce 75160181 '???: ¿Eh? ¿¡Quién eres!?#Lograste encontrarme eh... Quizás seas {{t}} que él dijo...# Uhmm.. Ey, regresa acá mañana por la noche, a la misma hora. Me gustaría conocerte apropiadamente.'"
                }
             }
 		],

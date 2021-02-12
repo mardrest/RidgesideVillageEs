@@ -150,6 +150,18 @@
 		"When": { "PlayerGender": "Male" },
 		},
 		
+		{
+        "Name": "t",
+        "Value": "la",
+		"When": { "PlayerGender": "Female" },
+		},
+		
+		{
+        "Name": "t",
+        "Value": "el",
+		"When": { "PlayerGender": "Male" },
+		},
+		
 	//EMBER OF RESOLUTIONS TOKENS
 		{
 		//Alone

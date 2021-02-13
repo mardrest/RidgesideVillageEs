@@ -22,7 +22,7 @@ Lo que está traducido o parcialmente traducido:</br>
   MovieData.json - falta traducir</br>
   NPCData.json - completado</br>
   Romance.json - completado</br>
-</br>
+  </br>
 - [JA] Ridgeside Village - Hats</br>
   Todos completados</br>
 - [JA] Ridgeside Village - Objects</br>
@@ -31,6 +31,6 @@ Lo que está traducido o parcialmente traducido:</br>
   Todos completados</br>
 - [JA] Ridgeside Village - Weapons</br>
   Todos completados</br>
-</br>
+  </br>
 - [STF] Ridgeside Village</br>
   Shops.json - completado</br>

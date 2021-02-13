@@ -19,7 +19,7 @@ Lo que está traducido o parcialmente traducido:</br>
   LoadFestival.json - completado</br>
   MapStrings.json - completado por BettaZero</br>
   Mail.json listo - completado</br>
-  MovieData.json - falta traducir</br>
+  MovieData.json - comenzado</br>
   NPCData.json - completado</br>
   Romance.json - completado</br>
   </br>

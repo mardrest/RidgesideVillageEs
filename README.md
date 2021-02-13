@@ -14,6 +14,7 @@ Lo que está traducido o parcialmente traducido:</br>
   FestivalDialogues.json - completado</br>
   IntermodPatches.json - completado</br>
   LoadFestival.json - completado</br>
+  MapStrings.json - completado por BettaZero</br>
   Mail.json listo - completado</br>
   NPCData.json - completado</br>
   Romance.json - comenzado</br>

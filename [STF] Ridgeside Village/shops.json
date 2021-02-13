@@ -288,7 +288,7 @@
 	"ShopName": "RSVMysticFalls2",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98 ],
-	"Quote": "Cascadas místicas del Amor: 'Poder capturar el corazón de alguien es tanto una bendición como una maldición. Pero en presencia de estas cascadas, el amor prefiere ser una bendición.'",
+	"Quote": "Cascadas místicas del Amor: 'Ser capaz de atrapar el corazón de alguien es tanto una bendición como una maldición. Pero en presencia de estas cascadas, el amor prefiere ser una bendición.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [
@@ -373,7 +373,7 @@
 	"ShopName": "RSVMysticFalls3",
 	"StoreCurrency": "Money",
 	"CategoriesToSell": [ -98, -95 ],
-	"Quote": "Cascadas místicas del Sacrificio: 'Entre las cargas más pesadas se encuentran las que llevan aquellos que luchan por un bien mayor.'",
+	"Quote": "Cascadas místicas del Sacrificio: 'Entre las cargas más pesadas están las que llevan aquellos que luchan por el bien mayor de todos.'",
 	"ShopPrice": 0,
 	
 	"ItemStocks": [

@@ -15,7 +15,8 @@ Lo que está traducido o parcialmente traducido:</br>
   IntermodPatches.json - completado</br>
   LoadFestival.json - completado</br>
   Mail.json listo - completado</br>
-  NPCData.json - comenzado</br>
+  NPCData.json - completado</br>
+  Romance.json - comenzado</br>
   
 - [JA] Ridgeside Village - Hats</br>
   Todos completados</br>

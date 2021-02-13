@@ -17,7 +17,7 @@ Lo que está traducido o parcialmente traducido:</br>
   MapStrings.json - completado por BettaZero</br>
   Mail.json listo - completado</br>
   NPCData.json - completado</br>
-  Romance.json - comenzado</br>
+  Romance.json - completado</br>
   
 - [JA] Ridgeside Village - Hats</br>
   Todos completados</br>

@@ -5,6 +5,9 @@ Lo que está traducido o parcialmente traducido:</br>
 - [CP] Ridgeside Village - assets - Dialogue</br>
   Aguar.json completado por Querbis</br>
   Alissa.json comenzado por Querbis</br>
+- [CP] Ridgeside Village - Data - Festivals</br>
+  EmberNight.json - completado</br>
+  Gathering.json - completado</br>
 - [CP] Ridgeside Village - Data</br>
   Animations.json - completado</br>
   ConversationTopics.json - completado</br>
@@ -16,9 +19,10 @@ Lo que está traducido o parcialmente traducido:</br>
   LoadFestival.json - completado</br>
   MapStrings.json - completado por BettaZero</br>
   Mail.json listo - completado</br>
+  MovieData.json - falta traducir</br>
   NPCData.json - completado</br>
   Romance.json - completado</br>
-  
+</br>
 - [JA] Ridgeside Village - Hats</br>
   Todos completados</br>
 - [JA] Ridgeside Village - Objects</br>
@@ -27,6 +31,6 @@ Lo que está traducido o parcialmente traducido:</br>
   Todos completados</br>
 - [JA] Ridgeside Village - Weapons</br>
   Todos completados</br>
-  
+</br>
 - [STF] Ridgeside Village</br>
   Shops.json - completado</br>

@@ -3,9 +3,9 @@ Traduccion del mod Ridgeside Village</br>
 Lo que está traducido o parcialmente traducido:</br>
 </br>
 - [CP] Ridgeside Village - assets - Dialogue</br>
-  Aguar.json completado por Querbis</br>
-  Alissa.json comenzado por Querbis</br>
-  Yuuma.json completado</br>
+  Aguar.json - completado por Querbis</br>
+  Alissa.json - comenzado por Querbis</br>
+  Yuuma.json - completado</br>
 - [CP] Ridgeside Village - Data - Festivals</br>
   EmberNight.json - completado</br>
   Gathering.json - completado</br>

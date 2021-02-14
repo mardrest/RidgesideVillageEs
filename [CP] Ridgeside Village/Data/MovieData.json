@@ -203,17 +203,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This little story is quite wholesome.$h"
+                  "Text": "Esta pequeña historia es bastante sana.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "How fascinating."
+                  "Text": "Que fascinante."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a decent movie @. Thanks for inviting me. It was quite relaxing."
+                  "Text": "Esa fue una película decente @. Gracias por invitarme. Fue bastante relajante."
                 }
               },
               "ID": "reaction_0"
@@ -227,17 +227,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have no interests in these kinds of films."
+                  "Text": "No tengo ningún interés en este tipo de películas."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I don't understand any of this!$a"
+                  "Text": "¡No entiendo nada de esto!$a"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think my time has been wasted @."
+                  "Text": "Creo que he perdido mi tiempo @."
                 }
               },
               "ID": "reaction_1"
@@ -251,17 +251,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery film? Hmm, interesting"
+                  "Text": "¿Una película de misterio? Mmm interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Mr. Aguar seems to thinking about the current state of the movie"
+                  "Text": "%El Sr. Aguar parece pensar en el estado actual de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a fun movie to dissect! Thank you for the time @."
+                  "Text": "¡Fue una película divertida de analizar! Gracias por ese momento @."
                 }
               },
               "ID": "reaction_2"
@@ -275,7 +275,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A family movie huh? Quite interesting"
+                  "Text": "Una película familiar, ¿eh? Bastante interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -285,7 +285,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a good time @.$h#$b#And for the record. I did not cry!$a."
+                  "Text": "Lo pasé bien @.$h#$b#Y para que conste. ¡No lloré!$a."
                 }
               },
               "ID": "reaction_3"
@@ -299,17 +299,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I already know a lot about the world, I think this is a waste of time.$a"
+                  "Text": "Ya sé mucho sobre el mundo, creo que esto es una pérdida de tiempo.$a"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Mr. Aguar is bored"
+                  "Text": "%El Sr. Aguar está aburrido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was quite boring if you ask me.$a"
+                  "Text": "Fue bastante aburrido si me preguntas.$a"
                 }
               },
               "ID": "reaction_4"
@@ -323,17 +323,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now this is a good concept! Quite exciting!$h"
+                  "Text": "¡Este es un buen concepto! ¡Muy emocionante!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Mr. Aguar is focused at the movie"
+                  "Text": "%El Sr. Aguar está enfocado en la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was quite an interesting take on Wumbi. I enjoyed it.$h"
+                  "Text": "Esa fue una versión bastante interesante de Wumbi. Me gustó mucho.$h"
                 }
               },
               "ID": "reaction_5"
@@ -347,17 +347,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Isn't this a horror movie? Oh, A challenge ey?"
+                  "Text": "¿No es esta una película de terror? Oh, un desafío ¿eh?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wahaha! This is fun!$h"
+                  "Text": "¡Guajajaja! ¡Esto es divertido!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The details were quite corny, but it was good movie$h"
+                  "Text": "Los detalles eran bastante cursis, pero era una buena película.$h"
                 }
               },
               "ID": "reaction_6"
@@ -371,17 +371,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah, a classic movie. I have heard about this while I was in the academy."
+                  "Text": "Ah, una película clásica. Escuché sobre esta mientras estaba en la academia."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I quite like these old movies.$h"
+                  "Text": "Me gustan bastante estas películas antiguas.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie @. Thank you for inviting me.$h"
+                  "Text": "Esa fue una buena película @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_7"
@@ -401,17 +401,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ohh! I heard about this one! I've always wanted to watch this!$h"
+                  "Text": "¡Ohh! ¡Escuché sobre esta! ¡Siempre quise verla!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "emote Alissa 56",
-                  "Text": "This is so cute I love it!$h"
+                  "Text": "¡Esto es tan lindo que me encanta!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had fun @. Thank you so much for the invite.$h"
+                  "Text": "Me divertí @. Muchas gracias por la invitación.$h"
                 }
               },
               "ID": "reaction_0"
@@ -425,17 +425,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A film about a videogame? I think this will be fun."
+                  "Text": "¿Una película sobre un videojuego? Creo que esto será divertido."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm kind of lost, but hey I like the characters!$h"
+                  "Text": "¡Estoy un poco perdida, pero me gustan los personajes!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I still had a great time even if I got a little lost.$u#$b#Thanks for inviting me @."
+                  "Text": "Lo pasé muy bien, incluso si me perdí un poco.$u#$b#Gracias por invitarme @."
                 }
               },
               "ID": "reaction_1"
@@ -449,17 +449,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery movie? Oh I don't know..$s"
+                  "Text": "¿Una película de misterio? Oh no sé...$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Alissa seems to be confused about the whole movie"
+                  "Text": "%Alissa parece estar confundida sobre toda la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really get much from the story @. I'm sorry.$s#$b#Thanks for the invite though."
+                  "Text": "Realmente no entendí mucho la historia @. Lo siento.$s#$b#Gracias por la invitación."
                 }
               },
               "ID": "reaction_2"
@@ -473,17 +473,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Awww I've been wanting to watch this one!$h"
+                  "Text": "Awww ¡He querido ver esto!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Alissa is crying her eyes out but is trying her best not to make any sound"
+                  "Text": "%Alissa está llorando, pero está haciendo todo lo posible para no hacer ningún sonido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I can't stop crying! Aww!!$u#$b#It was so heartwarming!$u."
+                  "Text": "¡No puedo dejar de llorar! ¡¡Aww!!$u#$b#¡Fue tan conmovedor!$u."
                 }
               },
               "ID": "reaction_3"
@@ -497,17 +497,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, I've heard about this from Trinnie. It's supposed to be educational right?"
+                  "Text": "Oh, he oído hablar sobre esto de Trinnie. Se supone que es educativo, ¿verdad?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, So that's what's happening there.."
+                  "Text": "Oh, así que eso es lo que está pasando ahí..."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I learned a lot today!$h#$b#I've never really went somewhere far. So this was a treat. Thanks @.$h"
+                  "Text": "¡He aprendido mucho hoy!$h#$b#Nunca he ido muy lejos. Así que esto fue un placer. Gracias @.$h"
                 }
               },
               "ID": "reaction_4"
@@ -521,17 +521,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh hey! The wumbus looks so cute!$h"
+                  "Text": "¡Oh ey! ¡El wumbus se ve tan lindo!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is hilarious!$h"
+                  "Text": "¡Esto es gracioso!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The wumbus was like.. and the boy was like.. and--$h#$b#This was such a cute and funny movie @, thank you for inviting me.$h"
+                  "Text": "El wumbus era como... y el chico era como... y--$h#$b#Esta fue una película tan linda y divertida @, gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_5"
@@ -545,17 +545,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror movie!?$s#$b#Uhmm..$s"
+                  "Text": "¿¡Una película de terror!?$s#$b#Uhmm...$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Alissa covering her eyes"
+                  "Text": "%Alissa se cubre los ojos."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really have a good time, I covered my eyes the entire movie.$s#$b#I'm so sorry @.$s"
+                  "Text": "Realmente no lo pasé bien, me cubrí los ojos en toda la película.$s#$b#Lo siento mucho @.$s"
                 }
               },
               "ID": "reaction_6"
@@ -569,17 +569,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ohh! I remember the soundtrack of this movies was quite a good one!$h"
+                  "Text": "¡Ohh! ¡Recuerdo que la banda sonora de esta película era bastante buena!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "emote Alissa 20",
-                  "Text": "Oh my..$l"
+                  "Text": "Oh mi...$l"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a fun time @. It was really something..$l"
+                  "Text": "Me divertí @. Fue realmente algo...$l"
                 }
               },
               "ID": "reaction_7"
@@ -599,17 +599,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A comedy for kids? I wish I bought Trinnie along.$h"
+                  "Text": "¿Una comedia para niños? Ojalá hubiera traido a Trinnie.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's a little cute. But I'm getting a little sleepy."
+                  "Text": "Es un poco linda. Pero tengo un poco de sueño."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That show would've been fun for kids @. But thanks for inviting me anyway."
+                  "Text": "Ese espectáculo hubiera sido divertido para los niños. Pero gracias por invitarme de todos modos."
                 }
               },
               "ID": "reaction_0"
@@ -623,17 +623,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I never did get these kind of films.$s"
+                  "Text": "Nunca conseguí este tipo de películas.$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Bert looks bored"
+                  "Text": "%Bert parece aburrido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really understand much from the film @.$s"
+                  "Text": "Realmente no entendí mucho de la película @.$s"
                 }
               },
               "ID": "reaction_1"
@@ -647,17 +647,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, this could be good. Ain't it right @?$h"
+                  "Text": "Oh, esto podría estar bueno. ¿No es cierto?$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "NO WAY!$u"
+                  "Text": "¡IMPOSIBLE!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! That was some plot twist right 'er right @?$h"
+                  "Text": "¡Woah! Ese fue un giro en la trama, ¿verdad @?$h"
                 }
               },
               "ID": "reaction_2"
@@ -671,17 +671,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ohh, I think Olga would like this"
+                  "Text": "Ohh, creo que a Olga le gustaría esto."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Bert wiped some tears from his cheek"
+                  "Text": "%Bert limpió algunas lágrimas de su mejilla."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Aw man, That little film made me tear up$h#$b#Thank's for the great time @."
+                  "Text": "Aw hombre, esa pequeña película me hizo trizas.$h#$b#Gracias por el gran momento @."
                 }
               },
               "ID": "reaction_3"
@@ -695,17 +695,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This can be like a mini visit to different places!$h"
+                  "Text": "¡Esto puede ser como una mini visita a diferentes lugares!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I recon the time when I was a lad and visited the Fern Islands. It was a good time.$h"
+                  "Text": "Recuerdo el tiempo cuando era un muchacho y visité las Islas Helecho. Fue un buen tiempo.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now that was a good little virtual tour amiright @?$h"
+                  "Text": "Esa fue una buena gira virtual, ¿estoy en lo correcto @?$h"
                 }
               },
               "ID": "reaction_4"
@@ -719,17 +719,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh hey a cute little comedy! This could be exciting.$h"
+                  "Text": "¡Oh ey una pequeña comedia linda! Esto podría ser emocionante.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is hilarious!$h"
+                  "Text": "¡Esto es gracioso!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a creative film, it was real funny too! Thank's for inviting me @.$h"
+                  "Text": "Esa fue una película creativa, ¡fue muy divertida también! Gracias por invitarme @.$h"
                 }
               },
               "ID": "reaction_5"
@@ -743,17 +743,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been waiting to see this! Olga won't come with me to watch it though."
+                  "Text": "¡He estado esperando para ver esto! Olga no vendrá conmigo a verlo."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh boy! That was a good scare!$h"
+                  "Text": "¡Vaya! ¡Fue un buen susto!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah! Nothing beats an old classic scare to wake you up and destress!$h"
+                  "Text": "¡Ah! ¡Nada mejor que un clásico viejo susto para despertarte y desestresarte!$h"
                 }
               },
               "ID": "reaction_6"
@@ -767,17 +767,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A romance movie eh? Ehh..$s"
+                  "Text": "Una película romántica, ¿eh? Ehh...$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is a tad too cheesy for my taste..$s"
+                  "Text": "Esto es como demasiado cursi para mi gusto...$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was alright I guess. But thanks for the invite @."
+                  "Text": "Estaba bien, supongo. Pero gracias por la invitación @."
                 }
               },
               "ID": "reaction_7"
@@ -797,17 +797,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh my! I remember this story! I used to love it when I was a kid.$h"
+                  "Text": "¡Oh mi! ¡Recuerdo esta historia! Me encantaba cuando era niña.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Aww! This is just so cute!$h"
+                  "Text": "¡Oh! ¡Esto es tan lindo!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a grea time @. Thank you so much for inviting me.$h"
+                  "Text": "Pasé un tiempo genial @. Muchas gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_0"
@@ -821,17 +821,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I played the game before, I hope this is as exciting.$h"
+                  "Text": "He jugado el juego antes, espero que esto sea igual de emocionante.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Corine has sparkles in her eyes"
+                  "Text": "%Corine tiene chispas en sus ojos."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh my I loved it! It was a good adaptation!$h"
+                  "Text": "¡Oh mi me encantó! ¡Fue una buena adaptación!$h"
                 }
               },
               "ID": "reaction_1"
@@ -845,17 +845,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This could be fun! Mystery movies are a delight."
+                  "Text": "¡Esto podría ser divertido! Las películas de misterio son una delicia."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! Didn't expect that one.$h"
+                  "Text": "¡Ay! No esperaba eso.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had fun with the film @. Thank you for having me tag along with you.$h"
+                  "Text": "Me divertí con la película @. Gracias por pedirme que te acompañe.$h"
                 }
               },
               "ID": "reaction_2"
@@ -869,17 +869,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm excited for this one. I heard it will make one cry.$h"
+                  "Text": "Estoy emocionada por esta. He oído que hace que uno llore.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Corine is smiling as she cries"
+                  "Text": "%Corine sonríe mientras llora."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was really good. My heart is still attached to the characters.$h"
+                  "Text": "Eso estuvo muy bien. Mi corazón todavía está unido a los personajes.$h"
                 }
               },
               "ID": "reaction_3"
@@ -893,17 +893,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, this one? I think it's fine"
+                  "Text": "Oh, ¿ésta? Creo que está bien."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Those are some interesting places indeed.$h"
+                  "Text": "Esos son algunos lugares interesantes de hecho.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I sure wish to visit those places in the future.$h"
+                  "Text": "Ciertamente deseo visitar esos lugares en el futuro.$h"
                 }
               },
               "ID": "reaction_4"
@@ -917,17 +917,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm.. I wonder what is Wumbus? I hope it's not dangerous."
+                  "Text": "Hmm... ¿Me pregunto qué es Wumbus? Espero que no sea peligroso."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The Wumbus is so cute! I want one!$h"
+                  "Text": "¡Wumbus es tan lindo! ¡Yo quiero uno!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was pretty fun! Thank you for having me tag along @.$h"
+                  "Text": "¡Eso fue muy divertido! Gracias por pedirme que te acompañe @.$h"
                 }
               },
               "ID": "reaction_5"
@@ -941,7 +941,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehhh. I think this would be a lil scary for me.$h"
+                  "Text": "Ehhh. Creo que esto me asustará un poco.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -951,7 +951,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I usually battle monsters but I just don't really have a thing with Horror films.$s"
+                  "Text": "Normalmente lucho contra monstruos pero no tengo nada que ver con películas de terror.$s"
                 }
               },
               "ID": "reaction_6"
@@ -965,17 +965,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh! I heard about this! I've been wanting to see it.$h"
+                  "Text": "¡Oh! ¡He oído hablar de esta! He estado esperando para verla.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Awww.. This is sweet.$l"
+                  "Text": "Awww... Esto es dulce.$l"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I really liked the movie @. Thank you for inviting me.$h"
+                  "Text": "Me gustó mucho la película @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_7"
@@ -995,17 +995,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What is this? Cartoons? Buh!"
+                  "Text": "¿Qué es esto? ¿Dibujos animados? ¡Buh!"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ezekiel is fast asleep"
+                  "Text": "%Ezekiel está profundamente dormido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't catch any of it. I fell asleep. Hm."
+                  "Text": "No vi nada. Me quedé dormido. Hm."
                 }
               },
               "ID": "reaction_0"
@@ -1019,17 +1019,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What is this? A videogame movie? What is a videogame??"
+                  "Text": "¿Qué es esto? ¿Una película de videojuegos? ¿Qué es un videojuego?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ezekiel is fast asleep"
+                  "Text": "%Ezekiel está profundamente dormido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't catch any of it. I fell asleep. Hm."
+                  "Text": "No vi nada. Me quedé dormido. Hm."
                 }
               },
               "ID": "reaction_1"
@@ -1043,17 +1043,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery huh? Buh! I could solve this by the first scene I betcha!."
+                  "Text": "¿Un misterio eh? ¡Buh! ¡Apuesto que lo podría resolver en la primera escena!"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehr! Wait, but. WHAT!?$a"
+                  "Text": "¡Ehm! Espera, pero. ¿¡QUÉ!?$a"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woooboi. That was a real tough one. But it was a good one. Thanks for inviting me @.$h"
+                  "Text": "Vaya chic{{g}}. Esa fue una muy difícil. Pero fue una buena. Gracias por invitarme @.$h"
                 }
               },
               "ID": "reaction_2"
@@ -1067,17 +1067,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What is this? A sobby story? Buh."
+                  "Text": "¿Qué es esto? ¿Una historia de sollozos? Buh."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ezekiel is fast asleep."
+                  "Text": "%Ezekiel está profundamente dormido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't catch any of it. I fell asleep. Hm."
+                  "Text": "No vi nada. Me quedé dormido. Hm."
                 }
               },
               "ID": "reaction_3"
@@ -1091,17 +1091,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah! This can be good. I've always wanted to visit those places.$h"
+                  "Text": "¡Ah! Esto puede ser bueno. Siempre he querido visitar esos lugares.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "If everything is at peace, we could easily go to different places. Ah, I like this movie.$h"
+                  "Text": "Si todo está en paz, fácilmente podríamos ir a diferentes lugares. Ah, me gusta esta película.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good one @. Thank you for inviting me.$h"
+                  "Text": "Esa fue una buena @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_4"
@@ -1115,17 +1115,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What is this? A science movie? Buh."
+                  "Text": "¿Qué es esto? ¿Una película de ciencia? Buh."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ezekiel is fast asleep."
+                  "Text": "%Ezekiel está profundamente dormido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't catch any of it. I fell asleep. Hm."
+                  "Text": "No vi nada. Me quedé dormido. Hm."
                 }
               },
               "ID": "reaction_5"
@@ -1139,17 +1139,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror film huh? This could be interesting."
+                  "Text": "¿Una película de terror? Esto podría ser interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! dangnabit! That was a scare!$a"
+                  "Text": "¡Woah! ¡Hostia! ¡Qué susto!$a"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "WAHAHA! I never had such fun for a long time! Thanks for bringing me along @.$h"
+                  "Text": "¡GUAJAJA! ¡Nunca me había divertido tanto! Gracias por traerme @.$h"
                 }
               },
               "ID": "reaction_6"
@@ -1163,17 +1163,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What is this? A romantic story? Buh."
+                  "Text": "¿Qué es esto? ¿Una historia romántica? Buh."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ezekiel is fast asleep."
+                  "Text": "%Ezekiel está profundamente dormido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't catch any of it. I fell asleep. Hm."
+                  "Text": "No vi nada. Me quedé dormido. Hm."
                 }
               },
               "ID": "reaction_7"
@@ -1193,17 +1193,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This film is quite a fun one as I've heard."
+                  "Text": "Esta película he escuchado que es bastante divertida."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Flor is focused on the film"
+                  "Text": "%Flor se centra en la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The vibrancy of the story and colors match. This was indeed a cute story.$h."
+                  "Text": "La vitalidad de la historia y los colores coinciden. Esta fue una linda historia.$h."
                 }
               },
               "ID": "reaction_0"
@@ -1217,17 +1217,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've never really understood videogames. But I'll try to catch up with it."
+                  "Text": "Nunca he entendido los videojuegos. Pero trataré de ponerme al día."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uh.. I'm kind of lost.$s"
+                  "Text": "Uh... Estoy un poco perdida.$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhhmm I'm sorry I wasn't able to appreciate the movie as much. I had a hard time understanding it.$s"
+                  "Text": "Siento no haber podido apreciar tanto la película. Me costó entenderla.$s"
                 }
               },
               "ID": "reaction_1"
@@ -1241,17 +1241,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh! These films are such a delight to watch! Especially the acting of the played actors!$h"
+                  "Text": "¡Oh! ¡Estas películas son una delicia de ver! ¡Especialmente cómo actúan los actores!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Interesting.. The acting is quite good. Human behaviour is easily fabricated in acting.$h"
+                  "Text": "Interesante... La actuación es bastante buena. El comportamiento humano se fabrica fácilmente al actuar.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a great time with this film @. Thank you so much for inviting me.$h"
+                  "Text": "Lo pasé muy bien con esta película @. Muchas gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_2"
@@ -1265,17 +1265,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The behavior of the characters of this one might be good to study. I'm looking forward for it.$h"
+                  "Text": "El comportamiento de los personajes de esta podría ser bueno para estudiarlo. La espero con ansias.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Flor forgot to take notes and instead started to cry from the movie."
+                  "Text": "%Flor olvidó tomar notas y en su lugar comenzó a llorar en la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I forgot to do my usual movie analysis! I was too caught up with the story!$u#$b#But it was a good time @.. Uhmm. Thank you..$h"
+                  "Text": "¡Olvidé hacer mi análisis de película habitual! Yo estaba demasiado atrapada con la historia!$u#$b#Pero fue un buen momento @... Uhmm. Gracias...$h"
                 }
               },
               "ID": "reaction_3"
@@ -1289,17 +1289,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "These kind of films are something I get easily bored with.. But I'll try..$s"
+                  "Text": "Este tipo de películas son algo con lo que me aburro fácilmente... Pero lo intentaré...$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhhm... May I go to the bathroom?$s"
+                  "Text": "Uhhm... ¿Puedo ir al baño?$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I apologize for the inconvenience @.. But I really didn't like the movie.$s"
+                  "Text": "Me disculpo por las molestias @... Pero realmente no me gustó la película.$s"
                 }
               },
               "ID": "reaction_4"
@@ -1313,17 +1313,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I heard this fictional story is quite entertaining. I'm excited.$h"
+                  "Text": "He oído que esta historia de ficción es bastante entretenida. Estoy emocionada.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I wonder.. If those exist in the real world, would our behavior be the same as the one portrayed by the actors?"
+                  "Text": "Me pregunto... Si esos existen en el mundo real, ¿nuestro comportamiento sería el mismo que el retratado por los actores?"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was an interesting movie @. Thank you for the invitation.$h"
+                  "Text": "Esa fue una película interesante @. Gracias por la invitación.$h"
                 }
               },
               "ID": "reaction_5"
@@ -1337,17 +1337,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I love this kinds of films! It's really fun to observe other people's reactions!$h"
+                  "Text": "¡Me encantan este tipo de películas! ¡Es muy divertido observar las reacciones de otras personas!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Interesting, the ambient sounds from the movie seem to be giving an effect to the audience."
+                  "Text": "Interesante, los sonidos ambientales de la película parecen estar dando un efecto a la audiencia."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a wonderful time @! Thank you so much for inviting me! I had collected so much data!$h"
+                  "Text": "¡Tuve un tiempo maravilloso @! ¡Muchas gracias por invitarme! ¡Recogí tantos datos!$h"
                 }
               },
               "ID": "reaction_6"
@@ -1361,17 +1361,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A romantic story? Quite intriguing."
+                  "Text": "¿Una historia romántica? Bastante intrigante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhhmmm..Why does this movie make me blush..$l"
+                  "Text": "Uhhmmm... ¿Por qué esta película me hace sonrojar...?$l"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I quite enjoyed that one @... Thank you for the invite.$l"
+                  "Text": "Disfruté bastante esa @... Gracias por la invitación.$l"
                 }
               },
               "ID": "reaction_7"
@@ -1391,17 +1391,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An animated movie? Wow. Technology has come so far.$h"
+                  "Text": "¿Una película animada? Guau. La tecnología ha llegado tan lejos.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is quite wholesome. I like it."
+                  "Text": "Esto es bastante saludable. Me gusta."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thank you for the invitation @. I had a good time.$h"
+                  "Text": "Gracias por la invitación @. La pasé bien.$h"
                 }
               },
               "ID": "reaction_0"
@@ -1415,17 +1415,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I heard the game was action packed! I might quite enjoy this!$h"
+                  "Text": "¡He oído que el juego tenía mucha acción! ¡Podría disfrutar de esto!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh! Get em there son! Nice! Okay another one!$u"
+                  "Text": "¡Oh! ¡Atrápalos hijo! ¡Bien! ¡Vale, otro!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a really fun movie! How I miss the old days!$h"
+                  "Text": "¡Fue una película muy divertida! ¡Cómo extraño los viejos tiempos!$h"
                 }
               },
               "ID": "reaction_1"
@@ -1439,17 +1439,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Such intriguing plot. I look forward for this one.$h"
+                  "Text": "Qué intrigante trama. Espero con ansias esta.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wahaha! I knew it!$u"
+                  "Text": "¡Guajaja! ¡Lo sabía!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was a good watch @. Thanks for the invitation"
+                  "Text": "Este fue una buena visión @. Gracias por la invitación"
                 }
               },
               "ID": "reaction_2"
@@ -1463,17 +1463,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think the director's name is familiar. I think this would be a good one."
+                  "Text": "Creo que el nombre del director me resulta familiar. Creo que esta sería una buena."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wohoho. I didn't expect to tear up from this. I applaud to it.$h"
+                  "Text": "Wohoho. No esperaba llorar por esto. Le aplaudo.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was quite a treat. Thank you for the invitation @."
+                  "Text": "Fue todo un placer. Gracias por la invitación @."
                 }
               },
               "ID": "reaction_3"
@@ -1487,17 +1487,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A travel kind of movie huh? That's an interesting concept."
+                  "Text": "Una especie de película de viaje, ¿eh? Es un concepto interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah.. How I missed those places. Maybe one day Lola and I can visit those again.$h"
+                  "Text": "Ah... Cómo extrañaba esos lugares. Quizás algún día Lola y yo podamos visitarlos de nuevo.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good trip down to memory lane. I liked the film @. Thank you young one.$h"
+                  "Text": "Fue un buen viaje al carril de la memoria. Me gustó la película @. Gracias joven.$h"
                 }
               },
               "ID": "reaction_4"
@@ -1511,17 +1511,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A wumbus huh? Interesting"
+                  "Text": "¿Un wumbus eh? Interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, to think they managed to make it close to the real one.. Oh! Nothing!. Haha.$h"
+                  "Text": "Oh, pensar que lograron hacerlo casi como el real... ¡Oh! ¡Nada!. Jaja.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie! I like it young one. Thank you.$h"
+                  "Text": "¡Fue una buena película! Me gustó joven. Muchas gracias.$h"
                 }
               },
               "ID": "reaction_5"
@@ -1535,17 +1535,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A film to induce thrill? This can be fun.$h"
+                  "Text": "¿Una película para inducir emoción? Esto puede ser divertido.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Whaha. I don't get scared too easily though. But I like the story so far.$h"
+                  "Text": "Guajaja. Aunque no me asusto muy fácilmente. Pero me gusta la historia hasta ahora.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wohoho! I loved that! I do miss the feeling of thrill!$h"
+                  "Text": "¡Wohoho! ¡Me ha encantado eso! ¡Echo de menos la sensación de la emoción!$h"
                 }
               },
               "ID": "reaction_6"
@@ -1559,17 +1559,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ahh how I wish Lola can watch this with me.$s"
+                  "Text": "Cómo me gustaría que Lola pudiera ver esto conmigo.$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wahaha Lola would've cried in that scene!$h"
+                  "Text": "¡Guajaja Lola habría llorado en esa escena!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good film @. Thank you for the invitation."
+                  "Text": "Esa fue una buena película @. Gracias por la invitación."
                 }
               },
               "ID": "reaction_7"
@@ -1589,17 +1589,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An animated movie? I wonder how they come up with this?"
+                  "Text": "¿Una película animada? ¿Me pregunto cómo se les ocurre esto?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey this is really funny!$h"
+                  "Text": "¡Ey esto es realmente divertido!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! That was great! Thanks @$h"
+                  "Text": "¡Ay! ¡Eso fue muy bueno! Gracias @.$h"
                 }
               },
               "ID": "reaction_0"
@@ -1613,17 +1613,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey isn't this the video game? It's a film now? Woah!$h"
+                  "Text": "¿No es este el videojuego? ¿Ahora es una película? ¡Woah!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! Dodge it!$u"
+                  "Text": "¡Ay! ¡Esquiva eso!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was intense! I'm excited to play the game again!$h"
+                  "Text": "¡Eso fue intenso! ¡Estoy emocionado por jugar el juego de nuevo!$h"
                 }
               },
               "ID": "reaction_1"
@@ -1637,17 +1637,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery movie? How can it be a mystery?"
+                  "Text": "¿Una película de misterio? ¿Cómo puede ser un misterio?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uh. But wasn't he.. Uhm.. I'm lost.$u"
+                  "Text": "Uh. Pero no era él... Ehm... Estoy perdido.$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm sorry I couldn't really follow up with the movie. I was lost from the first 10 minutes I guess.$s"
+                  "Text": "Siento no haber podido seguir con la película. Me perdí desde los primeros 10 minutos supongo.$s"
                 }
               },
               "ID": "reaction_2"
@@ -1661,17 +1661,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey I'm excited to see the movie. Let's go.$h"
+                  "Text": "Estoy emocionado de ver la película. Vamos.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Shhh, I'm watching.$h"
+                  "Text": "Shhh, estoy viendo.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was really good. Thank you @ $h"
+                  "Text": "Eso estuvo muy buena. Gracias @.$h"
                 }
               },
               "ID": "reaction_3"
@@ -1685,17 +1685,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey! A movie about other places? Woah!$h"
+                  "Text": "¡Oye! ¿Una película sobre otros lugares? ¡Woah!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh boy! I wish I could visit those places someday.$h"
+                  "Text": "¡Oh chic{{g}}! Ojalá pudiera visitar esos lugares algún día.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Those places seem fun to visit. I'll save up for the trip one day.$h"
+                  "Text": "Esos lugares parecen divertidos para visitarlos. Ahorraré para viajar algún día.$h"
                 }
               },
               "ID": "reaction_4"
@@ -1709,17 +1709,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What is a wumbus? I wanna find out!$h"
+                  "Text": "¿Qué es un wumbus? ¡Quiero averiguarlo!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! That's so cool! Look at those!$h"
+                  "Text": "¡Ay! ¡Eso es tan genial! ¡Mira esos!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie! I had fun!$h"
+                  "Text": "¡Fue una buena película! ¡Me divertí!$h"
                 }
               },
               "ID": "reaction_5"
@@ -1733,17 +1733,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror movie? Oh no..$s"
+                  "Text": "¿Una película de terror? Oh no...$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "WAAH! Oh boy..$u"
+                  "Text": "WAAH! Oh chic{{g}}...$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehh.. I think I won't be able to sleep tonight..$s"
+                  "Text": "Ehh... Creo que no podré dormir esta noche...$s"
                 }
               },
               "ID": "reaction_6"
@@ -1757,17 +1757,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think I've heard about this from my aunt before.$h"
+                  "Text": "Creo que he oído hablar de esta de mi tía antes.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is so.. Aww..$l"
+                  "Text": "Esto es así... Aww...$l"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I wish to see a part two! I can't wait!$h"
+                  "Text": "¡Deseo ver una segunda parte! ¡No puedo esperar!$h"
                 }
               },
               "ID": "reaction_7"
@@ -1787,17 +1787,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A kid's movie huh? I mean why not?"
+                  "Text": "Una película de niños, ¿eh? Quiero decir, ¿por qué no?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehhh.. This is fun? I guess?"
+                  "Text": "Ehhh... ¿Esto es divertido? ¿Supongo?"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was okay I guess. Thanks for the invitation though."
+                  "Text": "Supongo que estaba bien. Gracias por la invitación."
                 }
               },
               "ID": "reaction_0"
@@ -1811,17 +1811,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm familiar with the game. It's a surprise to see it as a movie though."
+                  "Text": "Estoy familiarizado con el juego. Es una sorpresa verlo como una película."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't expect it to be this cool! Awesome!$h"
+                  "Text": "¡No esperaba que fuera tan genial! ¡Impresionante!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie, nice pick @.$h"
+                  "Text": "Esa fue una buena película, buena elección @.$h"
                 }
               },
               "ID": "reaction_1"
@@ -1835,17 +1835,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This can be fun, haha.$h"
+                  "Text": "Esto puede ser divertido, jaja.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh! Called it!$h"
+                  "Text": "¡Oh! ¡Lo llamó!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good one! The twist was great too.$h"
+                  "Text": "¡Esa fue buena! El giro fue genial también.$h"
                 }
               },
               "ID": "reaction_2"
@@ -1859,17 +1859,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey, if you ever cry in there, I'll be there to wipe your tears okay?$h"
+                  "Text": "Oye, si alguna vez lloras, ¿estaré para limpiarte las lágrimas?$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Jeric is crying hard."
+                  "Text": "%Jeric está llorando mucho."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't cry! There were just some dust in my eyes!$a#$b#Oh okay I admit, I got hooked with the story.$h"
+                  "Text": "¡No he llorado! ¡Solo había un poco de polvo en mis ojos!$a#$b#Oh bien lo admito, me enganché con la historia.$h"
                 }
               },
               "ID": "reaction_3"
@@ -1883,17 +1883,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been to many places before. I look forward to this film."
+                  "Text": "He estado en muchos lugares antes. Estoy deseando ver esta película."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey! I've seen those in some posters as well! Woah! That's a huge place!$h"
+                  "Text": "¡Oye! ¡He visto eso en algunos carteles! ¡Woah! ¡Es un lugar enorme!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That inspired me to visit those places someday. Wanna come with too?$h"
+                  "Text": "Eso me inspiró a visitar esos lugares algún día. ¿Quieres venir también?$h"
                 }
               },
               "ID": "reaction_4"
@@ -1907,17 +1907,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A sci-fi comedy huh? This is new.$h"
+                  "Text": "Una comedia de ciencia ficción, ¿eh? Esto es nuevo.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hehe good one. Hey this is a cool film.$h"
+                  "Text": "Jehe buena. Ey esta es una película genial.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a good time @. Thanks for inviting me.$h"
+                  "Text": "La pasé bien @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_5"
@@ -1931,17 +1931,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey if you ever feel scared, Don't hesitate to come closer to me okay?$l#$b#Hehe just kidding.$h"
+                  "Text": "Ey si alguna vez te sientes asustad{{g}}, No dudes en acercarte a mí ¿vale?$l#$b#Jeje sólo bromeando.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "OHHH NO NO!$u#$b#YIKES!$u"
+                  "Text": "¡OHHH NO NO!$u#$b#¡YIKES!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "EHHRR EHEM.$u#$b#I managed to watch through it!$u#$b#Phew!$h"
+                  "Text": "EHHM EJEM.$u#$b#¡Me las arreglé para mirar a través de ella!$u#$b#¡Fiu!$h"
                 }
               },
               "ID": "reaction_6"
@@ -1955,17 +1955,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey I've been looking forward to watch this remake.$h"
+                  "Text": "Hola, he estado esperando ver esta nueva versión.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Jeric held your hand"
+                  "Text": "%Jeric tomó tu mano."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah! I loved that film! Thanks for tagging me along @.$h"
+                  "Text": "¡Ah! ¡Me encantó esta película! Gracias por pedirme que te acompañe @.$h"
                 }
               },
               "ID": "reaction_7"
@@ -1984,17 +1984,17 @@
 				"BeforeMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Hm. I movie huh?"
+					"Text": "Hm. Una película ¿eh?"
 				},
 				"DuringMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Shh. I'm trying to watch here.$a"
+					"Text": "Shh. Estoy tratando de mirarla.$a"
 				},
 				"AfterMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "That was an interesting experience. I'm grateful @."
+					"Text": "Fue una experiencia interesante. Te estoy muy agradecido."
 				}
 				},
 				"ID": "reaction_0"
@@ -2014,17 +2014,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey this looks cool!"
+                  "Text": "¡Ey, esto se ve bien!"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I wonder if I can climb up a tree later.$h"
+                  "Text": "Me pregunto si puedo subir a un árbol más tarde.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have been inspired to climb up a tree. I shall see you later as I'm on top of the clouds @.$h"
+                  "Text": "Me he inspirado para subir a un árbol. Te veré más tarde cuando esté en la cima de las nubes @.$h"
                 }
               },
               "ID": "reaction_0"
@@ -2038,17 +2038,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "WOAH! IT'S THE VIDEOGAME MOVIE!$h"
+                  "Text": "¡WOAH! ¡ES LA PELÍCULA DEL VIDEOJUEGO!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "GO GET EM!$h"
+                  "Text": "¡A por ellos!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "IMMA BE THE PRAIRE KING NOW! BOW DOWN TO ME!$h"
+                  "Text": "¡AHORA SOY EL REY DE LA PRADERA! ¡Inclínate ante mí!$h"
                 }
               },
               "ID": "reaction_1"
@@ -2062,17 +2062,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Huh? What's this movie @? Is it any good?"
+                  "Text": "¿Eh? ¿De qué va esta película? ¿Es buena?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Keahi is not paying attention to the movie."
+                  "Text": "%Keahi no está prestando atención a la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
+                  "Text": "¡Eh, mira! ¡He hecho un pequeño dinosaurio con mi comida!$h#$b#¿Qué? ¿Una película? Oh, sí, vimos una, ¿verdad? No, no me gustó."
                 }
               },
               "ID": "reaction_2"
@@ -2086,17 +2086,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Huh? What's this movie @? Is it any good?"
+                  "Text": "¿Eh? ¿De qué va esta película? ¿Es buena?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Keahi is not paying attention to the movie."
+                  "Text": "%Keahi no está prestando atención a la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
+                  "Text": "¡Eh, mira! ¡He hecho un pequeño dinosaurio con mi comida!$h#$b#¿Qué? ¿Una película? Oh, sí, vimos una, ¿verdad? No, no me gustó."
                 }
               },
               "ID": "reaction_3"
@@ -2110,17 +2110,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Huh? What's this movie @? Is it any good?"
+                  "Text": "¿Eh? ¿De qué va esta película? ¿Es buena?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Keahi is not paying attention to the movie."
+                  "Text": "%Keahi no está prestando atención a la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
+                  "Text": "¡Eh, mira! ¡He hecho un pequeño dinosaurio con mi comida!$h#$b#¿Qué? ¿Una película? Oh, sí, vimos una, ¿verdad? No, no me gustó."
                 }
               },
               "ID": "reaction_4"
@@ -2134,17 +2134,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh hey! That little wumbus thingy looks cool!$h"
+                  "Text": "¡Oh, hola! ¡Esa cosita wumbus parece genial!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah this is cool!$h"
+                  "Text": "¡Woah esto es genial!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'M GONNA BE A WUMBUS! WOLOLOLOLO!$h"
+                  "Text": "¡VOY A SER UN WUMBUS! ¡WOLOLOLO!$h"
                 }
               },
               "ID": "reaction_5"
@@ -2158,17 +2158,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror movie? UH OH.$u"
+                  "Text": "¿Una película de terror? UH OH.$u"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Keahi has put a blindfold on."
+                  "Text": "%Keahi se ha puesto una venda en los ojos."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I got scared just from the sounds. That was too scary.$u"
+                  "Text": "Me asusté sólo con los sonidos. Eso fue muy aterrador.$u"
                 }
               },
               "ID": "reaction_6"
@@ -2182,17 +2182,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Huh? What's this movie @? Is it any good?"
+                  "Text": "¿Eh? ¿De qué va esta película? ¿Es buena?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Keahi is not paying attention to the movie."
+                  "Text": "%Keahi no está prestando atención a la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey look! I made a small dinosaur from my food!$h#$b#What? A movie? Oh yeah we watched one right? Nah I didn't like it."
+                  "Text": "¡Eh, mira! ¡He hecho un pequeño dinosaurio con mi comida!$h#$b#¿Qué? ¿Una película? Oh, sí, vimos una, ¿verdad? No, no me gustó."
                 }
               },
               "ID": "reaction_7"
@@ -2212,17 +2212,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Animated!? Woah! That's innovative!$h"
+                  "Text": "¿Animada? ¡Woah! ¡Eso es innovador!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The animation is decent. I wonder how they did it?"
+                  "Text": "La animación es decente. Me pregunto cómo la habrán hecho."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a good time! What? The story? Oh, I'm sorry I didn't notice.$h"
+                  "Text": "¡Me lo he pasado bien! ¿Qué? ¿La historia? Oh, siento no haberme dado cuenta.$h"
                 }
               },
               "ID": "reaction_0"
@@ -2236,17 +2236,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been playing this game since I was a kid. It's refreshing to see it becoming a film."
+                  "Text": "Llevo jugando a este juego desde que era un niño. Es interesante ver que se convierta en una película."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm glad they stayed faithful as much as they can.$h"
+                  "Text": "Me alegro de que se mantuvieran fieles todo lo que podían.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was a fun time @. Thanks!$h"
+                  "Text": "Este fue un momento divertido @. ¡Gracias!$h"
                 }
               },
               "ID": "reaction_1"
@@ -2260,17 +2260,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ready to go in the theatre? I am.$h"
+                  "Text": "¿Listo para ir al cine? Yo si lo estoy.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, so he was that...$u"
+                  "Text": "Oh, así que era eso...$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good film. Glad I tagged along with you @. Thanks.$h"
+                  "Text": "Fue una buena película. Me alegro de haberte acompañado @. Gracias.$h"
                 }
               },
               "ID": "reaction_2"
@@ -2284,17 +2284,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Family movie huh? I think I can get aboard with this."
+                  "Text": "Película familiar, ¿eh? Creo que puedo sumarme a esto."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think they're trying too hard to make you cry. Or is it just me?$s"
+                  "Text": "Creo que se esfuerzan demasiado en hacerte llorar. ¿O sólo soy yo?$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really like it that much. But thank you for inviting me though.$h"
+                  "Text": "La verdad es que no me ha gustado tanto. Pero sin embargo gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_3"
@@ -2308,17 +2308,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is a good use of film. It's like a little vacation or tour.$h"
+                  "Text": "Este es un buen uso de una película. Es como unas pequeñas vacaciones o una gira.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been wanting to visit that place. This was a nice virtual tour."
+                  "Text": "He querido visitar ese lugar. Ha sido una bonita visita virtual."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a fun time @. Thanks for having me.$h"
+                  "Text": "Me lo he pasado bien @. Gracias por traerme.$h"
                 }
               },
               "ID": "reaction_4"
@@ -2332,17 +2332,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm excited for this one! I read about the special effects they used for this!$h"
+                  "Text": "¡Estoy emocionado por esta! ¡Leí sobre los efectos especiales que usaron para esto!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Kenneth seems to be really enjoying the movie."
+                  "Text": "%Kenneth parece estar disfrutando de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was awesome! Thank you for inviting me @!$h"
+                  "Text": "¡Ha sido increíble! ¡Gracias por invitarme @!$h"
                 }
               },
               "ID": "reaction_5"
@@ -2356,17 +2356,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror flick? This is exciting.$h"
+                  "Text": "¿Una película de terror? Esto es emocionante.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah, that's some nice use of special effects.$h"
+                  "Text": "Woah, eso fué un buen uso de los efectos especiales.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was great! The effects were well done! Huh? The story? OH! Right, uhm, it's fine I guess.$h"
+                  "Text": "¡Eso fue genial! ¡Los efectos estuvieron bien hechos! ¿Eh? ¿La historia? ¡OH! Bien, uhm, está bien supongo.$h"
                 }
               },
               "ID": "reaction_6"
@@ -2380,17 +2380,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Romance movie? Hmm, I think this one's soundtrack was praised.$s"
+                  "Text": "¿Película romántica? Hmm, creo que la banda sonora de esta fue alabada.$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhm. It's kind of too cheesy?$s"
+                  "Text": "Ehm. Es demasiado cursi...$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey atleast the soundtrack was good. I'm sorry but I'm not really a fan with romance tales.$s"
+                  "Text": "Ey, al menos la banda sonora era buena. Lo siento pero no soy muy fan de los cuentos románticos.$s"
                 }
               },
               "ID": "reaction_7"
@@ -2409,17 +2409,17 @@
 				"BeforeMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Kiwi like movie. But Jio never take!$s"
+					"Text": "Kiwi le gusta película. ¡Pero Jio nunca lleva!$s"
 				},
 				"DuringMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "THIS KIWI FAVORITE PART!$h"
+					"Text": "¡ESTA PARTE FAVORITA DE KIWI!$h"
 				},
 				"AfterMovie": {
 					"ResponsePoint": null,
 					"Script": "",
-					"Text": "Kiwi like friend @! Kiwi want to watch more!$h"
+					"Text": "¡Kiwi le gusta amig{{g}} @! ¡Kiwi quiere ver más!$h"
 				}
 				},
 				"ID": "reaction_0"
@@ -2430,7 +2430,7 @@
 		"Lenny": {
 			"Lenny": "Lenny",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -2439,17 +2439,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've known this tale for such a long time now, I'm excited to see it in film."
+                  "Text": "Conozco este cuento desde hace mucho tiempo, me emociona verlo en película."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's such a cutie!$h"
+                  "Text": "¡Es una monada!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a delight @. Thank you for inviting me.$h"
+                  "Text": "Ha sido una delicia @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_0"
@@ -2463,17 +2463,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah! I remember the days I stayed up all night at arcades playing this game!$h"
+                  "Text": "¡Ah! Recuerdo los días en que me quedaba despierta toda la noche en los salones recreativos jugando a este juego!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "NICE! NOW GO GET THE OTHER ONE!$4"
+                  "Text": "¡BIEN! ¡AHORA VE A POR EL OTRO!$4"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm sorry I got carried away @, I was just really excited! Thank you for inviting me.$h"
+                  "Text": "Siento haberme dejado llevar @, ¡estaba muy emocionada! Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_1"
@@ -2487,17 +2487,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery movie huh? Hm, I'll try to enjoy it."
+                  "Text": "Una película de misterio ¿eh? Hm, intentaré disfrutarla."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Lenny is a little bored."
+                  "Text": "%Lenny está un poco aburrida."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really have fun with this one, I'm not too keen with these movies.$s"
+                  "Text": "La verdad es que no me he divertido con esta, no soy muy aficionada a estas películas.$s"
                 }
               },
               "ID": "reaction_2"
@@ -2511,17 +2511,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A family movie huh? I should invite my brother to watch this next time! I want to see him bawl his eyes out!$h"
+                  "Text": "Una película familiar, ¿eh? ¡Debería invitar a mi hermano a verla la próxima vez! ¡Quiero verle llorar a gritos!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was quite touching.$4"
+                  "Text": "Esto fue bastante conmovedor.$4"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was a delightful and heartwarming film. Thank you for inviting me @.$h"
+                  "Text": "Esta fue una película encantadora y conmovedora. Gracias por invitarme @.$h"
                 }
               },
               "ID": "reaction_3"
@@ -2535,17 +2535,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This sounds interesting. I'm excited.$h"
+                  "Text": "Esto suena interesante. Estoy emocionada.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey, I think I know that actress! I think she's my ex!$h"
+                  "Text": "¡Ey, creo que conozco a esa actriz! ¡Creo que es mi ex!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie. I had fun @. Thank you so much for inviting me.$h"
+                  "Text": "Fue una buena película. Me he divertido @. Muchas gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_4"
@@ -2559,17 +2559,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm looking forward for this. I had an 'alien-fanatic' phase before you know?$h"
+                  "Text": "Estoy esperando a ver esto. Tuve una fase de 'fanática de los extraterrestres' antes, ¿sabes?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha! This is hilarious!$h"
+                  "Text": "¡Jaja! ¡Esto es divertidísimo!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had fun @. Thanks for the invitiation.$h"
+                  "Text": "Me he divertido @. Gracias por la invitación.$h"
                 }
               },
               "ID": "reaction_5"
@@ -2583,17 +2583,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror film eh? Tell you what, let's see who gets flinched first huh? Loser buys the winner a beer.$4"
+                  "Text": "Una película de terror ¿eh? Te diré algo, veamos quién se estremece primero ¿eh? El que pierda le paga una cerveza al ganador.$4"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wahaha doing good there @? I think I saw you flinch earlier?$h"
+                  "Text": "Guajaja ¿estás bien ahí @? ¿Creo que te vi estremecerte antes?$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good time. I think you owe me a beer huh?$h"
+                  "Text": "Fue un buen momento. Creo que me debes una cerveza ¿eh?$h"
                 }
               },
               "ID": "reaction_6"
@@ -2607,17 +2607,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Eh, a romance film huh? You have any intentions @? Whaha just kidding.$4"
+                  "Text": "Eh, una película romántica ¿eh? ¿Tienes alguna intención @? Guajaja solo bromeaba.$4"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Lenny seems bored."
+                  "Text": "%Lenny parece aburrida."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "These aren't really my cup of tea. But thanks for the invitation though."
+                  "Text": "Esto es realmente no me apasiona. Pero gracias por la invitación."
                 }
               },
               "ID": "reaction_7"
@@ -2628,7 +2628,7 @@
 		"Lola": {
 			"Lola": "Lola",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -2637,17 +2637,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This story goes way back. I'm intrigued with this."
+                  "Text": "Esta historia viene de hace muchos años. Estoy intrigada con esto."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha, this is quite delightful.$h"
+                  "Text": "Jaja, esto es bastante encantador.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm glad that movie ended in a good note. This was nice.$h"
+                  "Text": "Me alegro de que la película haya terminado de buena forma. Esto ha sido bonito.$h"
                 }
               },
               "ID": "reaction_0"
@@ -2661,17 +2661,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An action movie? This should be fun.$h"
+                  "Text": "¿Una película de acción? Esto debería ser divertido.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "GO GET EM!$h"
+                  "Text": "¡A por ellos!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was really fun! Thank you for inviting me dear.$h"
+                  "Text": "¡Ha sido muy divertido! Gracias por invitarme querid{{g}}.$h"
                 }
               },
               "ID": "reaction_1"
@@ -2685,17 +2685,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been looking forward for this. I'm excited.$h"
+                  "Text": "He estado esperando esto. Estoy emocionada.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The mystery is quite nostalgic. I remember my youthful days solving problems in my missions.$h"
+                  "Text": "El misterio es bastante nostálgico. Recuerdo mis días de juventud resolviendo problemas en mis misiones.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was quite a delightful stress reliever. I had a good time @. Thank you.$h"
+                  "Text": "Ha sido un delicioso alivio del estrés. Me lo he pasado bien @. Gracias.$h"
                 }
               },
               "ID": "reaction_2"
@@ -2709,17 +2709,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A family movie huh?$s.."
+                  "Text": "¿Una película familiar?$s."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Lola seems to be looking away from the movie as much as she can."
+                  "Text": "%Lola parece estar apartando la vista de la película todo lo que puede."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The story was heartwarming and all.. But it reminds of a painful memory.. I'm sorry @, But still, thank you for inviting me.$s"
+                  "Text": "La historia fue conmovedora y todo... Pero me recuerda algo doloroso... Lo siento @, pero aún así, gracias por invitarme.$s"
                 }
               },
               "ID": "reaction_3"
@@ -2733,17 +2733,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I bet I know more than this movie.$h"
+                  "Text": "Apuesto a que sé más que esta película.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oops, They don't know that---$h#$b#OOPS!$u#$b#Nevermind, that was supposed to be a state secret.$h"
+                  "Text": "Uups, no saben que---$h#$b#¡UUPS!$u#$b#No importa, se suponía que era un secreto de estado.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had fun with this movie @. It was nostalgic. Thank you dear.$h"
+                  "Text": "Me divertí con esta película @. Fue nostálgico. Gracias querid{{g}}.$h"
                 }
               },
               "ID": "reaction_4"
@@ -2757,17 +2757,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "People get more creative every year. This is a nice touch."
+                  "Text": "La gente se vuelve más creativa cada año. Esto es un bonito detalle."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Lola is enjoying the movie."
+                  "Text": "%Lola está disfrutando de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was really refreshing. I'd certainly wish to see a Wumbus again..$h"
+                  "Text": "Eso fue realmente refrescante. Ciertamente desearía volver a ver a un Wumbus...$h"
                 }
               },
               "ID": "reaction_5"
@@ -2781,17 +2781,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Horror huh? Bring it on!$h"
+                  "Text": "¿Terror eh? ¡Dale!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wahaha is this all you got!?$h"
+                  "Text": "Guajaja, ¿¡es todo lo que tienes!?$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was fun! I had a good time dear! Thank you for inviting me.$h"
+                  "Text": "¡Ha sido divertido! ¡Me lo he pasado bien querid{{g}}! Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_6"
@@ -2805,17 +2805,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I hope they stayed faithful to the original."
+                  "Text": "Espero que se hayan mantenido fieles al original."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha, I bet Freddie would've cried at this scene!$h"
+                  "Text": "¡Ja, apuesto a que Freddie habría llorado con esta escena!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was a good remake. I liked it.$h#$b#Thank you for inviting me @.$h"
+                  "Text": "Fue un buena reedición. Me ha gustado.$h#$b#Gracias por invitarme @.$h"
                 }
               },
               "ID": "reaction_7"
@@ -2826,7 +2826,7 @@
 		"Maddie": {
 			"Maddie": "Maddie",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "love",
@@ -2835,17 +2835,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmph, isn't this for kids? Oh well.$7"
+                  "Text": "Hmph, ¿esto no es para niños? Oh, bueno.$7"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Awww it's so cute!!$9"
+                  "Text": "¡¡Awww es tan lindo!!$9"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Okay, I have to admit. I kind of liked this movie..$8"
+                  "Text": "Bien, tengo que admitirlo. Esta película me gustó un poco...$8"
                 }
               },
               "ID": "reaction_0"
@@ -2859,17 +2859,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A movie about a videogame? Hmm, I wonder how will it turn out."
+                  "Text": "¿Una película sobre un videojuego? Hmm, me pregunto cómo resultará."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehh... isn't this too violent?$s"
+                  "Text": "Ehh... ¿no es esto demasiado violento?$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really like this movie @. Hmph$a"
+                  "Text": "Realmente no me gustó esta película @. Hmph.$a"
                 }
               },
               "ID": "reaction_1"
@@ -2883,17 +2883,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery genre? Ehh.$s"
+                  "Text": "¿Un género de misterio? Ehh.$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've had enough headaches already, I didn't need another one.$s"
+                  "Text": "Ya he tenido bastantes dolores de cabeza, no necesitaba otro.$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhg, These genres stress me out. I didn't like it.$s"
+                  "Text": "Uhg, las de estos géneros me estresan. No me ha gustado.$s"
                 }
               },
               "ID": "reaction_2"
@@ -2907,17 +2907,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmph, A tear jerker huh? Only softies would cry because of a movie.$6"
+                  "Text": "Hmph, una película para llorar, ¿eh? Sólo los blandos llorarían por una película.$6"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Awwwww *sniff* my heart..$10"
+                  "Text": "Awwwww *sniff* mi corazón...$10"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmph, who was crying? Phoowie..$8#$b#Thanks for the invitation @.$8"
+                  "Text": "Hmph, ¿quién estaba llorando? Phoowie...$8#$b#Gracias por la invitación @.$8"
                 }
               },
               "ID": "reaction_3"
@@ -2931,17 +2931,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An educational type of film huh? A weird approach but okay."
+                  "Text": "Una película de tipo educativo ¿eh? Un enfoque raro pero está bien."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Interesting, I think I learned something."
+                  "Text": "Interesante, creo que he aprendido algo."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This gave me some insight about the situation of other countries. This was a nice film."
+                  "Text": "Esto me dio una idea sobre la situación de otros países. Ha sido una buena película."
                 }
               },
               "ID": "reaction_4"
@@ -2955,17 +2955,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That Wumbus look so cute!$9#$b#Quickly @! Let's get in already!$a"
+                  "Text": "¡Ese Wumbus se ve tan lindo!$9#$b#¡Rápido @! ¡Entremos ya!$a"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It is so cute! I want to buy a Wumbus plushie!$9"
+                  "Text": "¡Es tan lindo! ¡Quiero comprar un peluche de Wumbus!$9"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had fun!! Teehee! <$h#$b#I mean, ehr ehem.. That was nice I guess.$8"
+                  "Text": "¡¡Me he divertido!! ¡Jiji! <$h#$b#Quiero decir, ehm ejem... Eso estuvo bien supongo.$8"
                 }
               },
               "ID": "reaction_5"
@@ -2979,17 +2979,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Horror.. Uhmm Ehr.. I mean, what are you waiting for? Come on let's watch already.$7"
+                  "Text": "Terror... Uhmm Ehm... Quiero decir, ¿qué estás esperando? Vamos a verla ya.$7"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Maddie is hiding."
+                  "Text": "%Maddie se está escondiendo."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhmm. That was quite boring. I fell asleep.. Ehmm. Yeah I fell asleep..$7"
+                  "Text": "Uhmm. Eso fue bastante aburrido. Me he quedado dormida... Ehmm. Sí, me quedé dormida...$7"
                 }
               },
               "ID": "reaction_6"
@@ -3003,17 +3003,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Romance? Bah! This should be funny huh, I bet it would be full of cheesy lines and all.$6"
+                  "Text": "¿Romance? ¡Bah! Esto debería ser divertido eh, apuesto a que estaría llena de líneas cursis y todo.$6"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Aww... Just stay girl..$l"
+                  "Text": "Aww... Solo quédate chica...$l"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have to admit, that was quite touching..$8#$b#Thanks for inviting me @.$l"
+                  "Text": "Tengo que admitir que eso fue bastante conmovedor...$8#$b#Gracias por invitarme @.$l"
                 }
               },
               "ID": "reaction_7"
@@ -3024,7 +3024,7 @@
 		"Olga": {
 			"Olga": "Olga",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -3033,17 +3033,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I should've brought Trinnie with me on this one."
+                  "Text": "Debería haber traído a Trinnie conmigo en esta ocasión."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is quite good."
+                  "Text": "Esto es bastante bueno."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a decent time @. Thanks for inviting me.$h"
+                  "Text": "Fue un momento decente @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_0"
@@ -3057,17 +3057,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhhh. Why are we watching this?$s"
+                  "Text": "Uhhh. ¿Por qué estamos viendo esto?$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Olga seems to be bored"
+                  "Text": "%Olga parece estar aburrida."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thanks for inviting me I guess. But I didn't really like it @, Sorry.$s"
+                  "Text": "Gracias por invitarme, supongo. Pero no me ha gustado mucho @, Lo siento.$s"
                 }
               },
               "ID": "reaction_1"
@@ -3081,17 +3081,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I remember reading the novel about this. No spoilers though.$h"
+                  "Text": "Recuerdo haber leído esta novela. Aunque no te voy a contar los detalles.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, a little deviation I see. This is interesting."
+                  "Text": "Oh, una pequeña desviación veo. Esto es interesante."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a great time @. Thank you for inviting me.$h"
+                  "Text": "Me lo he pasado muy bien @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_2"
@@ -3105,17 +3105,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been wanting to watch this. Thanks for bringing me along.$h"
+                  "Text": "He querido ver esta. Gracias por traerme.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Olga is crying while smiling gently as she watches"
+                  "Text": "%Olga está llorando mientras sonríe suavemente mientras mira."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This has been such a nice time, I feel refreshed. Thank you for inviting me.$h"
+                  "Text": "Ha sido un momento muy agradable, me siento renovada. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_3"
@@ -3129,17 +3129,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Huh? This one? Uhh, Okay?$s"
+                  "Text": "¿Eh? ¿Esta? Uhh, ¿bueno?$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Olga seems to be bored."
+                  "Text": "%Olga parece estar aburrida."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I don't really like these kinds of films. It's kind of boring.$s"
+                  "Text": "No me gustan mucho este tipo de películas. Es un poco aburrido.$s"
                 }
               },
               "ID": "reaction_4"
@@ -3153,17 +3153,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Sci-Fi? Hmm, Maybe I'll give it a go."
+                  "Text": "¿Ciencia Ficción? Hmm, tal vez lo intente."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehh. This seems quite corny?$s"
+                  "Text": "Ehh. Esto parece bastante cursi...$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't really enjoy this, The jokes were kind of forced. But still, thanks for inviting me @."
+                  "Text": "Realmente no la disfruté, los chistes fueron un poco forzados. Pero aún así, gracias por invitarme @."
                 }
               },
               "ID": "reaction_5"
@@ -3177,17 +3177,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Finally, someone to watch a horror film with!$h"
+                  "Text": "¡Por fin, alguien con quien ver una película de terror!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Whaha, that scare was unexpected. It got me good.$h"
+                  "Text": "Jajaja, ese susto fue inesperado. Me ha pillado de sorpresa.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a delightful time @. Thanks for inviting me.$h"
+                  "Text": "Me lo he pasado muy bien @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_6"
@@ -3201,17 +3201,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now if my husband invited me with these movies, Boy oh boy how much would I thank him.$h"
+                  "Text": "Ahora bien, si mi marido me invitara a ver estas películas, vaya que se lo agradecería.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is really touching. Awww.$4"
+                  "Text": "Esto es realmente conmovedor. Awww.$4"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "hat was a delightful time @. I really loved the movie. Thank you for inviting me.$h"
+                  "Text": "Fue un momento encantador @. Me encantó la película. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_7"
@@ -3222,7 +3222,7 @@
 		"Philip": {
 			"Philip": "Philip",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "love",
@@ -3231,17 +3231,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's the little sapling! I've loved this story for so long!!$h"
+                  "Text": "¡Es el pequeño arbolito! ¡¡Me encanta esta historia de hace mucho tiempo!!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Philip seems to be enjoying this.. A lot."
+                  "Text": "%Philip parece estar disfrutando esto... Mucho."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I want to watch it again!$h#$b#That was awesome!$h"
+                  "Text": "¡Quiero verla de nuevo!$h#$b#¡Eso fue increíble!$h"
                 }
               },
               "ID": "reaction_0"
@@ -3255,17 +3255,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's the film adaptation! I can't wait to see my favorite characters!$h"
+                  "Text": "¡Es la adaptación cinematográfica! ¡No puedo esperar a ver a mis personajes favoritos!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Philip seems to be enjoying this.. A lot."
+                  "Text": "%Philip parece estar disfrutando esto... Mucho."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I want to watch it again!$h#$b#That was awesome!$h"
+                  "Text": "¡Quiero verla de nuevo!$h#$b#¡Eso fue increíble!$h"
                 }
               },
               "ID": "reaction_1"
@@ -3279,17 +3279,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery movie huh? I'll give it a go."
+                  "Text": "Una película de misterio, ¿eh? Lo intentaré."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhmm.. I think this is a little predictable.$s"
+                  "Text": "Uhmm... creo que esto es un poco predecible.$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "HIt was quite a bummer really. But thanks anyway for inviting me @."
+                  "Text": "La verdad es que ha sido una putada. Pero gracias de todos modos por invitarme @."
                 }
               },
               "ID": "reaction_2"
@@ -3303,17 +3303,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've heard about this. They said it's good."
+                  "Text": "He oído hablar de esta. Dicen que es buena."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was quite touching.. Awww.$6"
+                  "Text": "Esto fue bastante conmovedor... Awww.$6"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha, that was a decent movie @. Thank you for inviting me.$h"
+                  "Text": "Jaja, esa fue una película decente @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_3"
@@ -3327,17 +3327,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhhhh. I thought we were watching a movie?$s"
+                  "Text": "Uhhhh. Pensé que estábamos viendo una película..."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Philip seems bored."
+                  "Text": "%Philip parece aburrido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was an educational movie huh? Uhh..$s#$b#I didn't really have an interest on those.$s"
+                  "Text": "Era una película educativa ¿eh? Uhh...$s#$b#No tenía realmente interés en ella.$s"
                 }
               },
               "ID": "reaction_4"
@@ -3351,17 +3351,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have the Wumbus action figure! I have 25!$h"
+                  "Text": "¡Tengo la figura de acción de Wumbus! ¡Tengo 25!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Philip seems to be enjoying the movie... A lot."
+                  "Text": "%Philip parece estar disfrutando de la película... Mucho."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I can't wait to watch the sequel! Or maybe a prequel!$h"
+                  "Text": "¡No puedo esperar a ver la secuela! ¡O tal vez una precuela!$h"
                 }
               },
               "ID": "reaction_5"
@@ -3375,17 +3375,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The protagonist here played IncrediMan before. I'm curious to see this."
+                  "Text": "El protagonista aquí actuó antes en IncrediMan. Tengo curiosidad por ver esto."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! That was a scare!$u"
+                  "Text": "¡Woah! ¡Qué susto!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a thrilling experience. I had fun @. Thank you.$h"
+                  "Text": "Fue una experiencia emocionante. Me he divertido @. Gracias.$h"
                 }
               },
               "ID": "reaction_6"
@@ -3399,17 +3399,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A romantic movie? Uhm. Okay I guess?$6"
+                  "Text": "¿Una película romántica? Ehm está bien, supongo...$6"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's a tad bit too cheesy huh?? I mean, well it's okay I guess.$6"
+                  "Text": "Es demasiado cursi ¿eh? Quiero decir, bueno está bien supongo.$6"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It was fine I guess. Thanks for inviting me @.$6"
+                  "Text": "Supongo que estuvo bien. Gracias por invitarme @.$6"
                 }
               },
               "ID": "reaction_7"
@@ -3420,7 +3420,7 @@
 		"Pika": {
 			"Pika": "Pika",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -3429,17 +3429,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I remember this story. I used to read it for Keahi when he was a baby.$h"
+                  "Text": "Recuerdo esta historia. Solía leérsela a Keahi cuando era un bebé.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh? It seems they added a bit more huh? It's quite fitting.$h"
+                  "Text": "¿Oh? Parece que le han añadido un poco más ¿eh? Es bastante apropiado.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good one @. Mahalo.$h"
+                  "Text": "Esa fue una buena @. Mahalo.$h"
                 }
               },
               "ID": "reaction_0"
@@ -3453,17 +3453,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A video game movie? Hmm, I have my doubts."
+                  "Text": "¿Una película de videojuegos? Hmm, tengo mis dudas."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Pika is confused."
+                  "Text": "%Pika está confundido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It seems to be targeting a specific audience though. I'm sorry but I didn't really like it.$s"
+                  "Text": "Parece que se dirige a un público específico. Lo siento pero no me ha gustado mucho.$s"
                 }
               },
               "ID": "reaction_1"
@@ -3477,17 +3477,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery genre movie? I'm intrigued."
+                  "Text": "¿Una película de misterio? Estoy intrigado."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have to admit, I'm kind of lost from the story.$s"
+                  "Text": "Tengo que admitir que estoy un poco perdido en la historia.$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That wasn't really my kind of flavor. But thank you for inviting me @."
+                  "Text": "Esa no era realmente de mi gusto. Pero gracias por invitarme @."
                 }
               },
               "ID": "reaction_2"
@@ -3501,17 +3501,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now this is a genre I like, these heartwarming ones always get me.$h"
+                  "Text": "Este sí es un género que me gusta, estas que te llegan al corazón siempre me atrapan.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Pika is covering his tears."
+                  "Text": "%Pika está cubriendo sus lágrimas."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good and heartwarming movie. I'm glad you invited me.$h"
+                  "Text": "Fue una película buena y conmovedora. Me alegro de que me hayas invitado.$h"
                 }
               },
               "ID": "reaction_3"
@@ -3525,17 +3525,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've been interested in seeing this one$h"
+                  "Text": "He estado interesado en ver esta.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Pika seems to be enjoying the movie."
+                  "Text": "%Pika parece estar disfrutando de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I love these kinds of movies. It's an odd taste but I don't mind. Mahalo for inviting me @.$h"
+                  "Text": "Me encantan este tipo de películas. Es un gusto extraño pero no me molesta. Mahalo por invitarme @.$h"
                 }
               },
               "ID": "reaction_4"
@@ -3549,17 +3549,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I heard this one is a comedy. I'm always up for a good laugh."
+                  "Text": "He oído que esta es una comedia. Siempre estoy dispuesto a reírme."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha, that was good.$h"
+                  "Text": "Jaja, esa fue buena.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's surpringly good. Mahalo for inviting me @."
+                  "Text": "Es sorprendentemente buena. Mahalo por invitarme @."
                 }
               },
               "ID": "reaction_5"
@@ -3573,17 +3573,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A thriller? Whaha I'm looking forward for this.$h"
+                  "Text": "¿Una de suspenso? Guajaja estoy esperando a ver esto.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Pika seems to be laughing."
+                  "Text": "%Pika parece estarse riendo."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah! Now that was a relaxing time. Mahal for inviting me @.$h"
+                  "Text": "¡Woah! Eso sí que ha sido un rato de relajo. Mahalo por invitarme @.$h"
                 }
               },
               "ID": "reaction_6"
@@ -3597,17 +3597,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah, I remember this movie. My wife and I watched the original version before."
+                  "Text": "Ah, me acuerdo de esta película. Mi esposa y yo vimos la versión original antes."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Pika seems to be smiling while wiping a tear off."
+                  "Text": "%Pika parece estar sonriendo mientras se limpia una lágrima."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That brought back so much memories. Mahalo for bringing me along @.$h"
+                  "Text": "Eso me trajo muchos recuerdos. Mahalo por traerme @.$h"
                 }
               },
               "ID": "reaction_7"
@@ -3618,7 +3618,7 @@
 		"Richard": {
 			"Richard": "Richard",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -3627,17 +3627,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A classic story turned into a film. Quite interesting."
+                  "Text": "Una historia clásica convertida en película. Bastante interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wohoho, This makes me feel like a little boy again. It's quite relaxing.$h"
+                  "Text": "Wohoho, Esto me hace sentir como un niño pequeño otra vez. Es bastante relajante.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a pleasant time @. Thank you for the invitiation.$h"
+                  "Text": "He pasado un rato agradable @. Gracias por la invitación.$h"
                 }
               },
               "ID": "reaction_0"
@@ -3651,17 +3651,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm not sure about this one. But I'll give it a go."
+                  "Text": "No estoy seguro de esto. Pero lo intentaré."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Richard seems bored."
+                  "Text": "%Richard parece aburrido."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "To be blunt, this was a waste of time for me @."
+                  "Text": "Para serte franco, esto fue una pérdida de tiempo para mí @."
                 }
               },
               "ID": "reaction_1"
@@ -3675,22 +3675,22 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Mystery novels have been a hobby of mine. This type of film is something I look forward to.$h"
+                  "Text": "Las novelas de misterio han sido una de mis aficiones. Este tipo de películas es algo que espero con ansias.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "By good word, this is quite intriguing.$h"
+                  "Text": "A decir verdad, esto es bastante intrigante.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a marvelous time young one. Thank you for the invitation.@h"
+                  "Text": "Me lo he pasado de maravilla joven. Gracias por la invitación @.$h"
                 }
               },
               "ID": "reaction_2"
             },
-            //Miracle at Coldstar Ranch (WHOLESOME) (TEAR JERKER) (FAMILY)
+            //Milagro en el Rancho Coldstar (WHOLESOME) (TEAR JERKER) (FAMILIY)
             {
               "Tag": "winter_movie_0",
               "Response": "like",
@@ -3699,17 +3699,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An emotional movie? Ah, How I remember Angelika loving these types of movie.$h"
+                  "Text": "¿Una película emotiva? Ah, cómo recuerdo que a Angelika le gustaban este tipo de películas.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*sniff* This is truly pleasant.$h"
+                  "Text": "*sniff* Esto es realmente agradable.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a pleasant time @. It helped me relax. Thank you.$h"
+                  "Text": "Pasé un rato agradable @. Me ayudó a relajarme. Gracias.$h"
                 }
               },
               "ID": "reaction_3"
@@ -3723,17 +3723,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've not traveled for so long. So I'm looking forward for this little virtual trip."
+                  "Text": "Hace mucho que no viajo. Así que estoy deseando hacer este pequeño viaje virtual."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Richard seems to be enjoying."
+                  "Text": "%Richard parece estar disfrutando."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This brings so many memories! It reminded me to contact my old friends in other places.$h"
+                  "Text": "¡Esto me trae tantos recuerdos! Me ha recordado que debo contactar con mis viejos amigos de otros lugares.$h"
                 }
               },
               "ID": "reaction_4"
@@ -3747,17 +3747,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm, a childish movie? I won't judge your taste @."
+                  "Text": "Hmm, ¿una película infantil? No voy a juzgar tu gusto @."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Richard seems to be irritated."
+                  "Text": "%Richard parece estar irritado."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "To be blunt, this was a waste of time for me @."
+                  "Text": "Para serte franco, esto fue una pérdida de tiempo para mí @."
                 }
               },
               "ID": "reaction_5"
@@ -3771,17 +3771,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "These thrillers have a unique charm to them I tell you.$h"
+                  "Text": "Estas películas de suspenso tienen un encanto único que ya te digo.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hoho, This is indeed scary.$h"
+                  "Text": "Hoho, Esto es realmente aterrador.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The thrill got me all pumped up, This was a good time @. Thank you.$h"
+                  "Text": "La emoción me puso a tope, este fue un buen momento @. Gracias.$h"
                 }
               },
               "ID": "reaction_6"
@@ -3795,17 +3795,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It may not seem like it, But I adore romantic stories."
+                  "Text": "Puede que no lo parezca, pero adoro las historias románticas."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hehe, the main actress acts reminds me of my wife. This is heartwarming.$h"
+                  "Text": "Jeje, la actriz principal que actúa me recuerda a mi esposa. Esto es conmovedor.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a pleasant and relaxing film @. Thank you for inviting me.$h"
+                  "Text": "Ha sido una película agradable y relajante @. Gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_7"
@@ -3816,7 +3816,7 @@
 		"Shiro": {
 			"Shiro": "Shiro",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -3825,17 +3825,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This one? I admire your taste @."
+                  "Text": "¿Esta? Admiro tu gusto @."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is a relaxing movie @. Helps me away from my worries.$h"
+                  "Text": "Esta es una película relajante @. Me ayuda a alejarme de mis preocupaciones.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a relaxing time. Thank you so much for inviting me.$h"
+                  "Text": "Me lo he pasado muy bien. Muchas gracias por invitarme.$h"
                 }
               },
               "ID": "reaction_0"
@@ -3849,17 +3849,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey, I've been a fan of the game for so long. I'm excited about this.$h"
+                  "Text": "Ey, he sido un fan del juego durante mucho tiempo. Estoy emocionado por esto.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha, look at them go!$h"
+                  "Text": "¡Ja, mira cómo van!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This was a great pick @. I liked it. Thank you $h"
+                  "Text": "Esta fue una gran elección @. Me ha gustado. Gracias.$h"
                 }
               },
               "ID": "reaction_1"
@@ -3873,17 +3873,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, I've read about this. I think this would be a good one."
+                  "Text": "He leído sobre esta. Creo que va a ser buena."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey this is really intriguing.$h"
+                  "Text": "Ey esto es realmente intrigante.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The small details and foreshadowing were hidden decently. Glad I noticed them after a while.$h"
+                  "Text": "Los pequeños detalles y presagios fueron ocultados decentemente. Me alegro de haberlos notado después de un tiempo.$h"
                 }
               },
               "ID": "reaction_2"
@@ -3897,17 +3897,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "You ready to watch the movie? I'm looking forward for it."
+                  "Text": "¿Estás list{{g}} para ver la película? Estoy deseando verla."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Shiro seems to be enjoying the movie."
+                  "Text": "%Shiro parece estar disfrutando de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was really heartwarming and relaxing. I'm glad I came with you @.$h"
+                  "Text": "Eso fue realmente reconfortante y relajante. Me alegro de haber venido contigo @.$h"
                 }
               },
               "ID": "reaction_3"
@@ -3921,17 +3921,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Huh? About that place huh?$s"
+                  "Text": "¿Eh? Sobre ese lugar ¿eh?$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Shiro seems to be avoiding most of the movie."
+                  "Text": "%Shiro parece estar evitando la mayor parte de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This movie made me a bit uncomfortable..$s"
+                  "Text": "Esta película me hizo sentir un poco incómodo...$s"
                 }
               },
               "ID": "reaction_4"
@@ -3945,17 +3945,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm all set! You ready to go in?$h"
+                  "Text": "¡Todo listo! ¿Estás list{{g}} para entrar?$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha, the jokes are not over the top, I like it.$h"
+                  "Text": "Jaja, los chistes no son exagerados, me gusta.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a fun time. I'm grateful you invited me @.$h"
+                  "Text": "Fue un momento divertido. Te agradezco que me hayas invitado @.$h"
                 }
               },
               "ID": "reaction_5"
@@ -3969,17 +3969,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror movie? Uhm, I think I better be careful.$s"
+                  "Text": "¿Una película de terror? Ehm, creo que será mejor que tenga cuidado.$s"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Shiro is not watching most of the movie."
+                  "Text": "%Shiro no está mirando la mayor parte de la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm sorry, I was afraid that I might get into a critical condition if I watch it, Maybe my heart wouldn't be able to handle shock.$s"
+                  "Text": "Lo siento, tenía miedo de que pudiera entrar en un estado crítico si la veo, tal vez mi corazón no sería capaz de manejar el sobresalto.$s"
                 }
               },
               "ID": "reaction_6"
@@ -3993,17 +3993,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I have to admit, I'm a softie for romance. So this is a good pick @.$h"
+                  "Text": "Tengo que admitir que soy un blandengue para el romance. Así que esta es una buena elección @.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "They look good together.$l"
+                  "Text": "Se ven bien juntos.$l"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a relaxing film to watch. I like those films, so thank you for picking that.$h"
+                  "Text": "Esa fue una película relajante para ver. Me gustan esas películas, así que gracias por elegirla.$h"
                 }
               },
               "ID": "reaction_7"
@@ -4014,7 +4014,7 @@
 		"Trinnie": {
 			"Trinnie": "Trinnie",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "love",
@@ -4023,17 +4023,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm excited!$h"
+                  "Text": "¡Estoy emocionada!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That little sappling sooo cute!! I want one!$h"
+                  "Text": "¡¡Ese pequeño arbolito es tan lindo!! ¡Quiero uno!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I can't wait to go back home! The movie made me think about my plants!$h"
+                  "Text": "¡No puedo esperar a volver a casa! ¡La película me hizo pensar en mis plantas!$h"
                 }
               },
               "ID": "reaction_0"
@@ -4047,17 +4047,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I want to see the princesses!$h"
+                  "Text": "¡Quiero ver a las princesas!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Where are the princesses?$s"
+                  "Text": "¿Dónde están las princesas?$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I didn't see much princesses!$s"
+                  "Text": "¡No vi muchas princesas!$s"
                 }
               },
               "ID": "reaction_1"
@@ -4071,17 +4071,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What's a mystery movie? Hmmm???"
+                  "Text": "¿Qué es una película de misterio? ¿¿Hmmm??"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey @. What are they doing now? I'm lost."
+                  "Text": "Hola @. ¿Qué están haciendo ahora? Estoy perdida."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ehhhh, I could've played outside instead of watching this boring movie..$s"
+                  "Text": "Ehhhh, podría haber jugado fuera en lugar de ver esta aburrida película...$s"
                 }
               },
               "ID": "reaction_2"
@@ -4095,17 +4095,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Family movie? So it's about a family right?$h"
+                  "Text": "¿Película familiar? Así que es sobre una familia, ¿verdad?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ohh, that boy is cute!$h"
+                  "Text": "¡Oh, ese chico es lindo!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie. Thanks a lot for bringing me along @$h"
+                  "Text": "Fue una buena película. Muchas gracias por traerme @.$h"
                 }
               },
               "ID": "reaction_3"
@@ -4119,17 +4119,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A movie about different place? Ohh! I wanna see!$h"
+                  "Text": "¿Una película sobre un lugar diferente? ¡Ohh! ¡Quiero verla!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah!! I wonder what kind of candies they sell there!?$h"
+                  "Text": "¡¡Woah!! Me pregunto qué tipo de caramelos venden allá...$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I can't wait to ask Papa about those places! I wanna visit them!$h"
+                  "Text": "¡Me muero por preguntarle a papá por esos lugares! ¡Quiero visitarlos!$h"
                 }
               },
               "ID": "reaction_4"
@@ -4143,17 +4143,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Come on @! Let's go watch it!$h"
+                  "Text": "¡Vamos @! ¡Vamos a verla!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Little wittle wumbus is so precious!!$h"
+                  "Text": "¡¡El pequeño wumbus es tan precioso!!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I'm gonna ask Papa to buy me a Wumbus plushie!$h"
+                  "Text": "¡Voy a pedirle a papá que me compre un peluche de Wumbus!$h"
                 }
               },
               "ID": "reaction_5"
@@ -4167,17 +4167,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror movie!? Why bring me here!?$u"
+                  "Text": "¿Una película de terror? ¿Por qué me traes aquí?"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "MAMA!! PAPA!!! WAAAAAAAAAAAAH!!$s"
+                  "Text": "¡¡¡MAMA!!! ¡¡¡PAPA!!! ¡¡¡GUUAAAAAAAAAAA!!!$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*Sniff* I wanna go home..$s"
+                  "Text": "*Sniff* Quiero ir a casa...$s"
                 }
               },
               "ID": "reaction_6"
@@ -4191,17 +4191,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A romantic movie!! Yieee!!$h"
+                  "Text": "¡¡Una película romántica!! ¡¡Sii!!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Trinnie seems enchanted by the movie"
+                  "Text": "%Trinnie parece encantada con la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I liked all the parts except where they kissed. It was disgusting."
+                  "Text": "Me gustaron todas las partes excepto cuando se besaron. Fue asqueroso."
                 }
               },
               "ID": "reaction_7"
@@ -4212,7 +4212,7 @@
 		"Ysabelle": {
 			"Ysabelle": "Ysabelle",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "dislike",
@@ -4221,17 +4221,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Isn't this a kid's movie?$6"
+                  "Text": "¿No es una película para niños?$6"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ysabelle obviously bored."
+                  "Text": "%Ysabelle está obviamente aburrida."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm, That was a poor pick @, Oh well.$6"
+                  "Text": "Hmm, Esa fue una mala elección @, Oh bueno.$6"
                 }
               },
               "ID": "reaction_0"
@@ -4245,17 +4245,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhm, I'm not a big fan of video games.. But okay, I'll try.$6"
+                  "Text": "Ehm, no soy una gran fan de los videojuegos... Pero bueno, lo intentaré.$6"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Eh.. This is not my cup of tea..$6"
+                  "Text": "Eh... Esto no es de mi agrado...$6"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I tried my best to like it, But well..$6"
+                  "Text": "Hice todo lo posible para que me gustara, pero bueno...$6"
                 }
               },
               "ID": "reaction_1"
@@ -4269,17 +4269,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Great pick @, I love these!$h"
+                  "Text": "¡Gran elección @, me encanta!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I bet that this will be.. Oh! No, that's too obvious!$h"
+                  "Text": "Apuesto a que esto será... ¡Oh! ¡No, eso es demasiado obvio!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was fun and delightful time @, I had a good experience. Thank you for inviting me."
+                  "Text": "Fue un tiempo divertido y encantador @, tuve una buena experiencia. Gracias por invitarme."
                 }
               },
               "ID": "reaction_2"
@@ -4293,17 +4293,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Shall we head in? I'm excited.$h"
+                  "Text": "¿Vamos a entrar? Estoy emocionada.$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Aw, this was touching.$12"
+                  "Text": "Aw, esto fue conmovedor.$12"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I couldn't hold back my tears haha, I hope I didn't look too weird when crying, glad it was dark in there.$h"
+                  "Text": "No pude contener las lágrimas jaja, espero no haberme visto muy rara al llorar, me alegro que estuviera oscuro ahí dentro.$h"
                 }
               },
               "ID": "reaction_3"
@@ -4317,17 +4317,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Oh, this is interesting."
+                  "Text": "Oh, esto es interesante."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Ysabelle seems to be giggling"
+                  "Text": "%Ysabelle parece estar riéndose."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I recalled so much memories! I once visited those places before.$h"
+                  "Text": "¡Lo recuerdo tanto! Una vez visité esos lugares antes.$h"
                 }
               },
               "ID": "reaction_4"
@@ -4341,17 +4341,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hm, sci-fi huh? Okay, I'll give it a shot."
+                  "Text": "Hm, ciencia ficción ¿eh? Vale, lo intentaré."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Teehee, That was a nice joke.$h"
+                  "Text": "Jiji, Esa fue una buena broma.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I surpringly liked this one, Thank you for inviting me @.$h"
+                  "Text": "Me sorprendió esta, gracias por invitarme @.$h"
                 }
               },
               "ID": "reaction_5"
@@ -4365,17 +4365,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Uhmm. A horror flick? Uhmm Okay.$u"
+                  "Text": "Uhmm. ¿Una película de terror? Uhmm Vale.$u"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "EEK! @! Hold me!!!!$u"
+                  "Text": "¡EEK! ¡@! ¡¡¡¡Abrázame!!!!$u"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Eherm.. I--I would like to apologize for suddenly grabbing your arm.$6#$b#But I had a fun time @, Thank you for inviting me.$l"
+                  "Text": "Eh ehm... Yo... me gustaría disculparme por haberte agarrado del brazo de repente.$6#$b#Pero me lo he pasado bien @, Gracias por invitarme.$l"
                 }
               },
               "ID": "reaction_6"
@@ -4389,17 +4389,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is a classic! I love these!$h"
+                  "Text": "¡Este es un clásico! ¡Me encanta!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This is too precious.$12"
+                  "Text": "Esto es demasiado precioso.$12"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I applaud your pick @. I really loved the movie. Thank you for the wonderful time.$h"
+                  "Text": "Aplaudo tu elección @. Me ha encantado la película. Gracias por el maravilloso momento.$h"
                 }
               },
               "ID": "reaction_7"
@@ -4410,7 +4410,7 @@
 		"Yuuma": {
 			"Yuuma": "Yuuma",
 			"Reactions": [
-            //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
+            //Brave Little Sapling (ANIMATED) (FAMILIY) (COMEDY)
             {
               "Tag": "spring_movie_0",
               "Response": "like",
@@ -4419,17 +4419,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An animated movie huh?."
+                  "Text": "Una película animada, ¿eh?."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha.$h"
+                  "Text": "Jaja.$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a good movie. Thank you @.$h"
+                  "Text": "Fue una buena película. Gracias @.$h"
                 }
               },
               "ID": "reaction_0"
@@ -4443,17 +4443,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Woah, it's the movie! I'm excited!$h"
+                  "Text": "¡Woah, es la película! Estoy emocionado!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Yey! Go get him!$h"
+                  "Text": "¡Ey! ¡Ve a por él!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had fun @. Thank you.$h"
+                  "Text": "Me he divertido @. Gracias.$h"
                 }
               },
               "ID": "reaction_1"
@@ -4467,17 +4467,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A mystery? Oh okay."
+                  "Text": "¿Un misterio? Oh, vale."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think it will end like this..."
+                  "Text": "Creo que terminará así..."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey I called the ending. This was fun @. Thank you.$h"
+                  "Text": "Ey he deducido al final. Esto fue divertido @. Gracias.$h"
                 }
               },
               "ID": "reaction_2"
@@ -4491,17 +4491,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A family movie? Hmm."
+                  "Text": "¿Una película familiar? Hmm."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Yuuma is holding back his tears."
+                  "Text": "%Yuuma está conteniendo sus lágrimas."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I apologize for crying @. But I really liked the movie, it related to me for some reason. Thank you for the time.$h"
+                  "Text": "Me disculpo por llorar @. Pero me gustó mucho la película, se relacionó conmigo por alguna razón. Gracias por el momento.$h"
                 }
               },
               "ID": "reaction_3"
@@ -4515,17 +4515,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "An educational movie? Okay.."
+                  "Text": "¿Una película educativa? Bueno..."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "%Yuuma seems to be invested in paying attention to the movie."
+                  "Text": "%Yuuma parece estar prestando atención a la película."
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "One day, I'll visit those places.$h"
+                  "Text": "Un día, visitaré esos lugares.$h"
                 }
               },
               "ID": "reaction_4"
@@ -4539,17 +4539,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's Wumbus! Yey!$h"
+                  "Text": "¡Es Wumbus! ¡Si!$h"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Wumbus!! This is so cool!$h"
+                  "Text": "¡¡Wumbus!! ¡Esto es genial!$h"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I loved the movie @. Thank you so much!$h"
+                  "Text": "Me encantó la película @. ¡Muchas gracias!$h"
                 }
               },
               "ID": "reaction_5"
@@ -4563,17 +4563,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A horror movie? I could use the thrill."
+                  "Text": "¿Una película de terror? Me vendría bien la emoción."
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "UHMMM$u#$b#I'm scared..$s"
+                  "Text": "UHMMM$u#$b#Tengo miedo...$s"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think I won't be able to sleep tonight.$u#$b#But I enjoyed it @. Thank you."
+                  "Text": "Creo que no podré dormir esta noche.$u#$b#Pero la he disfrutado @. Gracias."
                 }
               },
               "ID": "reaction_6"
@@ -4587,17 +4587,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Romance movies? Ewwww.$a"
+                  "Text": "¿Películas románticas? Ewwww.$a"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "No no no no don't kiss! Ewww!!$a"
+                  "Text": "¡No, no, no, no se besen! ¡¡Ewww!!$a"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Why do people have to kiss on the lips? It's so unsanitary!$a"
+                  "Text": "¿Por qué la gente tiene que besarse en los labios? ¡Es tan antihigiénico!$a"
                 }
               },
               "ID": "reaction_7"

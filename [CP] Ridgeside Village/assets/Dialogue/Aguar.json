@@ -3,16 +3,16 @@
 
 //Spring	
 	"spring_1": "Otro año ha pasado en paz para Stardew Valley.#$b#Pero, ¿cuánto tiempo durará?$s",
-	"spring_12": "¿El Festival del Huevo es mañana?#$b#¡Hmph!. Mantén tus envoltorios de dulces y cáscaras de huevo fuera del agua, ¿me oyes?$a",
-	"spring_23": "No, no asistiré al Baile de las Flores.$a#$e#Que perdida de tiempo.",
+	"spring_12": "¿El Festival del Huevo es mañana?#$b#¡Hmph! Mantén tus envoltorios de dulces y cáscaras de huevo fuera del agua, ¿me oyes?$a",
+	"spring_23": "No, no asistiré a la Danza Floral.$a#$e#Que perdida de tiempo.",
 
 //Summer
 	"summer_1": "El verano trae altos niveles de humedad.#$b#Los mosquitos y otros insectos que ponen huevos en el agua estancada alcanzan su máxima actividad con este calor.",
 	"summer_10": "El gobernador estará aquí mañana.#$e#Se ha negado a discutir las regulaciones de contaminación del agua, pero no podrá ignorarme en persona.$a",
-	"summer_27": "Un colega mío solía rastrear patrones migratorios de medusas.#$b# Tuvo que usar transmisores muy pequeños.",
+	"summer_27": "Un colega mío solía rastrear patrones migratorios de medusas.#$b#Tuvo que usar transmisores muy pequeños.",
 
 //Fall
-	"fall_1": "Los cambios de temperatura otoñales harán que las capas de epilimnion e hipolimnion del lago se ciclen por completo por primera vez en varios meses.#$b#Por eso es que huele como a huevos podridos.$h",
+	"fall_1": "Los cambios de temperatura otoñales harán que las capas de epilimnio e hipolimnio del lago completen un ciclo por primera vez en varios meses.#$b#Por eso es que huele como a huevo podrido.$h",
 	"fall_15": "Espero que Willy muestre una variedad de peces en la feria de mañana.#$b#El hombre es consciente de la sobrepesca, al menos...",
 	"fall_26": "Yo debería vigilar mañana por la noche...",
 
@@ -40,23 +40,23 @@
 	"Mon2": "%El Sr. Aguar parece estar ocupado.",
 	"Tue2": "Oh. Estás aquí.#$e#Vuelve más tarde, tengo preguntas para ti.",
 	"Wed2": "¿De nuevo?#$b#¿Por qué los resultados son inconsistentes?$a",
-	"Thu2": "¿Oh?#$b#Bienvenido, @.#$e#Todavía estoy probando...",
-	"Fri2": "Estoy ocupado, @.#$e#Estoy muy ocupado$a.#$e#Perdóname.",
+	"Thu2": "¿Oh?#$b#Bienvenido, @.^Bienvenida, @.#$e#Todavía estoy probando...",
+	"Fri2": "Estoy ocupado, @.#$e#Estoy muy ocupado.$a#$e#Perdóname.",
 	"Sat2": "Tengo mucho que hacer y muy poco tiempo.#$e#Perdóname.",
-	"Sun2": "¿Quizás sea inorgánico?#$e#Mmm.... ¿Que tal si...?",
+	"Sun2": "¿Quizás sea inorgánico?#$e#Mmm... ¿Que tal si...?",
 	
 	//4 Hearts
 	"Mon4": "Hola, @.#$b#¿Confío en que tu semana ha empezado bien?$h",
 	"Tue4": "Debo concentrarme.#$b#Creo que estoy al borde de un gran avance.",
-	"Wed4": "Esta muestra me muestra una respuesta interesante.#$e#Ven y echa un vistazo, @.$h",
-	"Thu4": "El agua del lago del bosque es más alcalina., pero no en un grado estadísticamente significativo...",
+	"Wed4": "Esta prueba muestra una respuesta interesante.#$e#Ven y echa un vistazo, @.$h",
+	"Thu4": "El agua del estanque del bosque es más alcalina, pero no en un grado estadísticamente significativo...",
 	"Fri4": "Si tienes suficiente tiempo libre para charlar, tienes suficiente tiempo libre para ayudarme.#$e#Ven.$h",
 	"Sat4": "Lenny y Lewis son tontos.$a#$e#Se niegan a reconocer el origen sobrenatural de la fertilidad del valle.$a",
 	"Sun4": "Finalmente, un momento para respirar.$s",
 	
 	//6 Hearts
 	"Mon6": "Hola, @.$h#$e#Que te vaya bien durante la semana.$h",
-	"Tue6": "Si puedo preguntarte, ¿conoce a Marlon?#$e#Es un viejo amigo mío. Dile que le dije hola si lo haces.$h",
+	"Tue6": "Si puedo preguntarte, ¿conoces a Marlon?#$e#Es un viejo amigo mío. Saludalo de mi parte si lo ves.$h",
 	"Wed6": "Si tienes tiempo suficiente para venir a visitarnos, tienes tiempo suficiente para ayudar.#$e#¿Recuerdas nuestro acuerdo, cierto?$h",
 	"Thu6": "Hay algo acerca del sol aquí, @.#$e#Las muestras fluctúan a un ritmo constante proporcional a su proximidad a la luz solar directa, independientemente de su origen",
 	"Fri6": "Soy consciente de las costumbres de los viernes por la noche, sí.#$e#Tengo mejores cosas que hacer con mi tiempo.",
@@ -66,10 +66,10 @@
 	//8 Hearts
 	"Mon8": "Ah, @.#$b#Feliz lunes.$h",
 	"Tue8": "El martes es mi día para abastecerme, como dice Pierre.#$e#Requiere que tome un descanso de mi trabajo, lo cual es lamentable pero inevitable.",
-	"Wed8": "Combinar ciencia y magia es una tarea desafiante.#$b#Ambas son diametralmente opuestas.#$b#Sin embargo, los resultados están demostrando que valen la pena.",
+	"Wed8": "Combinar ciencia y magia es una tarea desafiante.#$b#Ambas son diametralmente opuestas.#$b#Sin embargo, los resultados están demostrando que vale la pena.",
 	"Thu8": "Maddie es una buena asistente, inteligente y precisa.$h#$b#No le digas que te lo dije o se volverá complaciente.$a",
-	"Fri8": "Como sabes, suelo trabajar con Rasmodius#$b#Es un viejo amigo mío.$h#$b#Quizás rival sea la mejor descripción...$a#$e#Saludalo de mi parte la próxima vez que lo veas.",
-	"Sat8": "Hola.#$b#Lenny ha comenzado inspecciones periódicas para asegurarse de que el laboratorio esté en 'condiciones óptimas'.#$e#No sé qué espera lograr cuando no puede identificar una centrífuga.$a",
+	"Fri8": "Como sabes, suelo trabajar con Rasmodius.#$b#Es un viejo amigo mío.$h#$b#Quizás rival sea la mejor descripción...$a#$e#Saludalo de mi parte la próxima vez que lo veas.",
+	"Sat8": "Hola.#$b#Lenny ha comenzado con inspecciones periódicas para asegurarse de que el laboratorio esté en 'condiciones óptimas'.#$e#No sé qué espera lograr cuando no puede identificar una centrífuga.$a",
 	"Sun8": "Mis disculpas por ser grosero cuando nos conocimos, @.$s#$b#Como sabes, estoy muy concentrado en mi trabajo. No fue personal.$h",
 	
 	//10 Hearts
@@ -77,7 +77,7 @@
 	"Tue10": "Un mago es una posición prestigiosa a la que aspirar, @, Pero resulta ser sorprendentemente restrictiva.$s#$e#El consejo mágico se negó a dejarme hacer este trabajo de forma oficial.$a#$b#Entonces, por supuesto, renuncié.",
 	"Wed10": "El agua de las montañas parece estar transportando con más frecuencia pequeños fragmentos de mineral y piedras preciosas últimamente.#$e#Recoger minerales de los ríos no sería una pérdida de tiempo, @.$h",
 	"Thu10": "¿Has visitado la sirena que viene con el Mercado Nocturno cada invierno?#$b#Sí, ella es real.#$e#Son criaturas fascinantes e inteligentes.$h",
-	"Fri10": "Hola a todos, @.$h#$b#No se exceda ahora.#$e#La juventud y el vigor son cosas buenas, pero el cuerpo humano tiene límites.",
+	"Fri10": "Hola, @.$h#$b#No te excedas ahora.#$e#La juventud y el vigor son cosas buenas, pero el cuerpo humano tiene límites.",
 	"Sat10": "Como mago, me especialicé en magia de agua.#$b#Ahora integro la bioquímica con los estudios mágicos para comprender mejor las propiedades peculiares de este valle.#$e#Es un trabajo gratificante.$h",
 	"Sun10": "El domingo es tradicionalmente un día de descanso.#$e#Aprovecha esta oportunidad, mi amigo.$h^Aprovecha esta oportunidad, mi amiga.$h#$b#Debes darle tiempo a tu cuerpo para que se recupere de la semana.",
 

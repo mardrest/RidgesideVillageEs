@@ -1,26 +1,26 @@
 {
-	"Introduction": "Hey ¡Hola!$h#$b#Eres nuevo aquí, ¿verdad?#$e#¡Oh! Eres el nuevo granjero, ¿eh?#$b#Me llamo Jeric. @, ¿verdad?$h#$e#Bueno, si alguna vez necesitas material agrícola, siempre puedes visitar mi tienda. ¡Nos vemos!$h",
+	"Introduction": "Hey ¡Hola!$h#$b#Eres nuevo aquí, ¿verdad?^Eres nueva aquí, ¿verdad?#$e#¡Oh! Eres el nuevo granjero, ¿eh?^¡Oh! Eres la nueva granjera, ¿eh?#$b#Me llamo Jeric. @, ¿verdad?$h#$e#Bueno, si alguna vez necesitas material agrícola, siempre puedes visitar mi tienda. ¡Nos vemos!$h",
 
 //Spring
 	"spring_1": "¡Es hora de ir a Pierre's y comprar algunas semillas!#$b#¡También tengo que reponer las mías!",
 	"spring_12": "Lewis vino el otro día y compró algunos huevos de gallina.$h#$b#Olvidé que mañana es el Festival del huevo.$u#$e#Bueno, me alegro de poder ayudar en las festividades.$h",
-	"spring_23": "Hmm....Me pregunto si tengo un buen traje para mañana.$s#$e#Oh, hey @!$h#$b#¿Te vas a disfrazar para la Danza floral?#$e#Apuesto a que alguien tan guapo como tú no necesita pensar demasiado en ello, ¿eh?$7",
+	"spring_23": "Hmm....Me pregunto si tengo un buen traje para mañana.$s#$e#¡Oh, hey @!$h#$b#¿Te vas a disfrazar para la Danza floral?#$e#Apuesto a que alguien tan guapo como tú no necesita pensar demasiado en ello, ¿eh?$7^Apuesto a que alguien tan hermosa como tú no necesita pensar demasiado en ello, ¿eh?$7",
 
 //Summer
-	"summer_1": "Probablemente debería plantar un montón de maíz esta temporada, pero es un poco molesto para cosechar.$a",
-	"summer_10": "Tengo que elegir cuál de mis cultivos llevaré mañana para la sopa.#$b#Quiero que tenga un sabor increíble...$h#$b#Tengo que hacerlo bien, para el gobernador después de la ayuda que me ha dado.$l",
+	"summer_1": "Probablemente debería plantar mucho maíz esta temporada, pero es un poco molesto para cosechar.$a",
+	"summer_10": "Tengo que elegir cuál de mis cultivos echaré mañana a la sopa.#$b#Quiero que tenga un sabor increíble...$h#$b#Tengo que hacerlo bien, para el gobernador después de la ayuda que me ha dado.$l",
 	"summer_27": "¿No sería genial poder capturar las medusas y ponerlas en tanques para usarlas como lámparas?$6#$b#Aunque eso sería bastante brutal. Lo mejor es disfrutar del espectáculo.$7",
 
 //Fall
 	"fall_1": "¡No te olvides de comprar semillas de calabaza!#$b#A todas las madres de los suburbios les encanta venir por aquí y tener la 'experiencia de la granja', y siempre recogen calabazas.$h",
-	"fall_15": "Uno de estos años, Lewis descubrirá cómo encajar más pantallas para poder competir de verdad.$6",
+	"fall_15": "Uno de estos años, Lewis descubrirá cómo poner más exposiciones para poder que yo pueda competir.$6",
 	"fall_26": "He preparado mi propio disfraz para mañana.#$b#¡Estoy impaciente por enseñarlo!$6#$e#Bueno, es lo mismo que el año pasado. Así que es más bien una remodelación.$l#$b#Lo verás mañana.$7",
 
 //Winter
 	"winter_1": "No hay mucho que hacer esta temporada.$s#$b#Siempre tengo que ahorrar todo el año para prepararme para el invierno, pero eso significa que puedo tomarme un descanso y centrarme en otras cosas.",
 	"winter_7": "Realmente no pesco, pero definitivamente estaré allí mañana.$h#$b#Hay que admirar el paisaje, ¿sabes?$6",
 	"winter_14": "Los comerciantes llegan mañana.#$b#Siempre tienen buen material.#$e#He estado ahorrando para esto todo el año.",
-	"winter_15": "El gobernador me dijo que el espectáculo de la sirena es algo más$6$#b#Tengo que asegurarme de ver eso antes de que se vayan.$7",
+	"winter_15": "El gobernador me dijo que el espectáculo de la sirena es algo más.$6$#b#Tengo que asegurarme de ver eso antes de que se vayan.$7",
 	"winter_16": "Siempre tienen buenas semillas que no puedes conseguir en ningún otro sitio...#$b#Quiero comprar al por mayor y abastecer mi tienda, pero entonces no tendré dinero para la lana que he estado mirando...$s",
 	"winter_17": "Deberías ir a decirle al comerciante de arte que puedes modelar para él alguna vez.$6#$b#No hay forma de que rechace a una belleza como tú.$7",
 	"winter_24": "¡Ha sido un buen año @?$h#$e#El próximo va a ser aún mejor.#$b#¡Tengo buenos planes, ya verás!$h",
@@ -28,44 +28,44 @@
 //Days of the Week
 
 	//0 Hearts
-	"Mon": "Hey @ ¿Necesitas algo?#$b#Si es para su granja, probablemente lo venda.",
+	"Mon": "Hey @ ¿Necesitas algo?#$b#Si es para tu granja, probablemente lo venda.",
 	"Tue": "Oh, mírate. Llevas bien ese traje, @.$7#$b#Apuesto a que podrías ser modelo si tuvieras alguna variedad real en tu armario.$6",
 	"Wed": "Alissa y Trinnie vinieron el otro día a comprar algunas semillas.#$e#Trinnie dijo que Alissa y yo deberíamos competir para ver quién puede cultivar más.#$b#Quiero decir, ¿por qué no? Voy a ganar, por supuesto.$6",
 	"Thu": "Pierre me enseñó a ser un vendedor.#$e#Voy a ser LA tienda del valle, un día.$6#$b#El alumno supera al maestro, ¿sabes?$7",
-	"Fri": "Hey hola, @. ¿Qué pasa? ¿No estás ocupado hoy?#$e#¿Qué tal si lo hablamos con un batido de cerezas?$6#$b#Sólo tú, yo y una pajita...$l#$b#¿Qué pasa? ¿No estás de buen humor hoy?$u",
-	"Sat": "Visite mi tienda cuando tenga la oportunidad, sí$6#$b# Estoy seguro de que encontrarás algo bueno.$h",
-	"Sun": "Me tomo un día libre de vez en cuando para ir a la ciudad y ponerme al día con la gente.#$b#Tienes que dejar que la gente que te importa sepa que todavía te importa, ¿sabes?$h#$b#Tú también deberías, @.",
+	"Fri": "Hey hola, @. ¿Qué pasa? ¿No estás ocupado hoy?^Hey hola, @. ¿Qué pasa? ¿No estás ocupada hoy?#$e#¿Qué tal si lo hablamos con un batido de cerezas?$6#$b#Sólo tú, yo y una pajita...$l#$b#¿Qué pasa? ¿No estás de buen humor hoy?$u",
+	"Sat": "Visita mi tienda cuando tengas la oportunidad, ¿sí?$6#$b#Estoy seguro de que encontrarás algo bueno.$h",
+	"Sun": "Me tomo un día libre de vez en cuando para ir al pueblo y ponerme al día con la gente.#$b#Tienes que dejar que la gente que te importa sepa que todavía te importa, ¿sabes?$h#$b#Tú también deberías, @.",
 	
 	//2 Hearts
 	"Mon2": "Hice mal mis cálculos y almacené demasiado fertilizante.$u#$b#Tengo que trabajar como un loco para recuperar el dinero que voy a perder con esto.$s",
-	"Tue2": "¿Cómo te va, @?#$e#Hazme saber si necesitas algún consejo. #$b#Algunos fertilizantes aceleran el crecimiento de los cultivos. #$b#Son buenos para algunos cultivos, pero no para todos. Utilízalos sabiamente.$h",
+	"Tue2": "¿Cómo te va, @?#$e#Hazme saber si necesitas algún consejo.#$b#Algunos fertilizantes aceleran el crecimiento de los cultivos.#$b#Son buenos para algunos cultivos, pero no para todos. Utilízalos sabiamente.$h",
 	"Wed2": "Hey @, mira este conjunto.#$b#Astuto, ¿verdad? Lo hice yo mismo.$l#$b#A veces tienes que verte bien, simplemente.$7",
 	"Thu2": "Demasiados cuervos en mis cultivos esta mañana.$u#$b#Necesito conseguir un mejor espantapájaros...$s",
-	"Fri2": "¡Oh, hey! Pantalones nuevos, ¿qué te parece?$6#$e#Los terminé esta mañana.Trato de mantener mi armario fresco.$h#$b#Hay que cambiar de vez en cuando, ¿sabes?$h",
-	"Sat2": "¿Tienes tu granja bien, @?#$e#Tienes que asegurarte de que todo funciona bien, los animales felices, los cultivos regados, ya entiendes lo esencial.$h#$b#Así es como haces buen dinero.",
+	"Fri2": "¡Oh, hey! Pantalones nuevos, ¿qué te parece?$6#$e#Los terminé esta mañana. Trato de mantener mi armario fresco.$h#$b#Hay que cambiar de vez en cuando, ¿sabes?$h",
+	"Sat2": "¿Tienes tu granja bien, @?#$e#Tienes que asegurarte de que todo funcione bien, los animales felices, los cultivos regados, ya entiendes lo esencial.$h#$b#Así es como haces buen dinero.",
 	"Sun2": "Keahi y Vincent vinieron el otro día y se ofrecieron a ayudarme en la granja.#$e#No sé qué pensaban que iban a hacer.$a#$b#Pero acepté la oferta y los vigilé.#$b#Resulta que sólo querían ayudar. Buenos chicos.$h",
 	
 	//4 Hearts
-	"Mon4": "¿Cómo es la vida en la granja hasta ahora?#$b#¿Te estás adaptando bien? #$e#Si quieres, podría darte una consulta individual sobre buenas prácticas agrícolas.$h#$b#¿Te apuntas?$6",
+	"Mon4": "¿Cómo es la vida en la granja hasta ahora?#$b#¿Te estás adaptando bien?#$e#Si quieres, podría darte una consulta individual sobre buenas prácticas agrícolas.$h#$b#¿Te apuntas?$6",
 	"Tue4": "A veces contrato a Ian para que me ayude con los trabajos de la granja.#$b#Es un tipo genial, algo callado pero nos respetamos.#$b#También es muy trabajador.$h",
-	"Wed4": "¿Conoces a Haley, de Pueblo Pelícano? Es una vieja amiga mía. Su familia viaja mucho por el mundo.La conocí hace años cuando estaba con el Gobernador.#$e#Parecía snob al principio, pero luego llegamos a conocernos después de un tiempo.   Salúdala de mi parte, ¿quieres?$h",
+	"Wed4": "¿Conoces a Haley, de Pueblo Pelícano? Es una vieja amiga mía. Su familia viaja mucho por el mundo. La conocí hace años cuando estaba con el Gobernador.#$e#Parecía presumida al principio, pero luego llegamos a conocernos después de un tiempo. Salúdala de mi parte, ¿quieres?$h",
 	"Thu4": "A veces me gustaría que hubiera algunos clubes en el valle, en algún lugar donde pudiera perderme.$s#$b#Sin embargo, tengo que conformarme con una copa en Pika's o en el salón.",
-	"Fri4": "Seb me visitó ayer.#$b#Él ha estado cerca de mí desde que me mudé aquí.$h#$b#Somos amigos de la bicicleta ahora, estamos pensando en tomar un par de días para ir en un viaje por carretera en algún momento.",
+	"Fri4": "Seb me visitó ayer.#$b#Él ha estado cerca de mí desde que me mudé aquí.$h#$b#Somos amigos motoqueros ahora, estamos pensando en tomar un par de días para ir en un viaje por carretera en algún momento.",
 	"Sat4": "¡Hola, @! ¿Qué pasa?#$b#¿Puedo ayudarte en algo?",
-	"Sun4": "Ayer vi un kiwi junto a la cresta. #$b#Me acerqué a cogerlo, pero juro que parpadeé y desapareció.$u#$b#Extraño.",
+	"Sun4": "Ayer vi un kiwi junto a la cresta.#$b#Me acerqué a cogerlo, pero juro que parpadeé y desapareció.$u#$b#Extraño.",
 	
 	//6 Hearts
 	"Mon6": "¡Hola! ¿Qué pasa?¿Algún plan para hoy? #$b#Estaré frente a mi ordenador esta noche, las nuevas patadas de Aurora James salen a la venta a las 8.$h",
-	"Tue6": "Compré mis pollos en el rancho de Marnie. ¡Vende unos pollos de calidad!#$e#A menudo veo a Lewis allí también. Aunque nunca lo veo comprando pollos...",
+	"Tue6": "Compré mis gallinas en el rancho de Marnie. ¡Vende unas gallinas de calidad!#$e#A menudo veo a Lewis allí también. Aunque nunca lo veo comprando gallinas...",
 	"Wed6": "Tener un invernadero hace maravillas para tus ingresos.#$e#Recuerdo que la granja de tu abuelo tenía uno, creo.#$b#¿Todavía está ahí?#$b#Bueno, espero que encuentres la manera de usarlo. Es una granja bastante antigua.$h",
-	"Thu6": "Gunther me trajo un montón de revistas G2 el otro día.#$b#¡Están anticuadas, pero siguen siendo buenas para inspirarse!$h", 
+	"Thu6": "Gunther me trajo un montón de revistas G2 el otro día.#$b#¡Están viejas, pero siguen siendo buenas para inspirarse!$h", 
 	"Fri6": "El otro día encontré un folleto sobre una isla y un enorme acuario.#$b#Olvidé dónde fue. ¡Tengo tantas ganas de visitarlo!$s",
 	"Sat6": "Lewis estaba hablando del pueblo al este de Pueblo Pelícano.#$e#Dice que hay árboles que suben hasta donde se puede ver.#$b#Tengo que visitarlo alguna vez.$h",
-	"Sun6": "¿Qué pasa, @? ¿Cómo está la granja?#$e#¡El otro día le eché un vistazo de camino a casa desde la ciudad! ¡Tengo que decir que me sorprendió!$h#$b#Tal vez un día de estos sea tan buena como la mía.$7",
+	"Sun6": "¿Qué pasa, @? ¿Cómo está la granja?#$e#¡El otro día le eché un vistazo de camino a casa desde el pueblo! ¡Tengo que decir que me sorprendió!$h#$b#Tal vez un día de estos sea tan buena como la mía.$7",
 	
 	//8 Hearts
 	"Mon8": "Hola, @. Tengo que decir que te ves bien.$6#$b#Todo ese trabajo duro en la granja, ¿eh?$l",
-	"Tue8": "Bueno, ¡mira quién es! $h#$b#Te ves muy bien hoy, por cierto.$l#$e#Deberíamos salir alguna vez, quiero mostrarte algo que diseñé y que se verá bien en ti..$l",
+	"Tue8": "Bueno, ¡mira quién es!$h#$b#Te ves muy bien hoy, por cierto.$l#$e#Deberíamos salir alguna vez, quiero mostrarte algo que diseñé y que se verá bien en ti...$l",
 	"Wed8": "¡Oh, hola! ¿Cómo has estado últimamente?#$b#¿Algo emocionante está pasando?#$e#Deberíamos tomar un café o una copa alguna vez cuando no estemos los dos trabajando.$l",
 	"Thu8": "A Seb le tomó un buen tiempo para finalmente asimilarme.$h#$b#Puede ser muy tímido con la gente que no conoce.#$e#Es una buena persona, sin embargo.$h#$b#No dejes que su timidez te desanime, ¿vale?$h",
 	"Fri8": "Oye, hazme saber si necesitas ayuda en la granja.$h#$b#Sé que lo tienes, pero sólo digo que estoy disponible.$l",
@@ -73,9 +73,9 @@
 	"Sun8": "¡Mi granja va de maravilla!$h#$b#Una cosecha increíble esta semana, con un buen beneficio.#$e#¿Y tú? ¿Pasó algo bueno la semana pasada?",
 	
 	//10 Hearts
-	"Mon10": "¿Teniendo un buen día, preciosa?$6#$b#Ver tu cara me quita un peso de encima, lo juro.$l",
+	"Mon10": "¿Teniendo un buen día, guapo?$6^¿Teniendo un buen día, preciosa?$6#$b#Ver tu cara me quita un peso de encima, lo juro.$l",
 	"Tue10": "¿Necesitas algo?#$b#¿Cualquier cosa?#$e#Si hay alguna forma en la que pueda ayudar, quiero que me lo hagas saber, ¿vale?$l",
-	"Wed10": "Tengo planes para nosotros la próxima vez que tengas una tarde libre.$l#$b# Sólo avísame... y asegúrate de llevar algo cómodo.$7",
+	"Wed10": "Tengo planes para nosotros la próxima vez que tengas una tarde libre.$l#$b#Sólo avísame... y asegúrate de llevar algo cómodo.$7",
 	"Thu10": "Hola. ¿Te va bien?$6",
 	"Fri10": "Estaba pensando: tú, yo, mi moto, un largo viaje nosotros solos.$l#$b#¿Qué te parece?$6",
 	"Sat10": "Mi caballo se pone muy contento cuando te ve.$h#$b#Le debes gustar mucho.$h#$e#Bueno, tiene sentido, a su dueño también le gustas...$l",
@@ -84,16 +84,16 @@
 //Special Dialogue
 	"breakUp": "¿Qué...? $s#$b#¿Hice... hice algo? $s#$b#¿No podemos hablar de esto?$s",
 	"danceRejection": "No, ahora no. Lo siento, @.$u",
-	"divorced": "¿Perdón? ¡Ja!$a#$b# Ve a tontear con otra persona.$a",
+	"divorced": "¿Perdón? ¡Ja!$a#$b#Ve a tontear con otra persona.$a",
 	"summer_Mon": "Te he visto antes en la playa.$6",
 	"summer_Mon4": "¿Quieres unirte a mí en la playa algún día para tomar el sol?$6",
 	"summer_Wed": "El verano es una buena temporada para las frutas, pero también es un buen momento para tomarse un descanso de vez en cuando.$h",
 	"summer_Fri": "Vestirse de forma ligera para el verano, @6#$b#Te queda bien.$7",
-	"winter_Mon": "El invierno es una estación extraña para los agricultores.#$b#Suelo quedarme dentro y trabajar en algún proyecto de costura.$l",
+	"winter_Mon": "El invierno es una estación extraña para los granjeros.#$b#Suelo quedarme dentro y trabajar en algún proyecto de costura.$l",
 	"'winter_Thu": "Me siento mal por Ian.$s#$e#El pobre parece que se está congelando, haciendo tanto trabajo afuera.$s#$b#Un día de estos lo voy a invitar a entrar a tomar un chocolate caliente.$h",
 	"winter_Sat": "Pika's no ve mucho negocio durante el invierno.#$b#Iría a la taberna a comer fuera, pero es un largo paseo.$s",
 	"fall_Fri": "El otoño es probablemente mi estación favorita para diseñar.$h#$b#¡Es el comienzo del año de la moda!$l",
-	"MovieInvitation": "¡Oh! ¿Una película? $l#$b#Esa es una gran idea, @!$h#$e#No olvides los aperitivos, estaré allí esperándote.$7",
+	"MovieInvitation": "¡Oh! ¿Una película? $l#$b#¡Esa es una gran idea, @!$h#$e#No olvides los aperitivos, estaré allí esperándote.$7",
 
 //Resort
 	"Resort_Entering": "¿Cómo te las arreglaste para encontrar un lugar como este?#$e#Y más importante, ¿por qué no me lo dijiste?$6#$b#Jaja, sólo bromeaba.$7",

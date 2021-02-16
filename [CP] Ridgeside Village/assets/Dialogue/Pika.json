@@ -1,95 +1,95 @@
 {
-	"Introduction": "Aloha, young farmer.#$b#You must have followed your nose!$h#$b#I'm Pika. I own Pika's, an outdoor restaurant in the heart of the village.#$b#I'm from Ember Island, in the Fern Islands, where we speak Samaowaii.#$b#Perhaps I'll teach you some!$h",
+	"Introduction": "Aloha, joven agricultor.#$b#Debes haber seguido tu olfato#h#$b#Soy Pika. Soy el dueño de Pika's, un restaurante al aire libre en el corazón del pueblo.#$b#Soy de la isla Ember, en las islas Fern, donde hablamos samaowaii.#$b#¡Quizás te enseñe algo!$h",
 
 //Spring
-	"spring_1": "The grass is green across the hill.#$b#But yellow blooms the daffodil.#$b#It's sunshine on a little stalk;#$b#a friendly flower, I bet they talk!$h#$e#I love spring time!$h",
-	"spring_12": "I'm preparing ingredients for tomorrow's festival.#$b#Gus and I will be making egg dishes.#$b#Poached, pickled, peppered, you name it!$h#$e#It's going to be raining 'huamoa' tomorrow!$h#$b#That's what we call eggs on Ember Island.",
-	"spring_23": "%Pika takes a deep sigh.#$b#I miss dancing with my wife.$s#$e#If only she were here, I'd be dancing with the most precious 'wahine' in town.$4#$b#It means beautiful woman in Samaowaii!$h",
+	"spring_1": "La hierba está verde al otro lado de la colina.#$b#Pero amarillo florece el narciso.#$b#Es el sol en un pequeño tallo;#$b#¡Una flor amistosa, seguro que hablan!$h#$e#¡Me encanta la primavera!$h",
+	"spring_12": "Estoy preparando los ingredientes para el festival de mañana.#$b#Gus y yo haremos platos de huevos.#$b#¡Pescados, en escabeche, con pimienta, lo que quieras!$h#$e#¡Mañana lloverá 'huamoa'!$h#$b#Así es como llamamos a los huevos en la isla Ember",
+	"spring_23": "%Pika lanza un profundo suspiro.$$b#Echo de menos bailar con mi mujer.$s#$e#Si ella estuviera aquí, estaría bailando con la 'wahine' más preciosa de la ciudad.$4#$b#¡Significa mujer hermosa en samaowaii!$h",
 
 //Summer
-	"summer_1": "Hmmm... I'm going to plan a trip for me and my little boy to go to the ocean.#$b#I think it's time he learns how to fish like we do on the Fern Islands.$h",
-	"summer_10": "I hope everyone will like what we've prepared for tomorrow.#$b#The festival is very close to my pu'uwai: my heart.$h",
-	"summer_27": "Hmm... I wonder if those moonlight jellies can be used for jellyfish salad...$h",
+	"summer_1": "Hmmm... Voy a planear un viaje para que mi hijo pequeño y yo vayamos al océano.#$b#Creo que es hora de que aprenda a pescar como lo hacemos en las Islas Fern.$h",
+	"summer_10": "Espero que a todos les guste lo que hemos preparado para mañana.#$b#El festival está muy cerca de mi pu'uwai: mi corazón.$h",
+	"summer_27": "Hmm... Me pregunto si esas gelatinas de luz de luna pueden usarse para la ensalada de medusas...$h",
 
 //Fall
-	"fall_1": "Ahhh, the time for pumpkin soup and treats galore!$h#$b#What great way to bond while cooking with my Keahi.#$e#We'll be making treats he can share with his friends!$h",
-	"fall_15": "Keahi is thrilled for the fair tomorrow.#$b#I just hope that he doesn't spend his whole allowance on the games.$s#$b#I sold a lot of fish tacos for that kid...$s",
-	"fall_26": "Spirit's Eve is tomorrow!$h#$b#I bet you're wondering what I'm going to wear!#$e#Oddly enough, the skeleton decorations remind me of bone broth.#$b#I might just cook some for tomorrow.",
+	"fall_1": "¡Ahhh, la época de la sopa de calabaza y de las golosinas en abundancia!$h#$b#Qué buena manera de estrechar lazos mientras cocino con mi Keahi.#$e#¡Haremos golosinas que podrá compartir con sus amigos!$h",
+	"fall_15": "Keahi está encantado con la feria de mañana.#$b#Sólo espero que no se gaste toda su paga en los juegos.$s#$b#He vendido muchos tacos de pescado para ese niño...$s",
+	"fall_26": "¡La víspera del espíritu es mañana!$h#$b#Apuesto a que te estás preguntando qué me voy a poner!$$e#Los adornos de los esqueletos me recuerdan al caldo de huesos.$$b#Quizá cocine un poco para mañana",
 
 //Winter
-	"winter_1": "We don't have winters on the Fern Islands.#$b#I don't think I'll ever get used to the cold.$s",
-	"winter_7": "It's way too cold for me to go out fishing...$s#$e#I'm going to ask Lewis if I can buy some of the fish you all catch.#$b#I want to make a lot of tacos!$h",
-	"winter_14": "I'm going to buy a lot of different spices from the Night Market!$h#$b#Variety is the spice of life.",
-	"winter_15": "This is the only time of year I'm able to catch Midnight Squid.#$b#They're excellent if you fry them!$h",
-	"winter_16": "In Samaowaiian tradition, mermaids are just one type of mo'o, sea goddesses.#$e#Legend has it that if you visit Rainbow Falls in the Fern Islands, you can see the remains of a battle between a demigod and a jealous mo'o at the bottom of the river.$u",
-	"winter_17": "I hope the traveling cart has some Gotoro chillies.#$b#They'll melt your mouth off!$h",
-	"winter_24": "I'm so happy to have my Keahi with me for the Feast of the Winter Star.$h#$b#If only his mother were here, then we'd be one big happy ohana.$s#$b#Ohana means family and family means nobody gets left behind...$s#$b#...or forgotten...$4",
+	"winter_1": "No tenemos inviernos en las Islas Helecho.#$b#No creo que me acostumbre nunca al frío.$s",
+	"winter_7": "Hace demasiado frío para salir a pescar...$s#$e#Voy a preguntarle a Lewis si puedo comprar algo del pescado que capturáis todos.#$b#¡Quiero hacer muchos tacos!$h",
+	"winter_14": "¡Voy a comprar un montón de especias diferentes en el Mercado Nocturno!$h#$b#La variedad es la especia de la vida",
+	"winter_15": "Esta es la única época del año en la que puedo pescar calamares de medianoche.$$b#¡Son excelentes si los fríes!$h",
+	"winter_16": "En la tradición samaowaiana, las sirenas son sólo un tipo de mo'o, diosas del mar.#$e#La leyenda dice que si visitas las Cataratas del Arco Iris en las Islas Helecho, puedes ver los restos de una batalla entre un semidiós y una mo'o celosa en el fondo del río.$u",
+	"winter_17": "Espero que el carro ambulante tenga chiles Gotoro.$$b#¡Te derretirán la boca!$h",
+	"winter_24": "Estoy tan contenta de tener a mi Keahi conmigo para la Fiesta de la Estrella de Invierno.$h#$b#Si su madre estuviera aquí, entonces seríamos una gran ohana feliz.$s#$b#Ohana significa familia y familia significa que nadie se queda atrás...$s#$b#...o se olvida...$h",
 
-//Days of the Week
+//Days of the Weeks
 
 	//0 Hearts
-	"Mon": "I can hear your stomach growling from here, haha!$h#$b#What can I get ya?",
-	"Tue": "I learned a new recipe for making glazed yams.#$e#Come by next time so you can try some!$h",
-	"Wed": "Sometimes I worry about Keahi.$s#$b#He's always running around without looking where he's going.$a#$b#I fear he might injure himself.$s",
-	"Thu": "Have you visited the Cabin Hotel yet?#$b#I heard they've got some great rooms and a gym if you're into working out.",
-	"Fri": "Aloha, my friend!$h#$b#What are you hungry for?",
-	"Sat": "I'm going to buy some supplies for the restaurant later.#$e#Hmm... I wonder where I can find some basil...$h",
-	"Sun": "I've been teaching Keahi how to cook since he was 6 years old.#$e#We started with eggs at first.#$b#He burned them to a crisp!$u#$e#But I was proud of him for trying!$h",
+	"Mon": "Puedo oír el gruñido de tu estómago desde aquí, ¡Ja! $h#$b#¿Qué puedo ofrecerte?
+	"Tue": "He aprendido una nueva receta para hacer boniatos glaseados. #$e#¡Pasa por aquí la próxima vez para que pruebes algunos!$h",
+	"Wed": "A veces me preocupa Keahi.$s#$b#Siempre está corriendo sin mirar por dónde va.$a#$b#Temo que se haga daño.$s",
+	"Thu": "¿Has visitado ya el Hotel Cabin?$$b#He oído que tienen unas habitaciones estupendas y un gimnasio si te gusta hacer ejercicio",
+	"Fri": "¡Aloha, amigo mío! #h#$b#¿Qué te apetece?",
+	"Sat": "Voy a comprar algunas provisiones para el restaurante más tarde.$$e#Hmm... Me pregunto dónde puedo encontrar albahaca...$h",
+	"Sun": "Llevo enseñando a Keahi a cocinar desde que tenía 6 años.#$e#Al principio empezamos con huevos.#$b#¡Los quemó hasta dejarlos crujientes!$u#$e#¡Pero me sentí orgullosa de él por intentarlo!$h",
 	
 	//2 Hearts
-	"Mon2": "Hello there!#$e#Dish of the day is Blackberry Cobbler!#$b#It's a special recipe I picked up from my great-great-grandfather.#$b#It's been in my family for generations.#$e#Perhaps I'll teach you one day!$h",
-	"Tue2": "Sweet, sour, salty, bitter and umami...#$b#So many flavours!#$b#A true chef spends his life learning their delicate balance.$h",
-	"Wed2": "Keahi can be really naugthy sometimes!#$b#I'm not sure how to punish him properly...$s#$b#Don't want him to resent me.$4#$b#But I don't want him to grow up thinking it's okay to act out!$a",
-	"Thu2": "I told my boy to cook some scrambled eggs this morning and my, oh my!$h#$b#He might one day be a better chef than I am.#$b#The student might finally surpass the master!$h",
-	"Fri2": "Elliott visited me earlier and he asked for Tom Kha soup.#$b#He said it clears his writer's block...$h",
-	"Sat2": "Keahi's getting on my nerves lately.$a#$b#He's always getting into trouble with the other villagers because of his and Trinnie's pranks.$s",
-	"Sun2": "I really want to take a break on Sundays so that I can spend more time with Keahi.$s",
+	"Mon2": "¡Hola! #$e#El plato del día es Tarta de moras!#$b#Es una receta especial que aprendí de mi tatarabuelo.#$b#Ha estado en mi familia durante generaciones.#$e#¡Quizás te enseñe algún día!$h",
+	"Tue2": "Dulce, ácido, salado, amargo y umami... #$b#¡Tantos sabores!#$b#Un verdadero chef se pasa la vida aprendiendo su delicado equilibrio.$h",
+	"Wed2": "¡Keahi puede ser muy travieso a veces!#$b#No estoy segura de cómo castigarle adecuadamente...$s#$b#No quiero que esté resentido conmigo.$4#$b#¡Pero no quiero que crezca pensando que está bien portarse mal!$a",
+	"Thu2": "Le dije a mi hijo que cocinara unos huevos revueltos esta mañana y ¡madre mía!$h#$b#Puede que algún día sea mejor cocinero que yo.#$b#¡El alumno puede superar por fin al maestro!$h",
+	"Fri2": "Elliott me ha visitado antes y me ha pedido una sopa Tom Kha.#$b#Dice que le quita el bloqueo de escritor...$h",
+	"Sat2": "Keahi me está poniendo de los nervios últimamente.$a#$b#Siempre se mete en problemas con los demás aldeanos por sus bromas y las de Trinnie.$s",
+	"Sun2": "Realmente quiero descansar los domingos para poder pasar más tiempo con Keahi.$s",
 	
 	//4 Hearts
-	"Mon4": "That grumpy old man George usually brightens up if you give him some fried mushrooms.$h#$b#If you want, I can fix you a plate.#$e#The recipe is easy: common mushrooms, morel and oil.",
-	"Tue4": "The restaurant has been flourishing lately.$h#$b#Lots of customers means more money to set aside for Keahi's future.#$e#If only my darling wahine were here.$s#$b#I hope I'm making her proud.$4",
-	"Wed4": "I'm thinking of making Keahi a treehouse.#$b#I'm just thinking about what kind of materials I should use.$e#Hmm... I'm going to ask Robin for her expertise.",
-	"Thu4": "Keahi's always running off somewhere.$a#$b#I can usually rely on Trinnie to keep him in check but...#$e#I just hope he's being safe.$s",
-	"Fri4": "Aloha, @! You should try my pepper poppers today.$h#$b#I picked the recipe up when my family visited Gotoro, across the Gem Sea.#$e#They really like their spicy food over there.$h",
-	"Sat4": "%Pika doesn't notice you. He seems to be mumbling something about chocolate fish tacos.",
-	"Sun4": "Sometimes I get absorbed in inventing recipes that I lose track of time, ha ha ha.$h#$e#A great cook has to innovate!",
+	"Mon4": "Ese viejo gruñón, George, suele animarse si le das unas setas fritas.$h#$b#Si quieres, puedo prepararte un plato.#$e#La receta es fácil: setas comunes, morillas y aceite",
+	"Tue4": "El restaurante está floreciendo últimamente.$h#$b#Muchos clientes significan más dinero que reservar para el futuro de Keahi.#$e#Si mi querida wahine estuviera aquí.$s#$b#Espero hacerla sentir orgullosa.$$4",
+	"Wed4": "Estoy pensando en hacerle a Keahi una casa en el árbol.#$b#Estoy pensando en qué tipo de materiales debería utilizar.$e#Hmm... Voy a pedirle a Robin su experiencia",
+	"Thu4": "Keahi siempre se escapa a alguna parte.$a#$b#Por lo general, puedo confiar en Trinnie para que lo mantenga a raya, pero...#$e#Sólo espero que esté siendo seguro.$s",
+	"Fri4": "¡Aloha, @! Deberías probar hoy mis salchichas de pimiento.$h#$b#Elegí la receta cuando mi familia visitó Gotoro, al otro lado del Mar de las Gemas.#$e#Les gusta mucho su comida picante de allí.$h",
+	"Sat4": "%Pika no se fija en ti. Parece que está murmurando algo sobre tacos de pescado con chocolate",
+	"Sun4": "A veces me absorbe inventar recetas que pierdo la noción del tiempo, ja ja ja.$h#$e#¡Un gran cocinero tiene que innovar!",
 	
 	//6 Hearts
-	"Mon6": "I've got a new dish I'd like to try out!$h#$b#What do you think about a spicy eggplant parmesan with a garnish of fried chips on top?#$b#You can be my taste tester.$h",
-	"Tue6": "I'm on my way to visit Philip right now.#$e#I heard my shoulder pop while lifting a full stewpot last night.$s#$b#I hope I didn't injure myself...#$",
-	"Wed6": "I love seeing Keahi enjoy himself.$h#$e#A father's greatest wish is for his child to grow up healthy and happy.",
-	"Thu6": "Keahi has been learning a lot from Penny...$s#$b#%Pika sighs deeply.#$b#Don't get me wrong, I'm grateful for what she's doing for Keahi.$h#$b#I just sometimes think about what it would be like if his makuahine, his mother, was here.$4",
-	"Fri6": "My Keahi came up with a new recipe earlier.#$b#The apple doesn't fall far from the tree, right?$h",
-	"Sat6": "I was inspired by Keahi's new recipes.$h#$b#I'm on my way to our farm to get some fresh produce for this mystery dish I'm making.",
-	"Sun6": "Keahi's giving me a headache!$a#b#That boy actually taped a 'Kick Me' sign on Shane's back.$a#$b#Poor guy must've been kicked in his tush real good for him to storm in here.$s#$e#But just between you and me, that was pretty hilarious.$h",
+	"Mon6": "¡Tengo un nuevo plato que me gustaría probar!$h#$b#¿Qué te parece una berenjena picante a la parmesana con una guarnición de patatas fritas por encima?$$b#Puedes ser mi probador de sabores.$h",
+	"Tue6": "Estoy de camino a visitar a Felipe ahora mismo.#$e#Escuché cómo se me reventaba el hombro al levantar una olla llena anoche.$s#$b#Espero no haberme lesionado...#$",
+	"Wed6": "Me encanta ver a Keahi disfrutar.$h#$e#El mayor deseo de un padre es que su hijo crezca sano y feliz",
+	"Thu6": "Keahi ha aprendido mucho de Penny...$s#$b#%Pika suspira profundamente.$$b#No me malinterpretes, estoy agradecida por lo que hace por Keahi.$h#$b#Sólo que a veces pienso en cómo sería si su makuahine, su madre, estuviera aquí.$4",
+	"Fri6": "Mi Keahi ha ideado antes una nueva receta.$$b#La manzana no cae lejos del árbol, ¿verdad?$h",
+	"Sat6": "Me he inspirado en las nuevas recetas de Keahi.$h#$b#Estoy de camino a nuestra granja para conseguir productos frescos para este plato misterioso que estoy preparando",
+	"Sun6": "¡Keahi me está dando dolor de cabeza! $a#b#Ese chico ha pegado un cartel de "Patéame" en la espalda de Shane.$a#$b#El pobre debe de haber recibido una buena patada en el culo para que irrumpa aquí.$s#$e#Pero entre tú y yo, eso ha sido bastante gracioso.$h",
 	
 	//8 Hearts
-	"Mon8": "%Pika sighs deeply.#$b#Keahi cried because I grounded him for something he did yesterday.#$e#No matter how much it hurts to see him sad...$4#$b#I know that I must stand my ground or else he won't learn from his mistakes.$s",
-	"Tue8": "I had a hearty chat with that wonderful couple, Lola and Freddie.#$b#Lola even taught me some recipes that she picked up around the world.$h",
-	"Wed8": "Haley came over earlier and asked for recommendations for a new diet plan she's trying.#$b#I recommended the coleslaw with a side of wheat bread with a special raisin yoghurt that I made.$h",
-	"Thu8": "Aloha, friend!$h#$b#Keahi says I tricked him into eating veggies when he was younger...$u#$b#I just fried them with salt and honey and he didn't even notice!$h",
-	"Fri8": "Hey, @! Did you know that not all foods are equal?#$b#Some dishes can make you recover more stamina than others...$h",
-	"Sat8": "I heard little Trinnie gave my Keahi some chocolates yesterday.$u#$b#Ha ha! I think she has a thing for ka'u keiki--my son, I mean.$h#$b#These kids... They remind me of me and my wahine.$h",
-	"Sun8": "Little Keahi's making me so proud lately!$h#$e#He's taking after his mother.$h#$b#He's going to be a fine young man.#$b#His makuahine is going to be so proud.$h",
+	"Mon8": "%Pika suspira profundamente.$$b#Keahi lloró porque le castigué por algo que hizo ayer.$$e#No importa lo mucho que me duela verle triste...$$b#Sé que debo mantenerme firme o no aprenderá de sus errores.$s",
+	"Tue8": "He tenido una buena charla con esa maravillosa pareja, Lola y Freddie.#$b#Lola incluso me ha enseñado algunas recetas que ha recogido por el mundo.$h",
+	"Wed8": "Haley vino antes y me pidió recomendaciones para un nuevo plan de dieta que está probando.#$b#Le recomendé la ensalada de col con una guarnición de pan de trigo con un yogur de pasas especial que hice.$h",
+	"Thu8": "¡Aloha, amigo!$h#$b#Keahi dice que le engañé para que comiera verduras cuando era más joven...$u#$b#Sólo las freí con sal y miel y ni siquiera se dio cuenta!$h",
+	"Fri8": "¡Eh, @! ¿Sabías que no todos los alimentos son iguales?$$b#Algunos platos pueden hacerte recuperar más resistencia que otros...$h",
+	"Sat8": "He oído que la pequeña Trinnie le dio a mi Keahi unos bombones ayer.$u#$b#¡Ha ha! Creo que le gustan los ka'u keiki... mi hijo, quiero decir.$h#$b#Estos niños... Me recuerdan a mí y a mi wahine.$h",
+	"Sun8": "¡El pequeño Keahi me hace sentir muy orgulloso últimamente! $h#$e#Se está pareciendo a su madre.$h#$b#Será un buen joven.$$b#Su makuahine estará muy orgullosa.$h",
 	
 	//10 Hearts
-	"Mon10": "I only want what's best for Keahi.$s#$b#That's why I work so hard at the restaurant.$s#$b#My earnings will not only provide for his future, but will also ensure that he has me and his makuahine's spirit with him as he journeys in life.$4",
-	"Tue10": "My parents have always supported my ambitions and dreams.#$b#It just so happens that my dreams were in line with theirs.$h#$b#If Keahi chooses a different path in life, I'll still support him.#$e#I'm just so proud of how much he's grown.#$b#And I know that my wahine, my beautiful wife, is watching over our little boy.$h",
-	"Wed10": "Food has been and will always be a part of everybody's day-to-day life.#$b#I'm very passionate about food because I love to eat!$h#$e#Everyone has a favorite dish and there's probably a story behind it.$h#$e#Maybe I'm just being a sentimental fool, but I like being a part of everyone's life through food.#$b#It makes me feel like I belong.$h",
-	"Thu10": "%Pika seems to be half asleep.#$b#Huh?$u#$b#Too much spice?#$b#No no...$u#$b#No such thing.$h",
-	"Fri10": "Mahalo, my friend! Thank you.#$b#Thank you for listening to all my stories and eating all my food!$h",
-	"Sat10": "One day Keahi will take over the restaurant.#$b#Just like my tama, my father, used to say: 'Always weave a new net before the old one breaks'.#$e#Make sure you tell your family you love them, @.$h",
-	"Sun10": "I wish my wahine was here to see our son grow into the nice young boy he is today, as he makes his own ohana.$4",
+	"Mon10": "Sólo quiero lo mejor para Keahi.$s#$b#Por eso trabajo tan duro en el restaurante.$s#$b#Mis ganancias no sólo le proporcionarán su futuro, sino que también garantizarán que me tenga a mí y al espíritu de su makuahine con él mientras viaja por la vida.$h",
+	"Tue10": "Mis padres siempre han apoyado mis ambiciones y sueños.#$b#Sucede que mis sueños coincidían con los suyos.$h#$b#Si Keahi elige un camino diferente en la vida, seguiré apoyándolo.#$e#Estoy muy orgulloso de lo mucho que ha crecido.#$b#Y sé que mi wahine, mi hermosa esposa, vela por nuestro pequeño.$h",
+	"Wed10": "La comida ha sido y será siempre una parte del día a día de todo el mundo.#$b#¡Me apasiona la comida porque me encanta comer!$h#$e#Todo el mundo tiene un plato favorito y probablemente haya una historia detrás.$h#$e#Quizá sólo sea un tonto sentimental, pero me gusta formar parte de la vida de todo el mundo a través de la comida.#$b#Me hace sentir que pertenezco a ella.$h",
+	"Thu10": "%Pika parece estar medio dormida.#$b#¿Huh?$u#$b#Demasiado picante?#$b#No no...$u#$b#No hay tal cosa.$h",
+	"Fri10": "¡Mahalo, amigo mío! Gracias.#$b#¡Gracias por escuchar todas mis historias y comer toda mi comida!$h",
+	"Sat10": "Un día Keahi se hará cargo del restaurante.#$b#Como decía mi tama, mi padre: 'Teje siempre una red nueva antes de que se rompa la vieja'.#$e#Asegúrate de decirle a tu familia que la quieres, @.$h",
+	"Sun10": "Me gustaría que mi mujer estuviera aquí para ver a nuestro hijo convertirse en el buen chico que es hoy, mientras hace su propia ohana.$4",
 
-//Special Dialogue
-	"MovieInvitation": "Mahalo! I think we deserve a break after all the work we do.$h#$e#Keahi keeps bugging me to take him but I've been way too busy.#$b#I should take him next time...$s",
+//Special dialogue
+	"MovieInvitation": "¡Mahalo! Creo que nos merecemos un descanso después de todo el trabajo que hacemos.$h#$e#Keahi no para de darme la lata para que lo lleve, pero he estado demasiado ocupado.#$b#Debería llevarlo la próxima vez...$s",
 	
 //Resort
-	"Resort_Entering": "I haven't been on Ginger Island since the volcano erupted years ago.$s#$b#So much has changed...$4",
-	"Resort_Leaving": "Every sunset brings the promise of a new dawn.$h",
-	"Resort_Shore": "I should've brought my surfboard.$h",
-	"Resort_Chair": "Finding some time to relax is hard when you're running a restaurant.$s#$b#I have set the bar pretty high, haven't I?$h",
-	"Resort_Bar": "They don't serve Cherry Berry Shakey here!$a#$b#Such a shame!$s",
-	"Resort": "I'm really happy to be here.$h#$b#It reminds me of home.#$b#Perhaps you'll visit Ember Island one day as well...$h",
+	"Resort_Entering": "No he estado en la Isla del Jengibre desde que el volcán entró en erupción hace años.$s#$b#Tanto ha cambiado...$s",
+	"Resort_Leaving": "Cada puesta de sol trae la promesa de un nuevo amanecer.$h",
+	"Resort_Shore": "Debería haber traído mi tabla de surf.$h",
+	"Resort_Silla": "Encontrar tiempo para relajarse es una tarea difícil: \"Encontrar algo de tiempo para relajarse es difícil cuando diriges un restaurante.$s#$b#He puesto el listón muy alto, ¿no? $h",
+	"Resort_Bar": "¡Aquí no sirven Batido de Cereza! $a#$b#¡Qué pena! $s",
+	"Resort": "Estoy muy contento de estar aquí.$h#$b#Me recuerda a mi hogar.$$b#Quizás también visite la Isla Ember algún día...$h",
 
 }

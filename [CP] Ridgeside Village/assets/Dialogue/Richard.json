@@ -17,13 +17,13 @@
 	"fall_26": "Lenny sugirió que decorásemos el hotel con adornos de la víspera de los esprítus.#$e#Yo quería, pero tenemos un presupuesto ajustado para las fiestas.$s#$b#Aunque recortáramos en otras cosas, los adornos no caben...$s",
 
 //Winter
-	"winter_1": "%Richard no parece fijarse en ti.$$b#Esta temporada sería mucho más brillante si estuvieras aquí, Angelika...$s",
+	"winter_1": "%Richard no parece fijarse en ti.#$b#Esta temporada sería mucho más brillante si estuvieras aquí, Angelika...$s",
 	"winter_7": "Conocí a mi mujer el día antes del Festival de Hielo, hace muchos muchos años.#$b#La echo mucho de menos, pero sé que sigue velando por Ysa y por mí desde un lugar mejor.$h",
 	"winter_14": "Intentaré sacar algo de tiempo para echar un vistazo a las mercancías del mercader mañana por la noche.#$b#¿O quizás lo haga la noche siguiente?#$b#Hmm... No estoy muy seguro.",
 	"winter_15": "Le he echado el ojo a un cuadro que vende Lupini esta noche en el mercado.#$b#¡Quedaría fabuloso en el vestíbulo!#$h",
 	"winter_16": "¡Asegúrate de echar un vistazo al carrito ambulante cuando vayas al mercado!#$b#¡De vez en cuando tendrá buenas mercancías de Gotoro!",
 	"winter_17": "Un consejo, quizá puedas regatear las compras en el mercado.#$b#Los vendedores estarán a la caza de las rebajas de última hora, después de todo",
-	"winter_24": "Espero que el año haya sido bueno para ti, joven.$h#$b#¡Disfruta de los días que quedan antes del año nuevo! Ja, ja! $h",
+	"winter_24": "Espero que el año haya sido bueno para ti, joven.$h#$b#¡Disfruta de los días que quedan antes del año nuevo! Ja, ja!$h",
 
 //Days of the Week
 
@@ -55,7 +55,7 @@
 	"Sun4": "%Richard suspira profundamente.#$b#Echo de menos a mi mujer aún más en días como éste.$s#$e#Solíamos ir a la playa los domingos y pescar, o salir a nadar.#$b#Siempre traía una cesta de picnic, y yo descansaba mi cabeza en su regazo después de comer.$h#$b#Desearía que estuviera aquí ahora mismo...$s",
 	
 	//6 Hearts
-	"Mon6": "¡Una buena mañana para ti, @$h#$b#¿Has comido bien?$$e#Si alguna vez necesitas algo no dudes en venir a pedirlo, ¿de acuerdo?#$b#Mi puerta siempre está abierta.$h",
+	"Mon6": "¡Una buena mañana para ti, @$h#$b#¿Has comido bien?#$e#Si alguna vez necesitas algo no dudes en venir a pedirlo, ¿de acuerdo?#$b#Mi puerta siempre está abierta.$h",
 	"Tue6": "¡El día ha sido bueno para nosotros, hasta ahora!$h#$e#Un montón de aldeanos nos han visitado últimamente!#$b#Me alegro de que les guste lo que hago aquí.$h",
 	"Wed6": "Voy de camino a visitar al Dr. Harvey.#$b#Sentí algo que estalló cuando levantaba una caja ayer.$u#$e#Estoy seguro de que no es nada.#$b#Después de todo, tengo que ocuparme de Ysa y del hotel.$s",
 	"Thu6": "Me propongo enseñarle algo a Ysa cada día. El tiempo es muy valioso, ¿sabes? Nunca sabes cuándo será tu último día, le digo siempre.",
@@ -64,7 +64,7 @@
 	"Sun6": "Hoy acompañé a Ysa en su paseo.#$b#Me hizo sentir tan joven de nuevo.#$e#Hablamos de su infancia y de cómo su abuela la quería tanto.$h#$b#Me hizo echar mucho de menos a Angelika.$s#$b#Hubiera sido el mejor modelo a seguir para Ysa.$s",
 	
 	//8 Hearts
-	"Mon8": "¡Hola! Voy de camino a la aldea para visitar Pika's.$$b#Se me antoja un poco de pho. Porque es Fenomenal, ¡ja, ja, ja!$h#$e#El pho de Pika es el mejor del valle. Debes acompañarme alguna vez, ¿de acuerdo?",
+	"Mon8": "¡Hola! Voy de camino a la aldea para visitar Pika's.#$b#Se me antoja un poco de pho. Porque es Fenomenal, ¡ja, ja, ja!$h#$e#El pho de Pika es el mejor del valle. Debes acompañarme alguna vez, ¿de acuerdo?",
 	"Tue8": "¡Me siento con mucha energía hoy!$h#$e#Creo que voy a visitar el gimnasio.#$b#Tengo que mantener mi fuerza para poder cuidar de Ysa y del hotel el mayor tiempo posible.$h",
 	"Wed8": "Ezekiel ha estado ocupado estos días, así que Corine ha estado más a menudo.#$e#Me irrita que algunos piensen que mi amigo no cuida de Corine.#$b#No saben las penurias y pruebas por las que ha pasado ese hombre.$a#$b#¡Déjale un poco de margen!$a",
 	"Thu8": "Mi esposa y yo nos conocimos cuando ella entró en estos oportunos pasillos.#$b#Espero que esté orgullosa de todo lo que he hecho por nuestro hotel y nuestra nieta.$h",
@@ -73,13 +73,13 @@
 	"Sun8": "¡Hola de nuevo, @! ¿Cómo te ha ido el día?#$e#La temporada ha sido buena para nosotros. Estoy pensando en devolverlo.#$b#Tal vez haga una promoción especial para mis fieles clientes.$4",
 	
 	//10 Hearts
-	"Mon10": "Espero que tengas un gran día por delante, jovencito.^ Espero que tengas un gran día por delante, jovencita.#$e#Si tienes interés en la industria hotelera no dudes en hacérmelo saber, ¿vale?#$b#Apuesto a que puedo enseñarte un par de cosas.$h",
+	"Mon10": "Espero que tengas un gran día por delante, jovencito.^Espero que tengas un gran día por delante, jovencita.#$e#Si tienes interés en la industria hotelera no dudes en hacérmelo saber, ¿vale?#$b#Apuesto a que puedo enseñarte un par de cosas.$h",
 	"Tue10": "%Richard parece estar medio dormido.#$b#¿Eh? Oh, lo siento mucho, @. Debo haberme quedado dormido.",
 	"Wed10": "Siento haber estado un poco cansado ayer.#$e#En realidad soñé con mi mujer.$s#$b#Llevaba un vestido blanco, muy parecido al que llevó el día de nuestra boda.#$b#La abracé tan fuerte que me dolió.$s#$e#Pero después de un rato, me desperté y volví a la realidad...$s",
 	"Thu10": "A veces me pregunto cómo sería la vida si mi querida Angelika estuviera aquí.$s#$e#Una cosa es segura, Ysa estaría mejor cuidada.#$b#Mi mujer era la persona más fuerte y positiva que he conocido.$h#$e#Nunca me relacioné con la gente antes de que ella llegara.#$b#Me mostró que el mundo tenía mucho que ofrecer y que no puedo sobrevivir a esto solo.#$e#Mi esperanza por ahora es que mi nieta siempre tenga a alguien.#$b#Alguien que la cuide incluso cuando yo no esté.$s",
 	"Fri10": "¡Hola, joven!$h#$b#Voy a compartir contigo unas sabias palabras que me dejó mi mujer.#$b#'Aprecia el tiempo que tienes con los que amas.'#$b#El tiempo es el regalo más preciado que puedes dar a cualquiera.$h",
 	"Sat10": "Estoy tan orgulloso de mi nieta.$h#$e#Ha crecido tanto, de una dulce niña a una mujer hermosa, fuerte e independiente.$h#$b#Confío en que cuando me aleje de este mundo, mi pequeña Ysa estará bien.$h#$e#¡Me ha hecho sentir orgulloso a mí y a su abuela!$h",
-	"Sun10": "Eres un buen amigo, @.$e^Eres una buena amiga, @.$e#Gracias por pasar tiempo con un veterano como yo.$h#$b#Espero que hayas aprendido algo de todas nuestras charlas a lo largo de los días.",
+	"Sun10": "Eres un buen amigo, @.^Eres una buena amiga, @.#$e#Gracias por pasar tiempo con un veterano como yo.$h#$b#Espero que hayas aprendido algo de todas nuestras charlas a lo largo de los días.",
 
 //Special dialogue
 	"MovieInvitation": "¡Oh! Sería un honor, jovencito.^¡Oh! Sería un honor, jovencita.#$b#Esto me quitaría de la cabeza el llevar el hotel día y noche.#$e#Estoy seguro de que Ysa puede encargarse del hotel hasta que yo vuelva.#$b#Después de todo, ella lo llevará algún día.$h",

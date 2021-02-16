@@ -55,7 +55,7 @@
 	"Sun4": "Ayer vi un kiwi junto a la cresta.#$b#Me acerqué a cogerlo, pero juro que parpadeé y desapareció.$u#$b#Extraño.",
 	
 	//6 Hearts
-	"Mon6": "¡Hola! ¿Qué pasa?¿Algún plan para hoy? #$b#Estaré frente a mi ordenador esta noche, las nuevas patadas de Aurora James salen a la venta a las 8.$h",
+	"Mon6": "¡Hola! ¿Qué pasa?¿Algún plan para hoy?#$b#Estaré frente a mi ordenador esta noche, las nuevas patadas de Aurora James salen a la venta a las 8.$h",
 	"Tue6": "Compré mis gallinas en el rancho de Marnie. ¡Vende unas gallinas de calidad!#$e#A menudo veo a Lewis allí también. Aunque nunca lo veo comprando gallinas...",
 	"Wed6": "Tener un invernadero hace maravillas para tus ingresos.#$e#Recuerdo que la granja de tu abuelo tenía uno, creo.#$b#¿Todavía está ahí?#$b#Bueno, espero que encuentres la manera de usarlo. Es una granja bastante antigua.$h",
 	"Thu6": "Gunther me trajo un montón de revistas G2 el otro día.#$b#¡Están viejas, pero siguen siendo buenas para inspirarse!$h", 
@@ -79,10 +79,10 @@
 	"Thu10": "Hola. ¿Te va bien?$6",
 	"Fri10": "Estaba pensando: tú, yo, mi moto, un largo viaje nosotros solos.$l#$b#¿Qué te parece?$6",
 	"Sat10": "Mi caballo se pone muy contento cuando te ve.$h#$b#Le debes gustar mucho.$h#$e#Bueno, tiene sentido, a su dueño también le gustas...$l",
-	"Sun10": "¿Qué pasa, @?$h#$b#¿Tienes un buen día hasta ahora? #$b##El mío está mejor ahora.$7",
+	"Sun10": "¿Qué pasa, @?$h#$b#¿Tienes un buen día hasta ahora?#$b##El mío está mejor ahora.$7",
 
 //Special Dialogue
-	"breakUp": "¿Qué...? $s#$b#¿Hice... hice algo? $s#$b#¿No podemos hablar de esto?$s",
+	"breakUp": "¿Qué...?$s#$b#¿Hice... hice algo?$s#$b#¿No podemos hablar de esto?$s",
 	"danceRejection": "No, ahora no. Lo siento, @.$u",
 	"divorced": "¿Perdón? ¡Ja!$a#$b#Ve a tontear con otra persona.$a",
 	"summer_Mon": "Te he visto antes en la playa.$6",
@@ -93,7 +93,7 @@
 	"'winter_Thu": "Me siento mal por Ian.$s#$e#El pobre parece que se está congelando, haciendo tanto trabajo afuera.$s#$b#Un día de estos lo voy a invitar a entrar a tomar un chocolate caliente.$h",
 	"winter_Sat": "Pika's no ve mucho negocio durante el invierno.#$b#Iría a la taberna a comer fuera, pero es un largo paseo.$s",
 	"fall_Fri": "El otoño es probablemente mi estación favorita para diseñar.$h#$b#¡Es el comienzo del año de la moda!$l",
-	"MovieInvitation": "¡Oh! ¿Una película? $l#$b#¡Esa es una gran idea, @!$h#$e#No olvides los aperitivos, estaré allí esperándote.$7",
+	"MovieInvitation": "¡Oh! ¿Una película?$l#$b#¡Esa es una gran idea, @!$h#$e#No olvides los aperitivos, estaré allí esperándote.$7",
 
 //Resort
 	"Resort_Entering": "¿Cómo te las arreglaste para encontrar un lugar como este?#$e#Y más importante, ¿por qué no me lo dijiste?$6#$b#Jaja, sólo bromeaba.$7",
@@ -101,11 +101,11 @@
 	"Resort_Leaving_2": "Esto era exactamente lo que necesitaba.$l#$b#Tendré que volver aquí de nuevo.",
 	"Resort_Shore": "Sólo estoy tomando el sol.$6#$b#Realmente no hago mucho más mientras estoy en la playa.$l#$e#Bueno, excepto por ser un gran espectáculo para ver.$7",
 	"Resort_Shore_2": "He oído que hay cultivos en esta isla que no se pueden encontrar en ningún otro sitio.#$b#Me pregunto dónde encontrarlos, sin embargo...$s",
-	"Resort_Umbrella": "Tumbado bajo una sombrilla, con un tequila frío en la mano... #$b#¿Hay algo mejor que esto?$h",
+	"Resort_Umbrella": "Tumbado bajo una sombrilla, con un tequila frío en la mano...#$b#¿Hay algo mejor que esto?$h",
 	"Resort_Umbrella_2": "Ah, esto es bonito. Me gustaría tener a alguien al lado, sin embargo.$s#$e#Hey, @, puedo hacer espacio para ti si quieres.$6",
 	"Resort_Umbrella_3": "Tengo arena en los calzoncillos.$u#$b#No creo que pueda tumbarme por mucho más tiempo...$u",
 	"Resort_Wander": "Nunca había pensado en la ropa de playa.$l#$b#Este sitio me está dando tantas ideas de diseño.$h",
 	"Resort_Bar": "%Jeric se aferra a la barra y balbucea algo al camarero.#$b#%Mejor esperar a que se le pase la borrachera antes de hablar con él.",
-	"Resort": "Este complejo es bonito. $h#$e#Desearía que hubiera algunas luces nocturnas o música sonando.#$b#Sólo algo para amplificarlo, ¿sabes?$h",
+	"Resort": "Este complejo es bonito.$h#$e#Desearía que hubiera algunas luces nocturnas o música sonando.#$b#Sólo algo para amplificarlo, ¿sabes?$h",
 
 }

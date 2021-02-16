@@ -1,18 +1,18 @@
 {
-	"Introduction": "Los espíritus te saludan, forastero. No soy más que un viajero sin nombre, pero puedes referirte a mí como Jio.",
+	"Introduction": "Los espíritus te saludan, forastero. No soy más que un viajero sin nombre, pero puedes referirte a mí como Jio.^Los espíritus te saludan, forastera. No soy más que un viajero sin nombre, pero puedes referirte a mí como Jio.",
 
 //Spring
 	"spring_1": "El frío se desvanece con la llegada de la cálida brisa del sur.#$e#Parece más tranquilo ahora.$h",
 	"spring_12": "El gallo que canta demasiado pronto.#$e#Debe pisar cáscaras de huevo.$h",
-	"spring_23": "Me esconderé entre las flores, como un solo pétalo entre muchos.",
+	"spring_23": "Me esconderé entre las flores, como un solo pétalo entre muchas.",
 
 //Summer
 	"summer_1": "Hay energía que se está gestando bajo la tierra.$4",
-	"summer_10": "Me colaré en la ciudad para probar la sopa mañana.#$e#Más vale que sea buena...$a",
+	"summer_10": "Me colaré en el pueblo para probar la sopa mañana.#$e#Más vale que sea buena...$a",
 	"summer_27": "Las balizas.$u#$b#Es la señal.$4#$e#Mañana por la noche...",
 
 //Fall
-	"fall_1": "Los espíritus son cada vez más fuertes.#$e#Tenga cuidado.$h",
+	"fall_1": "Los espíritus son cada vez más fuertes.#$e#Ten cuidado.$h",
 	"fall_15": "No te molestes en buscarme mañana.#$e#Nunca me encontrarás.$h",
 	"fall_26": "Iré de incógnito mañana.#$e#No intentes encontrarme, será una pérdida de tiempo.$h",
 
@@ -34,21 +34,21 @@
 	"Thu": "%Jio te está ignorando.",
 	"Fri": "No me ves.#$e#Sólo soy una ilusión.$h",
 	"Sat": "%Jio te está ignorando.",
-	"Sun": "Vete.#$e#¡Eres demasiado entrometido!$a",
+	"Sun": "Vete.#$e#¡Eres demasiado entrometido!$a^¡Eres demasiado entrometida!$a",
 	
 	//2 Hearts
 	"Mon2": "¿Hm?#$e#¿Estás aquí de nuevo?$a#$e#No me sigas.",
 	"Tue2": "%Jio te ignora.",
-	"Wed2": "¿No estás ocupado?$u#$e#Parece que tienes mucho tiempo libre.$a",
+	"Wed2": "¿No estás ocupado?$u^¿No estás ocupada?$u#$e#Parece que tienes mucho tiempo libre.$a",
 	"Thu2": "%Jio te ignora.",
 	"Fri2": "No toques mis pertenencias.#$e#Es por tu propia seguridad.$h",
 	"Sat2": "%Jio te está ignorando.",
-	"Sun2": "No te acerques más.#$e#¿Qué acabo de decir?$a#$e#vete.",
+	"Sun2": "No te acerques más.#$e#¿Qué acabo de decir?$a#$e#Vete.",
 	
 	//4 Hearts
 	"Mon4": "No te rindes, ¿verdad?#$e#Interesante...",
 	"Tue4": "Ugh$s.#$e#Estoy bien, dejará de sangrar pronto.$h",
-	"Wed4": "No toques eso.#$e#¡No es para niños!$a",
+	"Wed4": "No toques eso.#$e#¡No es para niños!$a^¡No es para niñas!$a",
 	"Thu4": "%Jio te ignora.",
 	"Fri4": "No me sigas.#$e#¿Cuántas veces tengo que decírtelo?$a",
 	"Sat4": "%Jio te está ignorando.",
@@ -65,20 +65,20 @@
 	
 	//8 Hearts
 	"Mon8": "Vamos, Kiwi.$h#$e#Oh, eres tú.$u#$e#¿Qué quieres?",
-	"Tue8": "Pareces una persona razonable.$h#$e#Tal vez haya algún mérito en dejarte acompañar.",
+	"Tue8": "Pareces una persona razonable.$h#$e#Tal vez haya algún mérito en dejarte acompañarme.",
 	"Wed8": "Te vi salir de las minas el otro día con un botín.#$e#Parece que eres capaz de defenderte en combate.$h",
 	"Thu8": "Tengo prisa.#$b#No puedo hablar.$s#$e#¿Por qué?#$b#No es de tu incumbencia.$a",
-	"Fri8": "Este trabajo no es para los débiles.#$e#¿Qué, crees que eres fuerte?$u#$e#Hmm.#$e#Podrías valer algo para la Fuerza del Crepúsculo.$h#$e#Vuelve cuando nuestro jefe esté cerca.",
+	"Fri8": "Este trabajo no es para los débiles.#$e#¿Qué, crees que eres fuerte?$u#$e#Hmm.#$e#Podrías valer algo para la Fuerza del Anochecer.$h#$e#Vuelve cuando nuestro jefe esté cerca.",
 	"Sat8": "Cuidado con los espíritus malignos cuando se pone el sol, no te quedes más allá de la medianoche.$a",
 	"Sun8": "Tienes falta de miedo porque aún no has conocido el miedo mismo.$s",
 	
 	//10 Hearts
 	"Mon10": "Tenemos un trabajo que terminar.#$b#¿Vienes?#$e#Quizás la próxima vez, entonces.",
 	"Tue10": "Eres lo suficientemente confiable.#$b#Mantén la boca cerrada sobre lo que viste, ¿oíste?#$e#No hablemos de esto otra vez.",
-	"Wed10": "%Jio está murmurando sobre el pudín de ciruela con una sonrisa en la cara.#$e#Mmm.$h#$b#¡Qué!?$4#$b#¡Cuándo!?$u#$b#¡¿Por qué estás aquí?$a",
+	"Wed10": "%Jio está murmurando sobre el pudín de ciruela con una sonrisa en la cara.#$e#Mmm.$h#$b#¿¡Qué!?$4#$b#¿¡Cuándo!?$u#$b#¿Por qué estás aquí?$a",
 	"Thu10": "Cuidado con el viejo que trabaja en el centro de investigación del agua.#$e#Sabe demasiado y entiende muy poco.",
 	"Fri10": "Esta tierra tiene viejos secretos, y vivirás una vida más feliz si no los conoces.#$e#Confía en mí.$h",
-	"Sat10": "No vayas a vagar por la cresta en la noche.$a#$e#no estaré cerca si te metes en problemas.$s",
+	"Sat10": "No vayas a vagar por la cresta en la noche.$a#$e#No estaré cerca si te metes en problemas.$s",
 	"Sun10": "La hoja que no se ve es la más mortífera.#$e#Siempre flanquea a tus enemigos.$h",
 
 //Special Dialogue

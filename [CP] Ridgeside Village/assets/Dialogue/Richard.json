@@ -1,95 +1,95 @@
 {
-	"Introduction": "Good to meet you, young man.^Good to meet you, young lady.$h#$b#I haven't seen you around these parts before.#$b#I assume you're the new farmer Lewis informed me about?#$b#Welcome to the valley, @.$h#$b#I'm Richard, owner of the humble Log Cabin Hotel.#$b#If you ever fancy some quality service and fine hospitality, our doors are always open!$h",
+	"Introduction": "Encantado de conocerte, joven.$h#$b#No te he visto antes por estos lares.#$b#Supongo que eres el nuevo granjero del que me informó Lewis.^Supongo que eres la nueva granjera de la que me informó Lewis.#$b#Bienvenido al valle, @.$h^Bienvenida al valle, @.$h#$b#Soy Richard, propietario del humilde Hotel Cabaña de Troncos.#$b#Si alguna vez te apetece un servicio de calidad y una fina hospitalidad, nuestras puertas están siempre abiertas.$h",
 
 //Spring
-	"spring_1": "Ahh, spring... The time for flowers to bloom and for everything to flourish.#$e#I remember my daughter used to love this season.$h#$b#I wonder how she is doing these days...$s",
-	"spring_12": "The festival tomorrow might attract some tourists.#$b#Well, at least I hope it does.#$b#I'll prepare the hotel. Might be great for business.$h",
-	"spring_23": "Ysa looks forward to tomorrow.#$b#I'm happy whenever my granddaughter's in high spirits.$h#$e#She's been through a lot.$s#$b#I'm glad she seems more cheerful these days...",
+	"spring_1": "Ahh, la primavera... La época en la que florecen las flores y en la que todo florece.#$e#Recuerdo que a mi hija le encantaba esta estación.$h#$b#Me pregunto cómo estará estos días...$s",
+	"spring_12": "El festival de mañana podría atraer a algunos turistas.#$b#Bueno, al menos espero que así sea.#$b#Prepararé el hotel. Podría ser bueno para el negocio.$h",
+	"spring_23": "Ysa espera con ansias el día de mañana.#$b#Me alegro siempre que mi nieta está de buen humor.$h#$e#Ha pasado por muchas cosas.$s#$b#Me alegro de que parezca más alegre estos días...",
 
 //Summer
-	"summer_1": "Summer time is one of the peak seasons at the Log Cabin Hotel!$h#$e#There are many villagers who want to get some, rest and relaxation, or R&R, as the kids call it.$4#$b#Ysa taught me that the other day.$h",
-	"summer_10": "The governor's visiting tomorrow.#$e#I'm excited he's staying at the hotel.$h#$b#We go way back, before politics was ever on his mind!#$e#Hopefully we can find some time to catch up.",
-	"summer_27": "Business has been booming lately!$h#$e#As a treat, I'm planning a relaxing night out tomorrow.$h#$b#I live for these peaceful moments.$h",
+	"summer_1": "¡La época de verano es una de las temporadas altas en el Hotel cabaña de Troncos!$h#$e#Hay muchos aldeanos que quieren conseguir un poco, de descanso y relajación, o R&R, como lo llaman los niños.$4#$b#Ysa me enseñó eso el otro día.$h",
+	"summer_10": "El gobernador viene de visita mañana.#$e#Estoy emocionado de que se aloje en el hotel.$h#$b#Nosotros nos conocemos desde hace mucho, antes de que la política estuviera en su mente.#$e#Espero que podamos encontrar algo de tiempo para ponernos al día.",
+	"summer_27": "¡El negocio está en auge últimamente!$h#$e#Como regalo, estoy planeando una noche de relajo mañana.$h#$b#Vivo para estos momentos de tranquilidad.$h",
 
 //Fall
-	"fall_1": "It's the season for festive decorations, for skeletons and Jack-o'-lanterns.#$e#Reminds us that we're all mortal, too. Or is that just me?$s",
-	"fall_15": "There will be guests staying a while for tomorrow's fair.#$b#I've been busy making sure the hotel is in tip-top condition.$4",
-	"fall_26": "Lenny suggested we decorate the hotel with Spirit's Eve decorations.#$e#I wanted to, but we're on a tight budget for the holidays.$s#$b#Even if we cut corners in other places, decorations just won't fit...$s",
+	"fall_1": "Es la época de las decoraciones festivas, de los esqueletos y de las linternas. ¿O es que sólo soy yo?$s",
+	"fall_15": "Habrá invitados que se quedarán un tiempo para la feria de mañana.#$b#He estado ocupado asegurándome de que el hotel esté en las mejores condiciones.$s",
+	"fall_26": "Lenny sugirió que decorásemos el hotel con adornos de la víspera de los esprítus.#$e#Yo quería, pero tenemos un presupuesto ajustado para las fiestas.$s#$b#Aunque recortáramos en otras cosas, los adornos no caben...$s",
 
 //Winter
-	"winter_1": "%Richard doesn't seem to notice you.#$b#This season would be so much brighter if you were here, Angelika...$s",
-	"winter_7": "I met my wife the day before the Ice Festival, many many years ago.#$b#I miss her dearly, but I know she's still watching over Ysa and I from a better place.$h",
-	"winter_14": "I'll try to squeeze in some time to browse the merchant's wares tomorrow night.#$b#Or maybe I'll do it the following night?#$b#Hmm... I am not quite sure.",
-	"winter_15": "I've got my eye on a painting Lupini's selling tonight at the market.#$b#It would look fabulous in the lobby!$h",
-	"winter_16": "Be sure to check out the traveling cart when you head to the market!#$b#She'll occasionally have fine Gotoro wares!",
-	"winter_17": "A word of advice, you might be able to haggle purchases at the market.#$b#Vendors will be hunting for last minute sales, after all.",
-	"winter_24": "“I hope the year has been good to you, young one.$h#$b#Enjoy the remaining days before the new year! Ha ha!$h",
+	"winter_1": "%Richard no parece fijarse en ti.$$b#Esta temporada sería mucho más brillante si estuvieras aquí, Angelika...$s",
+	"winter_7": "Conocí a mi mujer el día antes del Festival de Hielo, hace muchos muchos años.#$b#La echo mucho de menos, pero sé que sigue velando por Ysa y por mí desde un lugar mejor.$h",
+	"winter_14": "Intentaré sacar algo de tiempo para echar un vistazo a las mercancías del mercader mañana por la noche.#$b#¿O quizás lo haga la noche siguiente?#$b#Hmm... No estoy muy seguro.",
+	"winter_15": "Le he echado el ojo a un cuadro que vende Lupini esta noche en el mercado.#$b#¡Quedaría fabuloso en el vestíbulo!#$h",
+	"winter_16": "¡Asegúrate de echar un vistazo al carrito ambulante cuando vayas al mercado!#$b#¡De vez en cuando tendrá buenas mercancías de Gotoro!",
+	"winter_17": "Un consejo, quizá puedas regatear las compras en el mercado.#$b#Los vendedores estarán a la caza de las rebajas de última hora, después de todo",
+	"winter_24": "Espero que el año haya sido bueno para ti, joven.$h#$b#¡Disfruta de los días que quedan antes del año nuevo! Ja, ja! $h",
 
 //Days of the Week
 
 	//0 Hearts
-	"Mon": "Hello, young farmer. It's @, right?#$b#I noticed you've taken over your grandfather's farm over yonder.#$e#What brings you in today? Is there anything I can help you with?$h",
-	"Tue": "Your grandfather was a good friend of mine.#$b#If you need anything, I'll be happy to help.",
-	"Wed": "Hello there, @. How's the farm doing?#$b#I am expecting great things from you.",
-	"Thu": "Good day, @. How are you?#$b#Do take care now.$h",
-	"Fri": "Ian's been lending a hand around here.#$b#He does a good job.$h#$b#I admire hard-working individuals.",
-	"Sat": "Young Corine is like a granddaughter to me.#$e#I'm glad she and Ysa are good friends.$h#$b#Have you met them?#$e#You might see them walking around together on occasion.#$b#They were practically joined at the hip when they were little.$h",
-	"Sun": "Hello there, @. What brings you in?#$b#Feel free to sit in the lobby if you're waiting for someone.",
+	"Mon": "Hola, joven granjero. Es @, ¿verdad?^Hola, joven granjera. Es @, ¿verdad?#$b#Me he dado cuenta de que te has hecho cargo de la granja de tu abuelo allá.#$e#¿Qué te trae hoy? ¿Hay algo en lo que pueda ayudarte?$h",
+	"Tue": "Tu abuelo era un buen amigo mío.#$b#Si necesitas algo, estaré encantado de ayudarte.",
+	"Wed": "Hola, @. ¿Cómo va la granja?#$b#Espero grandes cosas de ti.",
+	"Thu": "Buenos días, @. ¿Cómo estás?#$b#Cuídate.$h",
+	"Fri": "Ian me ha estado echando una mano por aquí.#$b#Hace un buen trabajo.$h#$b#Admiro a las personas trabajadoras.",
+	"Sat": "La joven Corine es como una nieta para mí.#$e#Me alegro de que ella e Ysa sean buenas amigas.$h#$b#¿Las has conocido?#$e#Puedes verlas paseando juntas en alguna ocasión.#$b#Estaban prácticamente unidas por la cadera cuando eran pequeñas.$h",
+	"Sun": "Hola, @. ¿Qué te trae por aquí?#$b#Siéntate en el vestíbulo si estás esperando a alguien.",
 	
 	//2 Hearts
-	"Mon2": "My, @! How nice of you to visit.$h#$b#How are you doing today?#$e#If you're looking to relax, you can always rent a room here at the Log Cabin!$4",
-	"Tue2": "A lot of the residents here at the village often hang around the hotel lobby during their free time.#$b#I don't mind. I like catching up with everybody.$h#$b#I don't get out much.$s",
-	"Wed2": "My late wife loved having hotel guests around.$h#$e#She loved to talk to them and listen to their stories.#$b#She was a journalist before she retired.#$e#I learned how to open up to people because of her. Angelika was simply amazing...$s",
-	"Thu2": "Why, a lovely day to you, @.$h#$b#Coming in for a visit, I see.#$e#If you are interested, we can offer you a 30% discount on your first stay!$h",
-	"Fri2": "A lot of people mistake my good friend Ezekiel for a cold-hearted man.#$e#It's just that people don't know his story.#$b#I may share it with you, someday...",
-	"Sat2": "My heart is happy seeing Ysa doing things she loves.$h#$b#She'd lost touch with her passion before and I'm glad to see that she's slowly regaining her confidence.$h",
-	"Sun2": "Lewis and I go way back.#$e#I remember when he first started dreaming of becoming mayor...#$b#He showed such promise. I had no doubt that he'd win the hearts and minds of the people.$h",
+	"Mon2": "¡Caramba, @! Qué bien que nos visites.$h#$b#¿Qué tal estás hoy?#$e#Si quieres relajarte, siempre puedes alquilar una habitación aquí en la Cabaña de Troncos!$4",
+	"Tue2": "Muchos de los residentes aquí en la aldea suelen pasar el rato en el vestíbulo del hotel durante su tiempo libre.#$b#No me importa. Me gusta ponerme al día con todo el mundo.$h#$b#No salgo mucho.$s",
+	"Wed2": "A mi difunta esposa le encantaba tener invitados en el hotel.$h#$e#Le encantaba hablar con ellos y escuchar sus historias.#$b#Fue periodista antes de jubilarse.#$e#Aprendí a abrirme a la gente gracias a ella. Angelika era simplemente increíble...$s",
+	"Thu2": "Vaya, un bonito día para ti, @.$h#$b#Vienes de visita, por lo que veo.#$e#¡Si te interesa, podemos ofrecerte un 30% de descuento en tu primera estancia!$h",
+	"Fri2": "Mucha gente confunde a mi buen amigo Ezekiel con un hombre de corazón frío.#$e#Es que la gente no conoce su historia.#$b#Quizás la comparta contigo, algún día...",
+	"Sat2": "Mi corazón se alegra de ver a Ysa haciendo las cosas que le gustan.#$h#$b#Antes había perdido el contacto con su pasión y me alegra ver que poco a poco va recuperando la confianza.#$h",
+	"Sun2": "Lewis y yo nos conocemos desde hace mucho tiempo.#$e#Recuerdo cuando empezó a soñar con ser alcalde...#$b#Se mostraba tan prometedor. No tenía ninguna duda de que se ganaría los corazones y las mentes de la gente.$h",
 	
 	//4 Hearts
-	"Mon4": "Oh hello there, dear!$h#$b#How have you been? I trust that the day's been treating you well?$h",
-	"Tue4": "Oh no! Excuse me, dear boy.^Excuse me, dear girl.#$b#I must rush back to the hotel. I forgot to finish some paperwork.",
-	"Wed4": "I'm thinking about hosting an event here at the hotel, maybe an evening of fine dining, or perhaps a dance competition?#$e#Hmmm... What do you think?#$b#I could even participate and strut my stuff.$h#$b#These old bones still have some moves left in them!$4",
-	"Thu4": "I'm thinking about ways I could improve the hotel's appeal.#$e#If you have any ideas feel free to let me know.#$b#I value feedback from all my patrons.",
-	"Fri4": "Hello there, young one!#$b#My granddaughter's been practicing her ballet every Saturday.#$e#Ballet's very good for balance and strength, you know.#$b#If you're interested, I can ask if you could join her.$h",
-	"Sat4": "I'm on my way to the forest to look for lumber I can use at the hotel.#$b#One must always remember to go above and beyond for their customers if you want to earn their loyalty!$4",
-	"Sun4": "%Richard sighs deeply.#$b#I miss my wife even more on days like these.$s#$e#We used to go to the beach on Sundays and fish, or go out for a swim.#$b#She'd always bring a picnic basket, and I'd rest my head in her lap after lunch.$h#$b#I do wish that she were here right now...$s",
+	"Mon4": "¡Oh, hola, querido!$h^¡Oh, hola, querida!$h#$b#¿Cómo has estado? Espero que el día te haya tratado bien.",
+	"Tue4": "¡Oh, no! Discúlpame, querido chico.^Discúlpame, querida chica.#$b#Debo volver corriendo al hotel. Me olvidé de terminar un papeleo.",
+	"Wed4": "Estoy pensando en organizar un evento aquí en el hotel, tal vez una noche de cena fina, o tal vez una competencia de baile... ¿Qué te parece?#$b#Incluso podría participar y pavonearme.$h#$b#¡A estos viejos huesos aún les quedan algunos movimientos!$4",
+	"Thu4": "Estoy pensando en cómo podría mejorar el atractivo del hotel.#$e#Si tienes alguna idea no dudes en hacérmela saber.#$b#Valoro los comentarios de todos mis clientes.",
+	"Fri4": "¡Hola, joven!#$b#Mi nieta ha estado practicando su ballet todos los sábados.#$e#El ballet es muy bueno para el equilibrio y la fuerza, ya sabes.#$b#Si estás interesado, puedo preguntar si podrías unirte a ella.$h^Si estás interesada, puedo preguntar si podrías unirte a ella.$h",
+	"Sat4": "Estoy de camino al bosque para buscar madera que pueda usar en el hotel.#$b#Uno siempre debe recordar que debe ir más allá por sus clientes si quiere ganarse su lealtad.$h",
+	"Sun4": "%Richard suspira profundamente.#$b#Echo de menos a mi mujer aún más en días como éste.$s#$e#Solíamos ir a la playa los domingos y pescar, o salir a nadar.#$b#Siempre traía una cesta de picnic, y yo descansaba mi cabeza en su regazo después de comer.$h#$b#Desearía que estuviera aquí ahora mismo...$s",
 	
 	//6 Hearts
-	"Mon6": "A pleasant morning to you, @!$h#$b#Have you been eating well?#$e#If you ever need anything don't hesitate to come to ask, alright?#$b#My door is always open.$h",
-	"Tue6": "The day's been good to us, so far!$h#$e#A lot of villagers have been visiting lately!#$b#I'm glad that they like what I do here.$h",
-	"Wed6": "I'm on my way to visit Dr. Harvey.#$b#I felt something pop when I was lifting a box yesterday.$u#$e#I'm sure it's nothing.#$b#After all, I have to take care of Ysa and the hotel.$s",
-	"Thu6": "I make it a point to teach Ysa something each day.#$e#Time's just so precious, you know?#$b#'You never know when your last day may be,' I always tell her.$s",
-	"Fri6": "I'm thinking of investing in an espresso machine for the hotel.#$b#A little coffee shop in the front might bring in more customers. What do you think?",
-	"Sat6": "Ysa's making me prouder each and every day.$h#$e#I saw her earlier in her pointe shoes and tutu.#$b#She looked just like her grandmother, except her grandmother was always in jeans, ha ha!$h",
-	"Sun6": "I went along with Ysa on her walk today.#$b#It made me feel so young again.#$e#We talked about her childhood and how her grandmother was so fond of her.$h#$b#It made me miss Angelika a lot.$s#$b#She would've been the best role model for Ysa.$s",
+	"Mon6": "¡Una buena mañana para ti, @$h#$b#¿Has comido bien?$$e#Si alguna vez necesitas algo no dudes en venir a pedirlo, ¿de acuerdo?#$b#Mi puerta siempre está abierta.$h",
+	"Tue6": "¡El día ha sido bueno para nosotros, hasta ahora!$h#$e#Un montón de aldeanos nos han visitado últimamente!#$b#Me alegro de que les guste lo que hago aquí.$h",
+	"Wed6": "Voy de camino a visitar al Dr. Harvey.#$b#Sentí algo que estalló cuando levantaba una caja ayer.$u#$e#Estoy seguro de que no es nada.#$b#Después de todo, tengo que ocuparme de Ysa y del hotel.$s",
+	"Thu6": "Me propongo enseñarle algo a Ysa cada día. El tiempo es muy valioso, ¿sabes? Nunca sabes cuándo será tu último día, le digo siempre.",
+	"Fri6": "Estoy pensando en invertir en una máquina de café expreso para el hotel.#$b#Una pequeña cafetería en la parte delantera podría traer más clientes. ¿Qué te parece?",
+	"Sat6": "Ysa me hace sentir más orgulloso cada día.$h#$e#La vi hace un rato con sus zapatillas de punta y su tutú.#$b#Se parecía a su abuela, excepto que su abuela siempre iba en vaqueros, ¡ja!$h",
+	"Sun6": "Hoy acompañé a Ysa en su paseo.#$b#Me hizo sentir tan joven de nuevo.#$e#Hablamos de su infancia y de cómo su abuela la quería tanto.$h#$b#Me hizo echar mucho de menos a Angelika.$s#$b#Hubiera sido el mejor modelo a seguir para Ysa.$s",
 	
 	//8 Hearts
-	"Mon8": "Hello there! I'm on my way to town to visit Pika's.#$b#I'm craving some pho. Because it's PHOnomenal, ha ha ha!$h#$e#Pika's pho is the best in the valley. You must join me sometime, alright?",
-	"Tue8": "I feel so energized today!$h#$e#I think I'm going to visit the gym.#$b#I've got to keep up my strength so I can take care of Ysa and the hotel as long as possible.$h",
-	"Wed8": "Ezekiel's been busy these days so Corine's been around more often.#$e#I find it irritating that some people think my pal isn't taking care of Corine.#$b#They don't know what hardships and trials that man has been through.$a#$b#Cut him some slack!$a",
-	"Thu8": "My wife and I met when she entered these timely halls.#$b#I hope she's proud of everything that I've done for our hotel and granddaughter.$h",
-	"Fri8": "Might I offer you some advice my wife taught me?#$b#Always remember to have courage and be kind.$h#$e#You never know if someone's having a bad day.#$b#Just a little kindness could make a big difference in their life.$h",
-	"Sat8": "I love conversing with Lola and Freddie.$h#$b#Those two have seen the world!#$b#Whenever I listen to them, I feel like I've travelled alongside them!$h",
-	"Sun8": "Hello again, @! How has the day been for you?#$e#The season's been good to us. I'm thinking of giving back.#$b#Maybe I'll do a special promotion for my loyal customers.$4",
+	"Mon8": "¡Hola! Voy de camino a la aldea para visitar Pika's.$$b#Se me antoja un poco de pho. Porque es Fenomenal, ¡ja, ja, ja!$h#$e#El pho de Pika es el mejor del valle. Debes acompañarme alguna vez, ¿de acuerdo?",
+	"Tue8": "¡Me siento con mucha energía hoy!$h#$e#Creo que voy a visitar el gimnasio.#$b#Tengo que mantener mi fuerza para poder cuidar de Ysa y del hotel el mayor tiempo posible.$h",
+	"Wed8": "Ezekiel ha estado ocupado estos días, así que Corine ha estado más a menudo.#$e#Me irrita que algunos piensen que mi amigo no cuida de Corine.#$b#No saben las penurias y pruebas por las que ha pasado ese hombre.$a#$b#¡Déjale un poco de margen!$a",
+	"Thu8": "Mi esposa y yo nos conocimos cuando ella entró en estos oportunos pasillos.#$b#Espero que esté orgullosa de todo lo que he hecho por nuestro hotel y nuestra nieta.$h",
+	"Fri8": "¿Puedo ofrecerte un consejo que me enseñó mi esposa?#$b#Recuerda siempre tener valor y ser amable.$h#$e#Nunca se sabe si alguien está teniendo un mal día.#$b#Sólo un poco de amabilidad podría marcar una gran diferencia en tu vida.$h",
+	"Sat8": "Me encanta conversar con Lola y Freddie.$h#$b#¡Esos dos han visto el mundo!#$b#¡Cuando los escucho, siento que he viajado junto a ellos!$h",
+	"Sun8": "¡Hola de nuevo, @! ¿Cómo te ha ido el día?#$e#La temporada ha sido buena para nosotros. Estoy pensando en devolverlo.#$b#Tal vez haga una promoción especial para mis fieles clientes.$4",
 	
 	//10 Hearts
-	"Mon10": "Hope you have a great day ahead of you, young lad.^ Hope you have a great day ahead of you, young lass.#$e#If you have an interest in the hotel industry don't hesitate to let me know, okay?#$b#I bet I can show you a thing or two.$h",
-	"Tue10": "%Richard seems to be half asleep.#$b#Huh? Oh I'm so sorry, @. I must've dozed off.",
-	"Wed10": "I'm sorry I was a little tired yesterday.#$e#I actually dreamt of my wife.$s#$b#She was wearing a white dress, much like the one she wore on our wedding day.#$b#I hugged her so tight it hurt.$s#$e#But after a while, I woke up and went back to reality...$s",
-	"Thu10": "Sometimes I wonder what life would be like if my darling Angelika were here.$s#$e#One thing's for sure, Ysa would be better taken care of.#$b#My wife was the strongest and the most positive person I've ever known.$h#$e#I never really mingled with people before she came along.#$b#She showed me that the world had a lot to offer and that I cannot survive this alone.#$e#My hope for now is that my granddaughter will always have someone.#$b#Someone to take care of her even when I'm gone.$s",
-	"Fri10": "Hello, young one!$h#$b#I'm going to share with you some wise words my wife left me.#$b#'Cherish the time you have with the ones you love.'#$b#Time is the most precious gift that you can give anyone.$h",
-	"Sat10": "I'm so proud of my granddaughter.$h#$e#She has grown so much, from a sweet little girl to a beautiful, strong and independent woman.$h#$b#I'm confident that whenever I part with this world, my little Ysa will be alright.$h#$e#She has made me and her grandmother proud!$h",
-	"Sun10": "You're a good friend, @!#$e#Thank you for spending time with an old-timer like me.$h#$b#I hope you've learned a little something from all our chats throughout the days.",
+	"Mon10": "Espero que tengas un gran día por delante, jovencito.^ Espero que tengas un gran día por delante, jovencita.#$e#Si tienes interés en la industria hotelera no dudes en hacérmelo saber, ¿vale?#$b#Apuesto a que puedo enseñarte un par de cosas.$h",
+	"Tue10": "%Richard parece estar medio dormido.#$b#¿Eh? Oh, lo siento mucho, @. Debo haberme quedado dormido.",
+	"Wed10": "Siento haber estado un poco cansado ayer.#$e#En realidad soñé con mi mujer.$s#$b#Llevaba un vestido blanco, muy parecido al que llevó el día de nuestra boda.#$b#La abracé tan fuerte que me dolió.$s#$e#Pero después de un rato, me desperté y volví a la realidad...$s",
+	"Thu10": "A veces me pregunto cómo sería la vida si mi querida Angelika estuviera aquí.$s#$e#Una cosa es segura, Ysa estaría mejor cuidada.#$b#Mi mujer era la persona más fuerte y positiva que he conocido.$h#$e#Nunca me relacioné con la gente antes de que ella llegara.#$b#Me mostró que el mundo tenía mucho que ofrecer y que no puedo sobrevivir a esto solo.#$e#Mi esperanza por ahora es que mi nieta siempre tenga a alguien.#$b#Alguien que la cuide incluso cuando yo no esté.$s",
+	"Fri10": "¡Hola, joven!$h#$b#Voy a compartir contigo unas sabias palabras que me dejó mi mujer.#$b#'Aprecia el tiempo que tienes con los que amas.'#$b#El tiempo es el regalo más preciado que puedes dar a cualquiera.$h",
+	"Sat10": "Estoy tan orgulloso de mi nieta.$h#$e#Ha crecido tanto, de una dulce niña a una mujer hermosa, fuerte e independiente.$h#$b#Confío en que cuando me aleje de este mundo, mi pequeña Ysa estará bien.$h#$e#¡Me ha hecho sentir orgulloso a mí y a su abuela!$h",
+	"Sun10": "Eres un buen amigo, @.$e^Eres una buena amiga, @.$e#Gracias por pasar tiempo con un veterano como yo.$h#$b#Espero que hayas aprendido algo de todas nuestras charlas a lo largo de los días.",
 
-//Special Dialogue
-	"MovieInvitation": "Oh! I'd be honored, young man.^Oh! I'd be honored, young lady.#$b#This would take my mind off running the hotel day and night.$4#$e#I'm sure Ysa can take care of the hotel until I'm back.#$b#After all, she'll be running it one day.$h",
+//Special dialogue
+	"MovieInvitation": "¡Oh! Sería un honor, jovencito.^¡Oh! Sería un honor, jovencita.#$b#Esto me quitaría de la cabeza el llevar el hotel día y noche.#$e#Estoy seguro de que Ysa puede encargarse del hotel hasta que yo vuelva.#$b#Después de todo, ella lo llevará algún día.$h",
 	
 //Resort
-	"Resort_Entering": "Ah, this place looks perfect for a hotel.#$b#Perhaps one day...$h",
-	"Resort_Leaving": "I feel refreshed!$h#$e#Sometimes, you need a break from the everyday grind.#$b#I suppose it's time to get back to the real world.$s",
-	"Resort_Shore": "Angelika and I spent countless weekends at the beach.#$b#I've learned the hard way that you can never have too much sunscreen, ha ha ha!$h",
-	"Resort_Chair": "I've yet to be hassled by a seagull today, but it's inevitable.#$b#They sure have a way of pushing my buttons.#$e#I can't blame them, though.#$b#They're just trying to get by, like the rest of us...",
-	"Resort_Bar": "Old folks like myself need to be careful around spirits.#$e#Doesn't take much to get to me, anymore.#$b#Plus, one's got to be presentable at all times.#$b#You never know when a business offer will appear!$4",
-	"Resort": "The air feels different here.#$e#Something about the salty breeze feels invigorating!$h#$b#Maybe I should retire here?#$b#Ha ha, no, that's still a ways off.$h",
+	"Resort_Entering": "Ah, este lugar parece perfecto para un hotel.#$b#Tal vez un día...$h",
+	"Resort_Leaving": "¡Me siento renovado!$h#$e#A veces, necesitas un descanso de la rutina diaria.#$b#Supongo que es hora de volver al mundo real.$s",
+	"Resort_Shore": "Angelika y yo pasamos innumerables fines de semana en la playa.#$b#He aprendido por las malas que nunca se tiene demasiado protector solar, ¡ja, ja, ja!$h",
+	"Resort_Chair": "Todavía no me ha molestado una gaviota hoy, pero es inevitable.#$b#Seguro que tienen una manera de presionar mis botones.#$e#No puedo culparlas, sin embargo.#$b#Sólo están tratando de salir adelante, como el resto de nosotros...",
+	"Resort_Bar": "Los viejos como yo tenemos que tener cuidado con los espíritus.#$e#Ya no hace falta mucho para llegar a mí.#$b#Además, uno tiene que estar presentable en todo momento.#$b#¡Nunca se sabe cuándo aparecerá una oferta comercial!",
+	"Resort": "El aire se siente diferente aquí. ¡Algo en la brisa salada se siente vigorizante!"
 
 }

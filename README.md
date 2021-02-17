@@ -5,11 +5,20 @@ Lo que está traducido o parcialmente traducido:</br>
 - [CP] Ridgeside Village - assets - Dialogue</br>
   Aguar.json - completado por Querbis</br>
   Alissa.json - completado por Querbis</br>
+  Bert.json - completado</br>
   Corine.json - completado por BettaZero</br>
   Ezekiel.json - completado por BettaZero</br>
   Flor.json - completado por BettaZero</br>
-  Helen.json - completado por BettaZero</br>
   Freddie.json - completado por BettaZero</br>
+  Helen.json - completado por BettaZero</br>
+  Ian.json - completado por BettaZero</br>
+  Jeric.json - completado por BettaZero</br>
+  Jio.json - completado por BettaZero</br>
+  Keahi.json - completado por BettaZero</br>
+  Philip.json - completado</br>
+  Pika.json - completado</br>
+  Richard.json - completado</br>
+  Shiro.json - completado</br>
   Trinnie.json - completado</br>
   Undreya.json - completado</br>
   Ysabelle.json- completado</br>

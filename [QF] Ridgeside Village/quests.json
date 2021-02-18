@@ -1,0 +1,932 @@
+{
+  "Format": "1.0",
+
+//---------
+//QUESTS   
+//---------
+
+  "Quests": [
+  //Bert needs honey
+	{
+    "Name": "bert_honey", 
+    "Type": "ItemDelivery", 
+    "Title": "Panicking Husband",
+    "Description": "Olga está enfadada conmigo, ¡pero yo sé cómo hacerla feliz! Necesito un poco de miel para mi conejito.",
+    "Objective": "Lleva la miel a Bert",
+    "DaysLeft": 0, 
+    "Reward": 300,
+	"RewardType": "Money",
+	"RewardDescription": "300g",	
+    "Cancelable": true, 
+    "Trigger": "Bert 340 1", 
+    "ReactionText": "¡Lo has traído! ¡Muchas gracias! ¡Espero que me perdone!$h"
+    },
+	
+  //Trinnie wants flowers
+	{
+    "Name": "trinnie_sunflower", 
+    "Type": "ItemDelivery", 
+    "Title": "Sunflower Princess",
+    "Description": "¡Trinnie necesita girasoles para el vestido floral que está tratando de hacer para convertirse en la Princesa Girasol!",
+    "Objective": "Lleva 10 girasoles a Trinnie",
+    "DaysLeft": 0, 
+    "Reward": 2000,
+	"RewardType": "Money",
+	"RewardDescription": "2000g de mi papá.",	
+    "Cancelable": true, 
+    "Trigger": "Trinnie 421 10", 
+    "ReactionText": "¡Las flores están aquí! ¡¡Estoy tan feliz!! ¡Muchas gracias, @!$h"
+    },
+	
+  //Keahi wants slime
+	{
+    "Name": "keahi_slime", 
+    "Type": "ItemDelivery", 
+    "Title": "El rey Baba",
+    "Description": "Keahi quiere coleccionar babas como nuevo pasatiempo. No le digas a su padre.",
+    "Objective": "Lleva 10 babas a Keahi",
+    "DaysLeft": 0, 
+    "Reward": 500,
+	"RewardType": "Money",
+	"RewardDescription": "500g",	
+    "Cancelable": true, 
+    "Trigger": "Keahi 766 10", 
+    "ReactionText": "Estos son increíblemente viscosos. ¡Es asqueroso! Pero también son increíbles. ¡Gracias! ¡Ahora soy el Rey de las babas!$4"
+    },
+	
+  //Yuuma lost a ring
+	{
+    "Name": "yuuma_ring", 
+    "Type": "LostItem", 
+    "Title": "El anillo perdido de Yuuma",
+    "Description": "Yuuma perdió su anillo. Recuerda que todavía tenía el anillo cuando estaba comprando cosas en la granja de Jeric.",
+    "Objective": "Encuentra el anillo de Yuuma y devuélveselo",
+    "DaysLeft": 0, 
+    "Reward": 200,
+	"RewardType": "Money",
+	"RewardDescription": "200g",	
+    "Cancelable": true, 
+    "Trigger": "Yuuma 530 RidgesideVillage 19 21", 
+    "ReactionText": "¿Lo has encontrado? ¡Muchas gracias, @! ¡Estoy muy agradecido!$h"
+    },
+	
+  //Olga wants to cook Tuna
+	{
+    "Name": "olga_tuna", 
+    "Type": "ItemDelivery", 
+    "Title": "Ansiedad de atún",
+    "Description": "Los Liden tienen antojo de atún. Te han pedido que les entregues uno. Lleva el Atún a Olga.",
+    "Objective": "Entregar 1 atún a Olga",
+    "DaysLeft": 0, 
+    "Reward": 400,
+	"RewardType": "Money",
+	"RewardDescription": "400g",	
+    "Cancelable": true, 
+    "Trigger": "Olga 130 1", 
+    "ReactionText": "¡Oh, oye, lo has entregado! ¡Es fresco también! ¡Gran trabajo @!$h"
+    },
+		
+  //Aguar needs essence
+	{
+    "Name": "aguar_essence", 
+    "Type": "ItemDelivery", 
+    "Title": "Experimento de vacío",
+    "Description": "El Sr. Aguar requiere un poco de esencia sombría para su experimento.",
+    "Objective": "Entrega 10 Esencias sombrías al Sr. Aguar",
+    "DaysLeft": 0, 
+    "Reward": 1000,
+	"RewardType": "Money",
+	"RewardDescription": "1000g",	
+    "Cancelable": true, 
+    "Trigger": "Aguar 769 10", 
+    "ReactionText": "Maravilloso trabajo, @. Aquí está mi pago. Ahora, si me disculpas..."
+    },
+	
+  //Freddie lost his sword
+	{
+    "Name": "freddie_sword", 
+    "Type": "LostItem", 
+    "Title": "Un viejo amiga",
+    "Description": "Freddie perdió una vieja espada suya mientras paseaba por la aldea. Recuerda que estaba junto a una cascada.",
+    "Objective": "Encuentra la espada de Freddie y devuélvesela",
+    "DaysLeft": 0, 
+    "Reward": 500,
+	"RewardType": "Money",
+	"RewardDescription": "500g",	
+    "Cancelable": true, 
+    "Trigger": "Freddie 109 RidgesideVillage 65 108", 
+    "ReactionText": "Aquí tienes viejo amigo. ¡Gracias, @!$h^Aquí tienes vieja amiga. ¡Gracias, @!$h"
+    },
+	
+  //Pika needs mayonnaise
+	{
+    "Name": "pika_mayonnaise", 
+    "Type": "ItemDelivery", 
+    "Title": "Mayo Surprise",
+    "Description": "Pika necesita mayonesa para su nueva receta y te ha pedido que le entregues una.",
+    "Objective": "Entregar 1 mayonesa a Pika",
+    "DaysLeft": 0, 
+    "Reward": 600,
+	"RewardType": "Money",
+	"RewardDescription": "600g",	
+    "Cancelable": true, 
+    "Trigger": "Pika 306 1", 
+    "ReactionText": "¡Mahalo, @! ¡Gracias! ¡Esta es una mayonesa de calidad! ¡Aquí está tu pago, como prometí!$h"
+    },
+	
+  //Richard lost his glasses
+	{
+    "Name": "richard_glasses", 
+    "Type": "LostItem", 
+    "Title": "Gafas extraviadas",
+    "Description": "¡Richard extravió sus gafas! Lo único que recuerda es que no salió del hotel en todo el día.",
+    "Objective": "Encuentra las gafas de Richard y devuélveselas.",
+    "DaysLeft": 0, 
+    "Reward": 300,
+	"RewardType": "Money",
+	"RewardDescription": "300g",	
+    "Cancelable": true, 
+    "Trigger": "Richard 170 LogCabinHotel2ndFloor 1 24", 
+    "ReactionText": "¿Las has encontrado? ¡Ah! ¡Estoy eternamente agradecido, @!$h"
+    },
+	
+//RSVBoardQuests
+	{
+	"Name": "aguar_gem",
+	"Type": "ItemDelivery",
+	"Title": "Recado de aguamarina",
+	"Description": "Necesito una aguamarina. Me aseguraré de pagarle mucho si me proporciona lo que deseo.\n        -Sr. Aguar.\n\n- 400g en la entrega\n- El Sr. Aguar estará agradecido",
+	"Objective": "Entregar una aguamarina al Sr. Aguar",
+	"DaysLeft": 0,
+	"Reward": 400,
+	"RewardType": "Money",
+	"RewardDescription": "400g",
+	"Cancelable": true,
+	"ReactionText": "Esto es adecuado. Aquí está su pago. Ahora, si me disculpa...",
+	"Trigger": "Aguar 62",
+	"FriendshipGain": { "Aguar": 25 },
+	},
+	{
+	"Name": "aguar_fairystone",
+	"Type": "ItemDelivery",
+	"Title": "Recado de la piedra hada",
+	"Description": "Necesito una piedra hada. Me aseguraré de pagarte mucho si me proporcionas lo que deseo.\n        -Sr. Aguar.\n\n- 500g en la entrega\n- El Sr. Aguar estará agradecido",
+	"Objective": "Entregar una piedra hada al Sr. Aguar",
+	"DaysLeft": 0,
+	"Reward": 500,
+	"RewardType": "Money",
+	"RewardDescription": "500g",
+	"Cancelable": true,
+	"ReactionText": "Esto es adecuado. Aquí está su pago. Ahora, si me disculpa...",
+	"Trigger": "Aguar 577",
+	"FriendshipGain": { "Aguar": 25 },
+	},
+	{
+	"Name": "bert_orange",
+	"Type": "ItemDelivery",
+	"Title": "El hombre naranja Bert",
+	"Description": "Quiero montar un negocio de zumos de naranja. Necesito que alguien me suministre algunas naranjas... ¡Al menos 3 de ellas!\n        -Bert.\n\n- 900g en la entrega\n- Bert estará agradecido",
+	"Objective": "Entrega 5 naranjas a Bert",
+	"DaysLeft": 0,
+	"Reward": 900,
+	"RewardType": "Money",
+	"RewardDescription": "900g",
+	"Cancelable": true,
+	"ReactionText": "¿Naranja te alegras de que no haya pedido plátanos? ¡Muchas gracias, @!",
+	"Trigger": "Bert 635 3",
+	},
+	{
+	"Name": "ezekiel_cavecarrot",
+	"Type": "ItemDelivery",
+	"Title": "Un sabor nostálgico",
+	"Description": "Hacía mucho tiempo que no probaba una zanahoria cavernaria. Si alguien me trae alguna le daré unas monedas.\n        -Ezekiel.\n\n- 200g en la entrega\n- Ezekiel estará agradecido",
+	"Objective": "Entrega una zanahoria cavernaria a Ezekiel",
+	"DaysLeft": 0,
+	"Reward": 200,
+	"RewardType": "Money",
+	"RewardDescription": "200g",
+	"Cancelable": true,
+	"ReactionText": "Bah, esto sabe asqueroso. Creo que no me gusta la zanahoria para esto..$a",
+	"Trigger": "Ezekiel 78",
+	"FriendshipGain": { "Ezekiel": 25 },
+	},
+	{
+	"Name": "freddie_shadowbrute",
+	"Type": "Monster",
+	"Title": "Bestias de las sombras",
+	"Description": "Las Bestias de las sombras son peligrosas bestias salvajes. Mata a algunas Bestias de las sombras para traer la paz al valle. Adelante, joven aventurero.\n        -Freddie.\n\n- 3000g al completar",
+	"Objective": "Mata a 10 Bestias de las sombras",
+	"DaysLeft": 0,
+	"Reward": 3000,
+	"RewardType": "Money",
+	"RewardDescription": "3000g",
+	"Cancelable": true,
+	"Trigger": "Shadow_Brute 10 Freddie",
+	"FriendshipGain": { "Freddie": 25 },
+	},
+	{
+	"Name": "freddie_pepperrex",
+	"Type": "Monster",
+	"Title": "Un maravilloso pasatiempo",
+	"Description": "¿Alguien ha oído hablar del Pimienta Rex? ¡Son muy divertidos de cazar! Desafío a cualquiera a matar 10 de ellos y le recompensaré generosamente. ¡Buena suerte!.\n        -Freddie.\n\n- 4000g al completar",
+	"Objective": "Mata a 10 Pimienta Rex",
+	"DaysLeft": 0,
+	"Reward": 4000,
+	"RewardType": "Money",
+	"RewardDescription": "4000g",
+	"Cancelable": true,
+	"Trigger": "Pepper_Rex 10 Freddie",
+	"FriendshipGain": { "Freddie": 25 },
+	},
+	{
+	"Name": "keahi_tomato",
+	"Type": "ItemDelivery",
+	"Title": "Toe May Toe",
+	"Description": "¿Puede alguien traerme un tomate grande y jugoso? Es para un proyecto secreto.\n        -Keahi.\n\n- 200g en la entrega\n- Keahi estará agradecido\n- Keahi no te lastimará",
+	"Objective": "Entregar un tomate a Keahi",
+	"DaysLeft": 0,
+	"Reward": 200,
+	"RewardType": "Money",
+	"RewardDescription": "200g",
+	"Cancelable": true,
+	"ReactionText": "¡Es perfecto, @! ¡Esto va a ser épico!$h",
+	"Trigger": "Keahi 256",
+	"FriendshipGain": { "Keahi": 25 },
+	},
+	{
+	"Name": "keahi_bomb",
+	"Type": "ItemDelivery",
+	"Title": "Una broma inofensiva",
+	"Description": "Así que... mi padre no me compra una bomba. ¡Así que he publicado esto en su lugar! ¡Si alguien tiene una, tráigame una y le pagaré con mis ahorros! ¡Rápido! ¡Antes de que quiten esto de nuevo!.\n        -Keahi.\n\n- 1000g en la entrega\n- Keahi estará agradecido\n- Los aldeanos se preocuparán",
+	"Objective": "Entregar una bomba a Keahi",
+	"DaysLeft": 0,
+	"Reward": 1000,
+	"RewardType": "Money",
+	"RewardDescription": "1000g",
+	"Cancelable": true,
+	"ReactionText": "Nadie te vio, ¿verdad? ¡Impresionante! ¡Nos vemos, @! ¡Gracias de nuevo!$h",
+	"Trigger": "Keahi 287",
+	"FriendshipGain": { "Keahi": 25 },
+	},
+	{
+	"Name": "lenny_eggplant",
+	"Type": "ItemDelivery",
+	"Title": "Ensalada saludable",
+	"Description": "Vi esta intrigante receta para una ensalada de berenjena y requiere una berenjena. Tráeme una berenjena. ¡Yo pago! .\n        -Lenny.\n\n- 200g en la entrega\n- Lenny estará agradecida",
+	"Objective": "Entrega una berenjena a Lenny",
+	"DaysLeft": 0,
+	"Reward": 500,
+	"RewardType": "Money",
+	"RewardDescription": "200g",
+	"Cancelable": true,
+	"ReactionText": "¡Por fin está aquí! ¡Muchas gracias, @! ¡Voy a tener una cena saludable esta noche!$h",
+	"Trigger": "Lenny 272",
+	"FriendshipGain": { "Lenny": 25 },
+	},
+	{
+	"Name": "lenny_wine",
+	"Type": "ItemDelivery",
+	"Title": "Aliviador del estrés",
+	"Description": "¿Puede alguien traerme un poco de vino? Necesito desestresarme. No puedo prometer que no me termine toda la botella en una noche.\n        -Lenny.\n\n- 1000g en la entrega\n- Lenny estará agradecida",
+	"Objective": "Entregar un vino a Lenny",
+	"DaysLeft": 0,
+	"Reward": 1000,
+	"RewardType": "Money",
+	"RewardDescription": "1000g",
+	"Cancelable": true,
+	"ReactionText": "¡Ah! ¡He estado anhelando esto! Gracias, @.",
+	"Trigger": "Lenny 348",
+	"FriendshipGain": { "Lenny": 25 },
+	},
+	{
+	"Name": "lola_hauntedskull",
+	"Type": "Monster",
+	"Title": "Lo mejor de lo mejor",
+	"Description": "¿Alguien se apunta a un reto? Te pagaré con creces si consigues matar 20 Calaveras encantadas. Sé amable y mata algunas por mí.\n        -Lola.\n\n- 10000g al completar",
+	"Objective": "Mata a 20 Calaveras encantadas",
+	"DaysLeft": 0,
+	"Reward": 10000,
+	"RewardType": "Money",
+	"RewardDescription": "10000g",
+	"Cancelable": true,
+	"Trigger": "Haunted_Skull 20 Lola",
+	"FriendshipGain": { "Lola": 25 },
+	},
+	{
+	"Name": "lola_slime",
+	"Type": "Monster",
+	"Title": "Cazador de babas",
+	"Description": "Estoy harta de todos estas babas. Mata un par de babas verdes por mí, cariño. Te pagaré. \n        -Lola.\n\n- 750g al completar",
+	"Objective": "Matar 10 babas verdes",
+	"DaysLeft": 0,
+	"Reward": 750,
+	"RewardType": "Money",
+	"RewardDescription": "750g",
+	"Cancelable": true,
+	"Trigger": "Green_Slime 10 Lola",
+	"FriendshipGain": { "Lola": 25 },
+	},
+	{
+	"Name": "olga_coffee",
+	"Type": "ItemDelivery",
+	"Title": "Taza de café",
+	"Description": "Creo que voy a probar el café. Me estoy cansando de tomar té todo el día. Pagaré.\n        -Olga.\n\n- 250g en la entrega\n- Olga estará agradecida",
+	"Objective": "Entregar café a Olga",
+	"DaysLeft": 0,
+	"Reward": 250,
+	"RewardType": "Money",
+	"RewardDescription": "250",
+	"Cancelable": true,
+	"ReactionText": "¡Gracias, @! ¡Esto es mucho mejor que el té!",
+	"Trigger": "Olga 395",
+	"FriendshipGain": { "Olga": 30 },
+	},
+	{
+	"Name": "pika_cheese",
+	"Type": "ItemDelivery",
+	"Title": "Memoria de queso",
+	"Description": "Necesito un poco de queso para hacer un plato de mi infancia. Quiero que mi hijo pruebe el plato que me hizo apasionarme por la cocina.\n        -Pika.\n\n- 800g en la entrega\n- Pika estará agradecido",
+	"Objective": "Entregar queso a Pika",
+	"DaysLeft": 0,
+	"Reward": 800,
+	"RewardType": "Money",
+	"RewardDescription": "800g",
+	"Cancelable": true,
+	"ReactionText": "¡Mahalo! ¡Gracias! ¡No puedo esperar para empezar a cocinar!$h",
+	"Trigger": "Pika 424",
+	"FriendshipGain": { "Pika": 25 },
+	},
+	{
+	"Name": "pika_starfruit",
+	"Type": "ItemDelivery",
+	"Title": "Plato de la isla Brasas",
+	"Description": "Llevo tiempo echando de menos cierto plato de la Isla de las Brasas. Pero necesito una Carambola. Si alguien puede traerme una estaré muy agradecido.\n        -Pika.\n\n- 2000g en la entrega\n- Pika estará agradecido",
+	"Objective": "Entregar una Carambola a Pika",
+	"DaysLeft": 0,
+	"Reward": 2000,
+	"RewardType": "Money",
+	"RewardDescription": "2000g",
+	"Cancelable": true,
+	"ReactionText": "¡Mahalo! ¡Gracias! ¡He estado buscando esto por todas partes! ¡Gracias una vez más, @!$h",
+	"Trigger": "Pika 268",
+	"FriendshipGain": { "Pika": 100 },
+	},
+	{
+	"Name": "richard_caviar",
+	"Type": "ItemDelivery",
+	"Title": "Cocina cara",
+	"Description": "Estoy planeando añadir algunos platos más para el menú del servicio de habitaciones del hotel. Uno de los huéspedes ha sugerido caviar. Tráeme un poco. Pagaré generosamente.\n        -Richard.\n\n- 3000g en la entrega\n- Richard estará agradecido",
+	"Objective": "Entregar caviar a Richard",
+	"DaysLeft": 0,
+	"Reward": 3000,
+	"RewardType": "Money",
+	"RewardDescription": "3000g",
+	"Cancelable": true,
+	"ReactionText": "¡Este es caviar de buena calidad, @! Estoy muy agradecido.$h",
+	"Trigger": "Richard 445",
+	"FriendshipGain": { "Richard": 30 },
+	},
+	{
+	"Name": "richard_bat",
+	"Type": "Monster",
+	"Title": "¡Maldición, murciélagos!",
+	"Description": "Los murciélagos han estado rondando el hotel por la noche últimamente. Son espeluznantes. Necesito que alguien mate a varios de ellos en las minas para que dejen de sobrevolar.\n        -Richard.\n\n- 1000g en la entrega\n- Richard estará agradecido",
+	"Objective": "Matar 20 murciélagos",
+	"DaysLeft": 0,
+	"Reward": 1000,
+	"RewardType": "Money",
+	"RewardDescription": "1000g",
+	"Cancelable": true,
+	"Trigger": "Bat 20 Richard",
+	"FriendshipGain": { "Richard": 25 },
+	},
+	{
+	"Name": "trinnie_pinkcake",
+	"Type": "ItemDelivery",
+	"Title": "Sueño rosa",
+	"Description": "Anoche tuve un sueño en el que vivía en un enorme castillo, que estaba hecho de pastel... ¡Y era de color ROSA! Entonces me desperté y ahora quiero comer pastel rosa. ¡Papá me dio dinero para pagar la entrega!\n        -Trinnie.\n\n- 600g en la entrega\n- ¡Trinnie estará agradecida",
+	"Objective": "Entregar pastel rosa a Trinnie",
+	"DaysLeft": 0,
+	"Reward": 600,
+	"RewardType": "Money",
+	"RewardDescription": "600g",
+	"Cancelable": true,
+	"ReactionText": "Sí, ya está aquí. ¡Ya está aquí! ¡Muchas gracias, @! ¡Aquí está el dinero!$h",
+	"Trigger": "Trinnie 221",
+	"FriendshipGain": { "Trinnie": 30 },
+	},
+	{
+	"Name": "trinnie_poppy",
+	"Type": "ItemDelivery",
+	"Title": "Dibujo de amapola",
+	"Description": "¡Necesito una amapola! ¡Me cuesta mucho dibujar una! ¡Que alguien me traiga una, por favor! ¡Gracias!\n        -Trinnie.\n\n- 400g en la entrega\n- Trinnie estará agradecida",
+	"Objective": "Amapola para Trinnie",
+	"DaysLeft": 0,
+	"Reward": 400,
+	"RewardType": "Money",
+	"RewardDescription": "400g",
+	"Cancelable": true,
+	"ReactionText": "¡Oh! ¡Se ve bonita! ¡Gracias, @! ¡Comenzaré a dibujar lo antes posible!$h",
+	"Trigger": "Trinnie 376",
+	"FriendshipGain": { "Trinnie": 50 },
+	},
+	{
+	"Name": "yuuma_burger",
+	"Type": "ItemDelivery",
+	"Title": "Deseo de un niño",
+	"Description": "Está bien si nadie acepta esto. Pero si alguien puede, sólo quiero volver a probar una hamburguesa de supervivencia, hace tanto tiempo que no la pruebo. Pero sí... no es gran cosa. Gracias.\n        -Yuuma.\n\n- 300g en la entrega\n- Yuuma estará agradecido.",
+	"Objective": "Entrega una hamburguesa de supervivencia a Yuuma",
+	"DaysLeft": 0,
+	"Reward": 300,
+	"RewardType": "Money",
+	"RewardDescription": "300g",
+	"Cancelable": true,
+	"ReactionText": "¡Llevo mucho tiempo queriendo esto! ¡Muchas gracias, @!$h",
+	"Trigger": "Yuuma 241",
+	"FriendshipGain": { "Yuuma": 30 },
+	},
+	{
+	"Name": "yuuma_iron",
+	"Type": "ItemDelivery",
+	"Title": "El columpio roto",
+	"Description": "Shiro quiere arreglar el columpio delante de la casa pero no le dejo. Así que lo haré yo en su lugar, pero necesito un lingote hierro. ¿Puede alguien traerme alguno? Yo pagaré... Lo prometo. Gracias.\n        -Yuuma.\n\n- 300g en la entrega\n- Yuuma estará agradecido",
+	"Objective": "Entrega un lingote de hierro a Yuuma",
+	"DaysLeft": 0,
+	"Reward": 300,
+	"RewardType": "Money",
+	"RewardDescription": "300g",
+	"Cancelable": true,
+	"ReactionText": "Gracias por esto, @, me alegro de que me hayas ayudado. Me daba un poco de miedo entrar en las minas a buscarlo yo mismo.",
+	"Trigger": "Yuuma 335",
+	"FriendshipGain": { "Yuuma": 30 },
+	},
+	
+//Ridge Quests
+	{
+	"Name": "mysticfalls_1",
+	"Type": "Location",
+	"Title": "Las cascadas del Compañerismo",
+	"Description": "En el Bosque de la Cresta hay indicios de una cascada subterránea. Se rumorea que bendice a los que valoran la amistad.",
+	"Objective": "Encuentre las cascadas ocultas con un exuberante follaje verde en el Bosque de la cresta",
+	"DaysLeft": 0,
+	"Reward": "Prismatic Shard",
+	"RewardType": "Object",
+	"RewardDescription": "Una rara piedra de colores",
+	"Cancelable": false,
+	"Trigger": "MysticFalls1",
+	},
+	{
+	"Name": "mysticfalls_2",
+	"Type": "Location",
+	"Title": "Las cascadas del amor",
+	"Description": "En el Bosque de la Cresta hay indicios de una cascada subterránea. Se rumorea que bendice a los que valoran el amor.",
+	"Objective": "Encuentra las cascadas ocultas rodeadas de árboles rosas y arena en el Bosque de la Cresta",
+	"DaysLeft": 0,
+	"Reward": 500,
+	"RewardType": "Money",
+	"RewardDescription": "El cariño de los solteros y solteras del valle",
+	"Cancelable": false,
+	"Trigger": "MysticFalls2",
+	"FriendshipGain": { 
+		"Alissa": 250,
+		"Corine": 250,
+		"Flor": 250,
+		"Maddie": 250,
+		"Ysabelle": 250,
+		"Abigail": 250,
+		"Maru": 250,
+		"Emily": 250,
+		"Haley": 250,
+		"Penny": 250,
+		"Leah": 250,
+		"Ian": 250,
+		"Jeric": 250,
+		"Kenneth": 250,
+		"Philip": 250,
+		"Shiro": 250,
+		"Alex": 250,
+		"Elliott": 250,
+		"Harvey": 250,
+		"Sam": 250,
+		"Sebastian": 250,
+		"Shane": 250,
+		},
+	},
+	{
+	"Name": "mysticfalls_3",
+	"Type": "Location",
+	"Title": "Las cataratas del sacrificio",
+	"Description": "En el Bosque de la Cresta se pueden encontrar indicios de una cascada subterránea. Se rumorea que bendice a los que sienten curiosidad por lo invisible.",
+	"Objective": "Encuentra las cascadas ocultas rodeadas de oscuridad en el Bosque de la Cresta",
+	"DaysLeft": 0,
+	"Reward": "Obsidian Edge",
+	"RewardType": "Weapon",
+	"RewardDescription": "Obsidiana",
+	"Cancelable": false,
+	"Trigger": "MysticFalls3",
+	},
+	
+	//Minecarft Restoration
+	  //Wood x 200
+	{
+    "Name": "lenny_minecart1", 
+    "Type": "ItemDelivery", 
+    "Title": "¡Restauración de las Vagonetas Ridge!",
+    "Description": "Lenny te ha dado detalles de los materiales necesarios para arreglar las Vagonetas.",
+    "Objective": "Entregar 200 unidades de madera a Lenny",
+    "DaysLeft": 0, 	
+    "Cancelable": false, 
+    "Trigger": "Lenny 388 200", 
+    "ReactionText": "¡Esto será suficiente, @! ¡Gran trabajo! Ahora, aquí está la siguiente lista de materiales.",
+	"NextQuests": [ "lenny_minecart2" ]
+    },
+	  //Iron x 10
+	{
+    "Name": "lenny_minecart2", 
+    "Type": "ItemDelivery", 
+    "Title": "¡Restauración de las Vagonetas Ridge!",
+    "Description": "Lenny te ha dado detalles del siguiente material necesario para arreglar las Vagonetas.",
+    "Objective": "Entrega 10 lingotes de hierro a Lenny",
+    "DaysLeft": 0, 	
+    "Cancelable": false, 
+    "Trigger": "Lenny 335 10", 
+    "ReactionText": "¡Woah! ¡Los tienes! ¡Nos estamos acercando! Bien, esto es lo último que necesitamos...",
+	"NextQuests": [ "lenny_minecart3" ]
+    },
+	  //Gold x 5
+	{
+    "Name": "lenny_minecart3", 
+    "Type": "ItemDelivery", 
+    "Title": "¡Restauración de las Vagonetas Ridge!",
+    "Description": "Lenny te ha dado detalles del último material necesario para arreglar las Vagonetas.",
+    "Objective": "Entregar 5 lingotes de oro a Lenny",
+    "DaysLeft": 0, 	
+    "Cancelable": false, 
+    "Trigger": "Lenny 336 5", 
+    "ReactionText": "¡Impresionante! ¡Por fin podemos terminarlas! ¡Muchas gracias por tu duro trabajo, @! Vuelve aquí pronto para ver el sistema de Vagonetas terminado, ¿vale?$h",
+	"ConversationTopic": {
+		"AddWhenQuestCompleted": "RSV_startminecartfix 10"
+		}
+    },
+  ],
+
+ 
+//---------
+//OFFERS   
+//---------
+  
+  "Offers": [
+	{
+      "QuestName": "bert_honey",
+      "OfferedBy": "Bulletinboard",
+      "When": {
+        "Days": "21",
+        "Seasons": "spring",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+	{
+      "QuestName": "trinnie_sunflower",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+        "Topic": "Princesa Girasol",
+        "Text": "Hola @,^ Habla Trinnie. Quería preguntarte si podrías traerme algunos Girasoles. Es porque quiero convertirme en la Princesa Girasol... Escuché a Keahi decir que los Girasoles son bonitos y una Princesa Girasol será aún más bonita. Así que tal vez me haga un vestido floral con girasoles de verdad. ^¡Papá dijo que te pagará! ¡Gracias, @!^     - Trinnie"
+      },
+      "When": {
+        "Seasons": "fall",
+        "Days": "5",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+    {
+      "QuestName": "keahi_slime",
+      "OfferedBy": "NPC",
+      "OfferDetails": {
+        "NpcName": "Keahi", 
+        "DialogueText": "¡Hey @! Vas a las minas, ¿verdad? ¿Luchas contra las babas y esas cosas?#$b#Si por casualidad encontraste algunas babas, ¿puedes darme algunas?$h#$b#¡Creo que empezaré un nuevo hobby y me convertiré en el Rey de las babas!$h#$b#¡Voy a impresionar a Ysabelle!$h#$b#¿Puedes traerme un poco? ¡Gracias!$h"
+      },
+      "When": {
+        "Days": "10",
+        "Seasons": "summer fall winter",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+	{
+      "QuestName": "yuuma_ring",
+      "OfferedBy": "NPC",
+      "OfferDetails": {
+        "NpcName": "Yuuma", 
+        "DialogueText": "Uhhmm... ¿Hey @? ¿Puedo pedirte ayuda?$s#$b#He perdido mi anillo... Un anillo que mi mamá me dio hace mucho tiempo. No lo encuentro. Esperaba que me ayudaras.$s#$b#¡Te pagaré! ¡Lo prometo! No puedo dejar a Shiro solo mientras voy a buscarlo...$s#$b#¡Por favor, encuéntralo, @!$s"
+      },
+      "When": {
+        "FriendshipLevel": "Yuuma 2",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+	{
+      "QuestName": "olga_tuna",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+        "Topic": "Olga pide atún",
+        "Text": "Hola @,^ Me gustaría pedir un Atún. A mi familia se le antoja un plato de Atún desde hace tiempo y nos gustaría comprarte uno. Estamos dispuestos a pagar el envío. ¡Esperamos tener noticias tuyas pronto!^^    - Olga Liden"
+      },
+      "When": {
+        "FriendshipLevel": "Olga 4",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+		
+	{
+      "QuestName": "aguar_essence",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+        "Topic": "Aguar pide esencia",
+        "Text": "@, ^Requiero su ayuda para recoger algo de esencia sombría para mi próximo proyecto de investigación. No quiero arruinar mi tapadera, así que necesito confiar en usted. Espero su entrega. Por supuesto habrá un beneficio monetario.^^- Sr. Aguar, RSV WRF"
+      },
+      "When": {
+        "FriendshipLevel": "Aguar 4",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+	{
+      "QuestName": "freddie_sword",
+      "OfferedBy": "NPC",
+      "OfferDetails": {
+        "NpcName": "Freddie", 
+        "DialogueText": "Ahora... ¿dónde puse esa cosa vieja?$s#$b#Oh, hola, jovencito.$h^Oh, hola, jovencita.$h#$b#Lo siento. Estaba pensando en mi espada.$s#$b#Estaba paseando por el pueblo el otro día y parece que la he extraviado.$s#$b#Lo último que recuerdo es que estaba junto a las cascadas, pero no recuerdo en cuál.$s#$b#Oh, espero que nadie se haga daño cuando la encuentre, es bastante afilada.$s#$b#Si consigues encontrarla, @, te pagaré por traérmela.$s"
+      },
+      "When": {
+        "FriendshipLevel": "Freddie 4",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+	{
+      "QuestName": "pika_mayonnaise",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+        "Topic": "Pika quiere mayonesa",
+        "Text": "¡Aloha, @!, ^He estado pensando en una receta para un nuevo plato y he estado luchando para encontrar una mayonesa decente para acompañarlo. Verás, ¡la mayonesa será el ingrediente secreto! Esperaba que pudieras entregarme una. Te pagaré por la mayonesa junto con una pequeña tarifa de entrega.^^- Pika"
+      },
+      "When": {
+        "FriendshipLevel": "Pika 6",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+	{
+      "QuestName": "richard_glasses",
+      "OfferedBy": "NPC",
+      "OfferDetails": {
+        "NpcName": "Richard", 
+        "DialogueText": "Saludos, @. Necesito un favor, si te parece bien.#$b#Parece que he extraviado mis lentes y me cuesta un poco encontrarlas porque.... No puedo ver muy bien sin ellas.#$b#Lo único que sé es que no salí del hotel en todor el día. Te pagaré por las molestias."
+      },
+      "When": {
+        "FriendshipLevel": "Richard 6",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+//RSVBoard Offers
+	{
+	"QuestName": "aguar_gem",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "aguar_fairystone",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "bert_orange",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring summer",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "ezekiel_cavecarrot",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "freddie_shadowbrute",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "freddie_pepperrex",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "keahi_tomato",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring summer",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "keahi_bomb",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "lenny_eggplant",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "lenny_wine",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "lola_hauntedskull",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "lola_slime",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "olga_coffee",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring summer",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "pika_starfruit",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "pika_cheese",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "richard_caviar",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "richard_bat",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "trinnie_poppy",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring summer",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "trinnie_pinkcake",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "yuuma_burger",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "spring fall",
+		"Random": 10,
+		}
+	},
+	{
+	"QuestName": "yuuma_iron",
+	"OfferedBy": "Board:RSVQuestBoard",
+	"When": {
+		"Seasons": "summer winter",
+		"Random": 10,
+		}
+	},
+	
+//NinjaBoard Quests
+	{
+	"QuestName": "mysticfalls_1",
+	"OfferedBy": "Board:RSVNinjaBoard",
+	"When": {
+		"QuestNeverCompleted": "yes"
+		}
+	},
+	{
+	"QuestName": "mysticfalls_2",
+	"OfferedBy": "Board:RSVNinjaBoard",
+	"When": {
+		"QuestNeverCompleted": "yes"
+		}
+	},
+	{
+	"QuestName": "mysticfalls_3",
+	"OfferedBy": "Board:RSVNinjaBoard",
+	"When": {
+		"QuestNeverCompleted": "yes"
+		}
+	},
+	
+//Unlock Minecarft Offer
+	{
+      "QuestName": "lenny_minecart1",
+      "OfferedBy": "Mail",
+      "OfferDetails": {
+        "Topic": "Restauración de las Vagonetas Ridge",
+        "Text": "Hola @, ^Para la restauración del sistema de Vagonetas que necesitamos: 200 unidades de madera. ^Puedes entregármelas cuando las hayas reunido todas.^^- Lenny"
+      },
+      "When": {
+        "EventSeen": "75160189",
+		"QuestNeverCompleted": "yes"
+      }
+    },
+	
+  ],
+  
+  
+//---------
+//QUESTBOARD   
+//---------
+
+"CustomBoards": [
+
+	{
+    "BoardName": "RSVQuestBoard",
+    "BoardType": "Quests",
+    "Location": "RidgesideVillage",
+    "Tile": "109,40",
+    "IndicatorOffset": "10,-20",
+    "Texture": "LooseSprites/RSVQuestBoard"
+    },
+	{
+	"BoardName": "RSVNinjaBoard",
+	"BoardType": "Quests",
+	"Location": "RSVNinjaHouse",
+	"Tile": "6,6",
+	"Texture": "LooseSprites/RSVNinjaBoard",
+	"IndicatorOffset": "0,-1",
+	"UnlockWhen": {
+		"EventSeen": "75160187",
+		}
+	}
+]
+
+}

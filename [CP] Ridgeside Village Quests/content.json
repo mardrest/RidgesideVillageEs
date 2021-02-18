@@ -1,0 +1,25 @@
+{
+	"Format": "1.19.0",
+
+	"Changes": [
+
+	{
+		"Action": "EditData",
+		"Target": "Data/Events/RidgesideVillage",
+		"Entries": {
+			//Plot unlock
+			"75160189/H/z spring/w sunny": "continue/69 29/farmer 74 30 3 Lenny 69 30 0/pause 500/move farmer -3 0 3/emote Lenny 16/pause 500/faceDirection Lenny 1/pause 500/speak Lenny \"Oh, me alegro de verte, @.$h#$b#Hace un día tan bonito, ¿verdad?\"/emote farmer 32/pause 500/faceDirection farmer 0/pause 500/emote farmer 8/pause 500/faceDirection Lenny 0/pause 500/speak Lenny \"Oh, supongo que te estás preguntando ¿qué es eso?#$b#Bueno, ¡es un viejo sistema de carros de minas que conecta Pueblo Pelícano con Ridgeside Village!#$b#Ha sido descuidado por un tiempo.#$b#Esto se suponía que era usado en caso de emergencia.$s#$b#Ya sabes...  En caso de que la guerra llegara a las costas del Valle.$s#$b#Sin embargo, tal y como están las cosas, se está oxidando lenta pero inexorablemente.#$b#Sin mencionar que carecemos de fondos y suministros para arreglarlo.\"/emote farmer 32/faceDirection farmer 3/faceDirection Lenny 1/speak Lenny \"Acerquémonos, ¿sí?\"/pause 500/faceDirection farmer 0/move Lenny 0 -3 0/globalFade/viewport -1000 -1000/warp farmer 70 21/warp Lenny 68 21/fade/viewport 69 19/pause 500/move farmer 0 -1 0 true/move Lenny 0 -1 0 true/pause 1000/emote Lenny 56/speak Lenny \"Hmmm...$s#$b#Me pregunto...$s\"/emote Lenny 40/pause 1000/emote Lenny 56/emote farmer 8/faceDirection farmer 3/pause 500/faceDirection Lenny 1/speak Lenny \"¿Qué tal si hacemos de esto nuestro proyecto favorito?$h#$b#¡Podemos restaurar el sistema de Vagonetas juntos!^¡Podemos restaurar el sistema de Vagonetas juntas!#$b#Quiero decir... ahora mismo es sólo un desperdicio de espacio.$s#$b#¡Es un bien inmueble gratuito!$4#$b#También puede servir como un método de transporte más rápido para ti y los aldeanos.$h#$b#¡Bueno, eso si tienes las agallas para sentarte dentro del viejo carro desvencijado, ja!$4#$b#¡Bromeando, bromeando!$h\"/emote farmer 28/speak Lenny \"¡Que bien! Esto es lo que debemos hacer...\"/faceDirection Lenny 0/pause 500/faceDirection Lenny 1/speak Lenny \"Te daré una lista de materiales. Tú reúnes esos materiales y me los das.#$b#Yo contrataré a unos contratistas para que lo arreglen y se encarguen del papeleo.#$b#¿Trato?$h#$b#¡Quizás hasta ahorremos algo de dinero si lo hacemos de forma eficiente!$h\"/emote farmer 32/emote Lenny 56/speak Lenny \"¡Excelente!$h#$b#Le enviaré los detalles por correo mañana por la mañana!$h#$b#¡Un placer hacer negocios contigo, @!$h#$b#Estoy esperando el proyecto de restauración de las Vagonetas.$h\"/emote farmer 56/pause 500/faceDirection farmer 0/faceDirection Lenny 0/pause 1000/end position 69 21",
+		}
+	},
+	{
+		//Load Minecart Fix
+		"LogName": "Minecart Fix",
+		"Action": "EditData",
+		"Target": "Data/Events/RidgesideVillage",
+		"Entries": {
+			"75160190/w sunny/H/e 75160189": "SettlingIn/69 18/farmer 70 20 0 Lenny 68 20 0 Robin 69 16 0 Ian 70 16 0 Clint 67 16 1/pause 500/move farmer 0 -1 0 true/move Lenny 0 -1 0 true/emote Robin 56/pause 500/emote Ian 28/emote Clint 56/speak Robin \"¡Creo que hemos terminado!$h#$b#¡Buen trabajo, todos!$h\"/speak Ian \"¡Woah, no fue un trabajo fácil!$h\"/faceDirection Clint 2/speak Clint \"Hola Lenny y @.#$b#¡Acabamos de terminar de restaurar el sistema de Vagonetas!$h\"/faceDirection Robin 2/faceDirection Ian 2/emote Lenny 56/speak Lenny \"¡Oh, Dios! ¡Excelente trabajo, equipo!$h\"/move Robin 0 1 2/speak Robin \"Bueno, no habría sido posible sin los suministros de @!#$b#Gracias, @.$h\"/emote farmer 32/speak Robin \"¡Ah, Lenny! También hemos arreglado las otras Vagonetas en el huerto Ruiseñor.$h#$b#Resulta que ese era aún más difícil de arreglar...$s\"/speak Lenny \"¡Es una noticia fantástica!#$b#Ahora será aún más fácil desplazarse.$h#$b#¡Muchas gracias Robin, Clint e Ian!$h\"/emote Clint 32/speak Clint \"No hay problema, Lenny.#$b#Me alegro de haber podido participar.#$b#Por fin, algo más emocionante que abrir geodas o mejorar herramientas de mala calidad...$h\"/speak Ian \"Ahora puedo hacer los recados mucho más rápido.$h\"/speak Lenny \"¡Ten cuidado, Ian! ¡Todavía te necesito para otras cosas, jaja!$4#$b#¡Muy bien amigos, eso es todo por hoy!$h\"/emote farmer 32/pause 1000/end position 69 21",
+		},
+		"When": { "HasConversationTopic: hostPlayer": "RSV_startminecartfix" }
+	},
+],
+}
